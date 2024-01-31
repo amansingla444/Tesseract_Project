@@ -1,41 +1,42 @@
-from pytesseract import image_to_string
-from difflib import SequenceMatcher
+import Levenshtein
+import pytesseract
+from PIL import Image
 
-def calculate_metrics(ground_truth, recognized_text):
-    """
-    Calculate accuracy, precision, recall, and F1 score.
-    """
-    correct_chars = sum(a == b for a, b in zip(ground_truth, recognized_text))
-    total_chars = len(ground_truth)
-    recognized_chars = len(recognized_text)
+def ocr_image(image_path):
+    # Perform OCR on the image using pytesseract
+    language_model = '/best/deu-latest-u'
+    recognized_text = pytesseract.image_to_string(Image.open(image_path), lang=language_model)
+    return recognized_text
 
-    accuracy = (correct_chars / total_chars) * 100
-    precision = (correct_chars / recognized_chars) * 100 if recognized_chars > 0 else 0
-    recall = (correct_chars / total_chars) * 100
-    f1_score = (2 * precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
+def calculate_cer(ground_truth, recognized_text):
+    ground_truth = ground_truth.lower()
+    recognized_text = recognized_text.lower()
 
-    return accuracy, precision, recall, f1_score
+    distance = Levenshtein.distance(ground_truth, recognized_text)
+    cer = distance / max(len(ground_truth), len(recognized_text))
 
-def evaluate_tesseract_model(test_images, ground_truth_transcriptions):
-    for image_path, ground_truth in zip(test_images, ground_truth_transcriptions):
-        # Perform OCR on the test image
-        recognized_text = image_to_string(image_path, lang='/best/deu-latest-u')  # Replace 'your_language'
+    return cer
+    
 
-        # Calculate metrics
-        accuracy, precision, recall, f1_score = calculate_metrics(ground_truth, recognized_text)
+def evaluate_ocr(ground_truth_path, image_path):
+    # Read the ground truth text from file
+    with open(ground_truth_path, 'r') as file:
+        ground_truth_text = file.read()
 
-        # Print results for each image
-        print(f"Image: {image_path}")
-        print(f"Ground Truth: {ground_truth}")
-        print(f"Recognized Text: {recognized_text}")
-        print(f"Accuracy: {accuracy:.2f}%")
-        print(f"Precision: {precision:.2f}%")
-        print(f"Recall: {recall:.2f}%")
-        print(f"F1 Score: {f1_score:.2f}%\n")
+    # Perform OCR on the image
+    recognized_text = ocr_image(image_path)
 
-if __name__ == "__main__":
-    # Provide paths to your test images and ground truth transcriptions
-    test_images = ["Fahrzeugschlosser_24219 Spezialisierungsrichtungen 01-09-1977.pdf_page_6.png", "Fahrzeugschlosser_24219 Spezialisierungsrichtungen 01-09-1977.pdf_page_77.png", "Fahrzeugschlosser_24219 Spezialisierungsrichtungen 01-09-1977.pdf_page_87.png"]
-    ground_truth_transcriptions = ["Fahrzeugschlosser_24219 Spezialisierungsrichtungen 01-09-1977.pdf_page_77.gt.txt", "Fahrzeugschlosser_24219 Spezialisierungsrichtungen 01-09-1977.pdf_page_6.gt.txt", "Fahrzeugschlosser_24219 Spezialisierungsrichtungen 01-09-1977.pdf_page_87.gt.txt"]
+    # Calculate CER
+    cer = calculate_cer(ground_truth_text, recognized_text)
 
-    evaluate_tesseract_model(test_images, ground_truth_transcriptions)
+    return cer, recognized_text
+
+# Example usage:
+ground_truth_file = '25.gt.txt'
+image_path = '25.png'
+
+cer, recognized_text = evaluate_ocr(ground_truth_file, image_path)
+
+print(f"Character Error Rate (CER): {cer}")
+print(f"Ground Truth Text: {ground_truth_file}")
+print(f"Recognized Text: {recognized_text}")
