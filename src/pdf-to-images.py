@@ -1,16 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[12]:
-
-
 import os
 from pdf2image import convert_from_path
 from pdf2image.exceptions import PDFPageCountError
 
 # Path to the folder containing multiple PDF files
-pdf_folder = '/Users/sahithreddy/Documents/Input Documents'
-output_folder = '/Users/sahithreddy/Documents/pdf2images'  # Specify your desired output folder
+pdf_folder = '/input_folder'
+output_folder = '/output_folder'  # Specify your desired output folder
 
 # Create the output folder if it doesn't exist
 os.makedirs(output_folder, exist_ok=True)

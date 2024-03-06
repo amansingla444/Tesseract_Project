@@ -1,3 +1,7 @@
+# CER and WER evaluation of AbbyFineReader and OCR4al model results
+# Inputs :
+#       1. Ground truth data ( eg. 25.gt.txt)
+#       2. Recognized Text  - equivalent text from the result file
 import Levenshtein
 
 def calculate_cer(ground_truth, recognized_text):
@@ -39,8 +43,12 @@ def evaluate_ocr(ground_truth_path, recognized_text):
     return wer, cer
 
 # Example usage:
-ground_truth_file = '25.gt.txt'
-recognized_text = 'This is the recognized text.'
+ground_truth_file = 'gdr_document_page_1.gt.txt'                   # Gives the ground truth data , which we defined.
+                                                  # This cannot say that the exact ground truth data used by the respective model
+                                                  # developers for their evaluation
+
+recognized_text = 'This is the recognized text.'  # Gives the equivalent result data from the results.
+
 
 wer, cer = evaluate_ocr(ground_truth_file, recognized_text)
 

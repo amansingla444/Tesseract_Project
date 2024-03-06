@@ -18,9 +18,9 @@ if platform.system() == "Windows":
 else:
     out_directory = Path("~").expanduser()
 
-PDF_file = Path(r"Fahrzeugschlosser.pdf")  #Give the name of the PDF document used of ocr text extracting
+PDF_file = Path(r"gdr_document.pdf")  #Give the name of the PDF document used of ocr text extracting
 image_file_list = []
-text_file = out_directory / Path("Fahrzeugschlosser.txt") #Name and path of the result text file
+text_file = out_directory / Path("gdr_document.txt") #Name and path of the result text file
 
 def main():
     with TemporaryDirectory() as tempdir:

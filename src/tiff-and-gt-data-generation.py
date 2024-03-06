@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 import os
 from PIL import Image
 import pytesseract
@@ -21,10 +15,10 @@ def image_to_text(image_path):
     return text
 
 # Specify the input folder containing PNG files
-input_folder = '/Users/sahithreddy/ResearchLab/pdf2images'
+input_folder = '/input_folder'
 
 # Specify the output folder for saving gt.txt and TIF files
-output_folder = '/Users/sahithreddy/ResearchLab/b'
+output_folder = '/output_folder'
 
 # Ensure the output folder exists, create it if necessary
 if not os.path.exists(output_folder):
