@@ -6,6 +6,7 @@ import pytesseract
 from pdf2image import convert_from_path
 from PIL import Image
 
+# The below code is for windows machines
 if platform.system() == "Windows":
     pytesseract.pytesseract.tesseract_cmd = (
         r"C:\Program Files\Tesseract-OCR\tesseract.exe"
@@ -17,9 +18,9 @@ if platform.system() == "Windows":
 else:
     out_directory = Path("~").expanduser()
 
-PDF_file = Path(r"Fahrzeugschlosser.pdf")
+PDF_file = Path(r"Fahrzeugschlosser.pdf")  #Give the name of the PDF document used of ocr text extracting
 image_file_list = []
-text_file = out_directory / Path("Fahrzeugschlosser.txt")
+text_file = out_directory / Path("Fahrzeugschlosser.txt") #Name and path of the result text file
 
 def main():
     with TemporaryDirectory() as tempdir:
@@ -44,7 +45,7 @@ def main():
 
         with open(text_file, "a") as output_file:
             for image_file in image_file_list:
-                language_model = 'deu-latest-u'
+                language_model = 'deu-latest-u'  #The language model is the trained data model created from tesstrain-best training
                 text = str(((pytesseract.image_to_string(Image.open(image_file),lang=language_model))))
                 text = text.replace("-\n", "")
                 output_file.write(text)

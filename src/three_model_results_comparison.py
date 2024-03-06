@@ -1,3 +1,8 @@
+# This python script is for comparing the results obtained from AbbyFineReader, OCR4al model, and our model
+# The AbbyFineReader results is in .docx file format, whereas the OCR4al and our model results are in .txt format
+# Before running this python script, results_readability_check.py script has to be executed to identify which model results
+# is best among other models. The results_readability_check.py outputed the results from AbbyFineReader is the best in terms of readability
+# So, here in this script, the other model results are compared with AbbyFineReader , and calculated how much the similarity and differences.
 import Levenshtein
 import docx2txt
 from tabulate import tabulate
