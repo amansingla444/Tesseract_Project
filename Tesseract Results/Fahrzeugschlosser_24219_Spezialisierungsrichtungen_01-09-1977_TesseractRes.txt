@@ -1,0 +1,7344 @@
+N
+
+e
+1
+al 4
+i 21
+/
+
+|
+\
+|
+|
+|
+|
+
+DEUTSCHE
+DEMOKRATISCHE
+REPUBLIK
+
+AUSBILDUNGSUNTERLAGE
+
+für die sozialistische Ber
+
+ahrzeugschlosser
+
+Spezialisierungsrichtungen:
+Kraftfahrzeugschlosser
+Kraitfahrzeugmontage
+Berufskraftfahrer
+
+Berufsnummer 24 2 19 |
+(bisher 1800)
+
+STAATSVERLAG
+
+DER DEUTSCHEN DEMOKRATISCHEN REPUBLIK
+A
+
+E AA S
+| ME n we A A Eerin Ae e
+
+Ausbildungsunterlagen
+für die
+
+sozialistische Berufsbildung
+
+Fahrzeugschlosser
+
+(Grundberuf)
+
+Berufspummer 24 2 19
+
+Teil: Spezialisierungsrichtungen Kraftfahrzeuge
+
+Kraftfahrzeugschlosser
+Kraftfahrzeugmontage
+Berufskraftfahrer
+
+Diese Ausbildungsunterlage ist in
+Verbindung mit dem Teil Grundlagenbildung ab 1. September 1977
+
+verbindlich anzuwenden;
+ARRE EAESE ASN AEeerr
+
+;; .
+
+Diese Ausbildungsunterlage wurde von folgenden Mitarbeitern der Berufsfachkommission erarbeitet:
+
+. Baumann, Klaus
+
+Blöcker, Joachim
+
+Hiller, Hans-Wolf
+Karge, Kurt
+
+Kinzer, Folkmar
+
+Kratzsch, Dieter
+Lehrmann; Rudolf
+Marqguardt, Adolf
+Möller, Erich
+Müller, Dieter
+Naumann, Joachim
+Neyderek, Franz
+
+Peters, Jürgen
+Rosteck, Hans-Joachim
+
+PGH Auto-Mechanik Königs Wusterhausen
+
+BBS LIW in Koop. mit dem Verkehrskombinat
+Erfurt
+
+VEB Kraftverkehr Görlitz
+
+VEB KIB Frankfurt/oder
+
+Rat des Kreises Zittau
+
+BS KIB Leipzig
+
+BBS KIB Leipzig
+
+VEB KIB Kleinmachnow
+
+VEB Kraftverkehr Gotha
+
+VEB KIB Karl-Marx=-Stadt
+
+VEB KIW Dresden
+
+BBS LIW in Koop. mit dem Verkehrskombinat
+Erfurt
+
+VEB KIW Schwerin
+
+BS des Raw Potsdam
+
+Rösner, Heinz
+Rüdiger, Klaus
+
+VEB KIW Weimar
+PGH Kfz Jüterbog
+
+|
+
+‚ A
+
+Schulze, Werner
+Wagner, Helmut
+
+Wolter, Joachim
+Wünsch, Herbert
+
+Berufsfachkommission Kraftfahrzeugmontap
+
+E
+
+Roder, Wolfgang
+Schuster, Joseg
+
+Berufsfachkommission Berufskraftfahrer
+
+Dopheide, Karl-Heinz
+Jaeck, Lothar
+
+Meyer, Dieter
+Petzold, Karl-Heinz
+Reinhard, Siegmar
+Wöllner, Peter
+
+VEB KIK Magdeburg
+
+VEB Kraftverkehr Halberstadt
+VEB .KIK Magdeburg
+
+VEB KIB Gera
+
+Sachsenring Zwickat
+Sachsenring Zwickau
+
+VEB Kombinat Kraftverkehr Leipzig
+VEB Kombinat Auto Trans Berlin
+VEB Kombinat Kraftverkehr Suhl
+VEB Kombinat Kraftverkehr Gera
+VEB Kombinat Kraftverkehr Halle
+VEB Kombinat Kraftverkehr Leipzig
+
+Ministerium für Verkehrswesen, Hauptverwaltung des Kraftverkehrs
+
+Ministerium für Verkehrswesen, Abteilung Kontrolle
+
+Zentralvorstand der Industriegewerkschaft Transport- und Nachrichtenwesen
+Medizinischer Dienst des Verkehrswesens der DDR
+Zentralstelle für Bildung des Ministeriums für Verkehrswesen
+Produktionsgenossenschaft des Kfz.-Handwerks "Gute Fahrt" Jüterbog
+Produktionsgenossenschaft des Kfz.-Handwerks "Automechanik" Königs Wusterhausen
+
+Handwerkskammer des Bezirkes Potsdam
+
+VEB Kombinat Kraftverkehr Karl-Marx-Stadt
+VEB Kombinat Kraftverkehr Erfurt
+
+BBS des VEB Kombinat Kraftverkehr Leipzig
+
+24219
+
+Inhaltsverzeichnis | Saite
+
+1o Hinweise 2
+2 Stundentafelin 5
+3e Prüfungsgebiete o
+Ao Lehrpläne für die Spezialisierungsrichtungen 11
+
+de1o Spezialisierungsrichtung Kraftfahrzeugschlosser
+4.11. Berufstheoretischer Unterricht 1
+4.1.2. Berufspraktischer Unterricht 29
+4020 Spezialisierungsrichtung Kraftfahrzeugmontage 41
+4.2.1. Berufstheoretischer Unterricht 42
+4.2.20 Berufspraktischer Unterricht 49
+4.3 Spezialisierungsrichtung Berufskraftfahrer 5
+4e3olo Berufstheoretischer Unterricht 60
+4.3.2. Berufspraktischer Unterricht 77
+5o Berufsspezifische Zivilverteidigung 4
+
+4 Hinweise
+
+Diese Ausbildungsunterlage enthält die Stundentafeln, Lehrpläne und Prüfungsgebiete ür die
+
+Spezialisierungsrichtungen
+
+Kraftfahrzeugschlosser
+Kraftfahrzeugmontage und
+Berufskraftfahrer
+
+des Grundberufes Fahrzeugschlossere
+
+A A
+
+Sie baut auf den Bildungs- und Erziehungsinhalt der beruflichen Grundlagenbildung dieses Be=
+rufes auf und bildet mit der Ausbildungsunterlage für die Grundlagenbildung eine Einheit.
+
+; ;
+
+Im Ausbildungsprozeß sind die erzieherischen Potenzen des theoretischen und berufspraktischen
+Unterrichts voll zu nutzen, um bei den künftigen FPacharbeitern das Bewußtsein und den Stolz
+
+zu vertiefen, Angehöriger der Arbeiterklasse im Verkehrswesen zu sein. Es ist vor allem die
+Bereitschaft anzuerziehen, kühn und beharrlich um große Leistungen im Beruf zu kämpfen, Berufsund Betriebstreue zu wahren und im Mehrschichtsystem zu arbeiten.
+
+Bie Vermittlung von Aufgaben der berufsspezifischen Zivilverteidigung (vgl. Abschnitt 5.) hat
+im Rahmen der zentralen ZV-Ausbildung der Betriebe, Kombinate und Dienststellen zu erfolgen.
+Dafür sind die vom Stab für Zivilverteidigung der DDR herausgegebenen Unterrichtsmittel und
+Literatur zu nhutzen. Schwerpunkt dieser Ausbildung ist das Anerziehen der Lseistungsbereitschaft und von kommunistischen Verhaltensweisen, in Gefahrensituationen und Katastrophenfällen
+jederzeit eigenverantwortlich und sgelbständig zu handelne
+
+Damit Für den berufspraktischen Unterricht der erforderliche theoretische Vorlauf geschaffen
+und dadurch eine effektivere. berufliche Ausbildung erreicht wird; ist bereits mit Beginun der
+Grundlagenbiidung der berufstheoretische Unterricht für die jeweilige Spezialisierungsrichtung
+zu lehren (Vgl. Hinweis zur Stundentafel in der Ausbildungsunterlage WFahrzeugschlosser", Teil
+Grundlagenbildung )o
+
+Die in der Grundlagenbildung von den Lehrlingen erworbenen Kenntnisse, Fähigkei
+
+be
+
+ten und Fartige
+keiten sind in dar jeweiligen Spezialisierung zu festigen und in Verbindung mit cer Ausbildung
+für den Einsatz als sozialistischer Fachearbeiter zu vervollkommnen. Dabei ist das Leistungsvermögen der Lehrlinge ollL eussnschöpren, damit sic ar Ende der LTehrzeit beständig die voLie
+Facharbeiterleistung erreichen,.
+
+n
+ugbildungsabschnitt, mindesten jedoch & Wachen vor Becncigng der Lehrzeit: Sınc
+
+aA
+s in ihren künrftigen Arbeitebereich GinusGtZzen,
+De Stundentafeln
+21o Gesamtstundentafel
+
+2.1.1. Berufsausbildung insgesamt
+
+Theoretischer Unterricht 1008 2394 (2655)3
+Berufspraktischer Unterricht 2510 | 2335
+2.1.2. Allgemeinbild, Unterricht 17 216 1746
+Staatsbürgerkunde . (2
+Sport | 144
+Mathematik ;
+Physik
+Chemie | ; —
+Geographie
+Deutsche Sprache und Literatur
+Russisch =
+2. Fremdsprache ; —
+Geschichte =
+20103e Berufstheoretischer Unterricht 486 432
+Betriebsökonomik2) 72
+Sozialistisches Recht . 36
+Grundlagen der Elektronik?) . 36
+Grundlagen der BMSR-Technik?) 90
+Grundlagen der Datenverarbeitung?) 18
+Grundlagen der technischen
+Mechanik 54
+Technische Stoffe 54
+Fachzeichnen 54
+Fertigungstechnik . | 2
+2.1.4. Berufspraktischer Unterricht 810 810
+Werkstoffbearbeitung und
+-prüfung ‚ 290
+Demontage, Montage einschließlich
+Fehler- und Ursachenermittlung ; 500
+Erste Hilfe? | 20
+2.1.5. Spezialisierungsrichtungen
+| Berufstheoretischer Unterricht 306 216
+Berufspraktischer Unterricht 1700 A52 4)
+2.1.6. Vormilitärische Ausbildung 80° | 80
+bzwe Sanitätsausbildung
+innerhalb der Unterrichtszeit (2 x 40)
+
+des 1. und 2, Lehrjahres
+
+1) Nach den verbindlichen Lehrplänen des Ministeriums für Volksbildung
+Nach den verbindlichen Lehrplänen des Staatssekretariats für Berufsbildung
+Für Lehrlinge ohne Vorkenntnisse in der 2. Fremdsprache
+einschließlich wissenschaftlich-praktischer Tätigkeit
+
+5) Nach den verbindlichen Lehrplänen des DRK der DDR
+
+24219
+
+stunden stunden stunden
+
+\:R:!:A:]]!!ÄM ıM!AEIE!-!”EB !!!!!S|S| |:SESSgg
+
+Fach / Lehrgang . Facharbeiterausbildung Facharbeiterausbildung
+. ; in Abiturklassen
+Gesamt- Einzel- Gesamt- Einzel
+Sstunden
+
+99
+198
+324
+198
+162
+63
+198
+198
+
+198(459)
+108
+
+72
+36
+36
+90
+18
+
+4
+4
+
+(2
+
+290
+
+500
+20
+
+(2 \
+
+2.2. Stundentafel Spezialisierungsrichtung Kraftfahrzeugschlosser
+
+Fach/Lehrgang Facharbeiterausbildung. Ausbildung in Abiturklassen
+Gesamt- Einzel- Gesamt- Einzel
+stunden stunden stunden stunden
+2.2.1. Berufstheoretischer
+
+Unterricht 306 288
+
+Fahrzeugkunde .
+
+Fahrwerk 126 108
+
+= Kraftübertragung . 54 54
+
+= Verbrennungsmtoren 90 90
+
+= Kraftfahrzeug-Elektrik 36 36
+2.2.2. Berufspraktischer
+
+Unterricht 1700 1525
+
+- Fahrwerk 450- 425
+
+= Kraftübertragung 210 185
+
+- Verbrennungsmotoren 335 310
+
+- Elektrische Anlage 135 | 110
+
+- Revision und Diagnose ; 135 110
+
+— Wartung und Pflege ; 135 110
+
+- Einarbeitung am künftigen
+
+Arbeitsplatz 300 275
+
+2.4.3. Vormilitärische Ausbildung | 40 40
+
+bzwe Sanitätsausbildung
+(innerhalb der Unterrichtszeit des 2. Lehrjahres) )
+
+1) Weitere Ausbildungsstunden für die Grund- bzw. Laufbahnausbildung entsprechend den Ausbildungsprogrammen liegen in der Freizeit der Lehrlinge.
+
+G 24219
+2.3. SBtundentafel Spezialisierungsrichtung Kraftfahrzeugmontage
+
+Fach/Lehrgang . Facharbeiterausbildung Ausbildung in Abiturklassen
+Gesamt- Einzel- Gesamt- Einzelstunden stunden gtunden . stunden
+2.3.1. Berufstheoretischer
+; Unterricht 306 288
+Fahrzeugkunde
+—- Fahrwerk 101 96
+- Kraftübertragung ; 45 ; 43
+-Krafterzeugungsanlagen 108 103
+= Elektrische Ausrüstungen/ 52 | . 46
+Pflege und Wartung von
+Kraftfahrzeugen
+2.3.2. Berufspraktischer
+Unterricht 1700 1525
+= Motor 380 330
+= Elektrische Anlage 120 120
+= Kraftübertragung 350 . 300
+= Fahrwerk und Aufbauten 470 420
+- Einarbeitung am klünftigen
+Arbeitsplatz 380 355
+2.3.3. Vormilitärische Ausbildung 40 ; 40
+
+bzwe Sanitätsausbildung
+(innerhalb der Unterrichts-_
+zeit des 2. Lehrjahres)
+
+a EE
+
+1) Weitere Ausbildungsstunden für die Grund- bzwe Laufbahnausbildung entsprechend den Ausbildungsprogrammen liegen in der Freizeit der Lehrlinge,
+
+24219 7
+
+2.4o
+
+Fach/Lehrgang
+
+Gesamt- Einzel- Gesamt- Einzelstunden stunden stunden . stunden
+
+Stundentafel Spezialisierungsrichtung Berufskraftfahrer
+
+2.4.1. Berufstheoretischer
+
+204.020
+
+Unterricht 306
+
+= Fahrzeugkunde
+
+= Technologie des Kraftverkehrs
+
+Verkehrsgeographie und
+verkehrstechnisches Zeichnen
+
+Berufspraktischer
+Unterricht ; 1700
+
+= Kraftfahrzeuginstandsetzung
+
+= Verkehrsrecht
+
+= Fahrausbildung
+
+= Wartung und Pflege
+
+= Transportpraxis
+
+= Verkehrspraxis
+
+= Geräteinstandhaltung 2)
+
+= Technologie der Stadtreinigung
+
+= Einsatz in der Stadtreinigung
+
+2.4.3. Vormilitärische Ausbildung
+
+bzwe Sanitätsausbildung
+(innerhalb der Unterrichtszeit des 2. Lehrjahres)3
+
+1 Diese Lehrgänge sind nur für den Kraftverkehr.
+2) Diese Lehrgänge sind nur für die Stadtreinigung,
+) Weitere Ausbildungsstunden für die Grund- bzw. Laufbahnausbildung entsprechend den Ausbil
+Facharbeiterausbildung
+
+180
+
+(2
+
+508
+60
+100
+72
+400
+560
+
+610
+
+67
+
+283
+
+40
+
+dungsprogrammen lLiegen in der Freizeit der Lehrlinge
+
+24219
+
+Ausbildung in Abiturklassen
+
+288
+166
+
+72
+
+50
+
+1525
+
+458
+
+60
+100
+
+72
+350
+485
+500
+
+67
+268
+
+40
+
+;;
+
+e A a ler RA S
+A e A e
+A E er
+
+\
+S
+
+3
+301o
+31e1e
+
+3.1.2.
+
+Grundlagenbildung
+
+Theoretischer Unterricht
+
+Fach / Lehrgang Kurzbezeichnung für Zeugniseintragung
+= Staatsbürgerkunde )
+
+= Sport )
+
+—- Betriebsökonomik ) im Zeugnis ausgedruckt
+- Sozialistisches Recht )
+
+= Grundlagen der Elektronik )
+
+= Grundlagen der BMSR-Technik )
+
+= Grundlagen der Datenverarbeitung )
+
+= Grundlagen der technischen Mechanik Technische Mechanik
+
+= Technische Stoffe Technische Stoffe
+
+- Fachzeichnen ; ; Fachzeichnen
+
+- Fertigungstechnik Fertigungstechnik
+
+r
+
+Berufspraktischer Unterricht
+
+Lehrgang / Stoffgebiet Kurzbezeichnung für Zeugniseintragung
+= Werkstoffbearbeitung und Werkstoff- Werksteoffbearbeitung
+prüfung
+.
+- Demontage, Montage einschließlich Demontage/Montage
+
+Fehler- und Ursachenermittlung
+
+Spezialisierungsrichtung Kraftfahrzeugschlosser |
+Berufstheoretischer Unterricht
+
+Fach/Lehrgang Kurzbezeichnung für Zeugniseintragung
+Fahrwerk . . | Fahrwerk.
+= Kraftübertragung Kraftübertragung
+= Verbrennungsmotoren Verbrennungsmotor
+Berufspraktischer Unterricht . .
+A |}>}>>>
+Fach/Lehrran Kurzbezeichnung für Zeugniseintragun
+= Fahrwerk ; . Fahrwerk
+= Kraftübertragung Kraftübertragung
+- Verbrennungsmotoren Verbrennungsmotor
+- Elektrische Anlage Elektrische Änlage
+= Revision und Diagnose Revision/Diagnose
+- Wartung und Pflege Wartung und Pflege
+—- Einarbeitung am künftigen Arbeits- Arbeitsplatzeinarbeitung
+platz
+
+24219
+
+3.1030
+
+3e1040
+
+3e2
+
+Für Werktätige
+
+Spezialisierungsrichtung Kraftfahrzeugmontage
+
+Berufstheoretischer Unterricht
+Fach/Lehrgang ; Kurzbezeichnung für Zeugniseintragung
+- Fahrwerk | . Fahrwerk
+= Kraftübertragung Kraftübertragung
+= Krafterzeugungsanlagen Krafterzeugung
+Berufspraktischer Unterricht
+S
+Fach/Lehrgang Kurzbezeichnung für Zeugniseintragung
+= Motor Motor
+= Elektrische Anlage Elektrische Anlage
+Kraftübertragung Kraftübertragung
+= Fahrwerk und Aufbauten ' Fahrwerk/Aufbauten
+- Einarbeitung am künftigen Arbeits- Arbeitsplatzeinarbeitung
+platz
+Spezialisierungsrichtung Berufskraftfahrer
+Berufstheoretischer Unterricht
+L
+Fach/Lehrgan Kurzbezeichnung für Zeu niseintragu
+= Fahrzeugkunde . ; Fahrzeugkunde
+= Technologie des Kraftverkehrs Technologie
+
+= Verkehrsgeographie und verkehrs- Verkehrsgeographie
+technisches Zeichnen %
+
+Berufspraktischer Unterricht
+
+Fach / Lehrgang Kurzbezeichnung für Zeugniseintragung
+Kraftfahrzeuginstandsetzung Kfz.-Instandsetzung
+Kraftfahrzeugelektrik Kfz.-Elektrik
+
+Reifendienst | Reifendienst
+
+Verkehrsrecht Verkehrsrecht
+
+Fahrausbildung . Fahrausbildung
+
+Wartung und Pflege Wartung und Pflege
+Transportpraxis | . Transportpraxis
+Verkehrspraxis Arbeitsplatzeinarbeitung
+Geräteinstandhaltung 2) Geräte-Instandh.
+
+Technologie der Stadtreinigung2 Technologie Stadte
+
+Einsatz in der Stadtreinigung 2) Arbeitsplatzeinarbeitung:
+
+Marxismus/Leninismus
+— Betriebsökonomik/Sozialistisches
+Recht . im Zeugnis ausgedruckt
+
+Weitere Fächer und Lehrgänge des berufstheoretischen Unterrichts und alle für die Befähigung zur Lösung der vereinbarten Arbeitsaufgabe erforderlichen Stoffgebiete des berufspraktischen Unterrichts sowie die geforderten Befähigungsnachweise, Zur konkreten
+Festlegung sind die für Lehrlinge verbindlichen Prüfungsgebiete als Orientierung zu
+nutzen.
+
+1) Diese Prüfungsgebiete gelten nur für den Kraftverkehr
+) Diese Prüfungsgebiete gelten nur für dis Stadtreinigung
+
+40
+
+24219
+
+|
+4. Lehrpläne
+für die Spezialisierungsrichtungen
+
+4o10 Spezialisierungsrichtung
+
+Kraftfahrzeugschlosser;
+
+24219
+
+11
+
+4olele 306/288 Stunden
+
+Berufstheoretischer Unterricht, Kraftfahrzeugkunde
+
+Ziel und Aufgaben
+
+Ziel des Unterrichts ist es, die theoretischen Grundlagen über den Aufbau, die Funktion und das
+technische Zusammenwirken der Bauteile, Baugruppen und Aggregate des gesamten Kraftfahrzeuges
+kennenzulernen.
+
+Die Lernenden sind zu befähigen, dieses Zusammenwirken selbständig zu erkennen. Dabei sind die
+Vorleistungen aus der polytechnischen Oberschule in Verbindung mit der Grundlagenbildung voll zu
+nutzene
+
+Die Stoffvermittlung bezieht sich nicht auf praktische Arbeitsanleitung. Den Lernenden soll durch
+die theoretischen Grundlagen ein umfassendes Fachwissen vermittelt werden, das sie als Vorallssetzung für eine schöpferische, selbständige berufliche Tätigkeit bei der Instandhaltung von
+Kraftfahrzeugen brauchen. Es sind die Voraussetzungen für Pflege, Wartungs- und Austauscharbeiten, für Fehler- und Ursachenermittlung sowie deren Beseitigung und für Funktions- und Qualitätsprüfung zu vermitteln. Der Unterricht muß die Lernenden mit größter Effektivität auf die Erfordernisse der produktiven Tätigkeit zur Erreichung der Facharbeiterleistung im Betrieb vorbereiten. Gleichzeitig ist die Entwicklung einer sozialistischen Facharbeiterpersönlichkeit zu gewährleisten.
+
+Die Lernenden sind zum selbständigen Denken und zur aktiven Perteilichkeit zu erziehen:
+Weitere Aufgaben im Prozeß des Unterrichts bestehen im Erziehen der Lernenden zur Betriebstreue,
+zur kollektiven Arbeit, zur Aktivität im Neuererwesen und im sozisalistischen Wettbewerbe
+
+Leistungen über die Stoffgebiete der Kraftfahrzeug-Elektrik sowie aus Verkehrskunde und Recht
+sind in den Abschlußzensuren Fahrwerk und Verbrennungsmotoren mit zu erfassen,
+
+Methodik und Organisation
+
+Durch den Einsatz moderner Unterrichtsmittel und berufsbildender Literatur sowie das Auswerten
+aktueller Informationen ist der selbständige Wissenserwerb zu fördern. Der Unterricht ist in
+Fachkabinetten durch moderne Unterrichtsmethoden sowie unter Einsatz geeigneter Anschauungsmittel und Lernaufträge wirkungsvoll und intensiv zu gestalten. Bei den Lernenden sind exakte
+physikalisch-mathematische Darstellungsweisen und Begrlndungen zu fördern. Die betriebliche Ent
+wicklung und Aufgabenstellung ist verstärkt in den Unterricht einzubeziehen. Aufgabender Zivil- .
+
+verteidigung, des Havarle-, Brand- und Arbeitsschutzes sowie des Umweltschutzes sind aktuell
+
+und immanent im Unterricht zu behandeln. Bezüge zu den Unterrichtsfächern Technische Stoffe,
+Fachzeichnen, Fertigungstechnik, Grundlagen der technischen Mechanik, Betriebsökonomik, Sozialistisches Recht sowie zu den technischen Grundlagenfächern sind herzustellen.
+
+Die Reihenfolge der Lehrgänge kann nach den jeweiligen betrieblichen Erfordernissen gewählt
+werden.
+
+Neue Erkenntnisse auf ökonomischem, technisch-technologischem und instandsetzungsorganisatorischem Gebiet sind bei der Behandlung der vorgesehenen Stoffgebiete mit einzubeziehen.
+
+Lehrplan Fahrwerk
+
+Stad, Stoffgebiet und stoffliche Erziehungsschwerpunkte, zu erwerbende
+Schwerpunkte Fähigkeiten und Fertigkeiten, ökonomische
+und allgemeinbildende Bezüge
+
+5 Einführung in die Kraftfahrzeugtechnik
+
+Die Einsatzbedingungen der Kraftfahrzeu- Erkennen der Notwendigkeit der qualifizierge und ihr Einfluß auf das Verschleiß- ten Ausbildung zur Erfüllung der in der In- ,
+verhalten der Teile der Baugruppen standhaltung anfallenden technischen,tech
+nologischen und organisatorischen Arbeiten
+
+12 ; 21219
+
+e
+
+Einsatzbedingungen (objektiv, subjektiv)
+
+Bedienungs- und Instandhaltungsbedingungen
+
+Aufgaben der Instandhaltung in den Kraftverkehrs- und Kraftfahrzeuginstandsetzungsbetrieben |
+
+- Planmäßig vorbeugende Instandhaltung
+= perliodische Wartung und Pflege
+- periodische Zwischenuntersuchung
+
+Arten, Aufbau, Massen und Schwerpunktla
+
+Definition "Kraftfahrzeug"
+Einteilung der Kraftfahrzeuge nach TGL
+Hauptteile des Kraftfahrzeugs (Übersicht)
+
+Kfz.-Massen und -lasten
+Definitionen, Berechnungen, Einfluß
+der Schwerpunktlage auf die Fahrstabilität des Kfz.
+
+horizontale Schwerpunktlage
+vertikale Schwerpunktlage
+
+Fliehkräfte bei Kurvenfahrt
+Berechnungen der Rutschgrenz=- und Kippgrenzgeschwindigkeit
+
+Fahrwiderstände und Leistungsbedarf
+
+Rollwiderstand, Triebwerkswiderstand,
+Beschleunigungswiderstand, Luftwiderstand, Steigungswiderstand, Leistungsbedarf zur Überwindung der Fahrwider
+stände
+
+Aufbauten der Kraftfahrzeuge
+
+Karosseriebauweisen
+(konstruktive und werkstoffliche Seite)
+
+Sicherheitskarosserien
+Luftwiderstandsbeiwerte
+Seitenwindempfindlichkeit
+Korrosionsschutzmaßnahmen
+
+Einführung
+
+Aufgaben des Fahrwerks
+
+Bauteile des Fahrwerks (Übersicht}
+Antriebsarten
+
+(Vorderrad-, Hinterrad-, Allradantrieb)
+
+24219
+
+ge der Kraftfahrzeup
+
+3
+
+unter den Gesichtspunkten höchster technischer Perfektion und der Rentabilität
+
+Bedetutung der Instandhaltung für die Gewährleistung der Betriebs- und Verkehrssicherheit
+der Kraftfahrzeuge
+
+die Beurteilung der Kraftfahrzeuge auf ihre
+verkehrs- und instandhaltungsgerechte Kon
+struktion und ihre Abnutzungsgeschwindigkeit
+
+sowie verkehrstechnische Eignung
+
+e
+
+Befähigen der Lehrlinge zur richtigen Anwendung von Begriffen und Definitionen, um eine
+exakte Arbeitsweise in der Kfz.-Instandhaltung zu gewährleisten
+
+Erkennen der Zusammenhänge insbesondere zwi=schen Geschwindigkeit, Luftwiderstand und
+Kraftstoffverbrauch
+
+Volkswirtschaftliche Bedeutung der Einhaltung der gesetzlich zulässigen Geschwindigkeiten
+
+= Materialökonomie —
+
+= Verkehrssicherheit
+
+Entwickeln des ökonomischen Denkens durch
+Vergleiche und Auswahl des zweckmäßigen
+Werkstoffeinsatzes (Materialsubstitution)
+
+2
+
+.
+
+Einfluß der Antriebsart auf die Fahrstabilität ;
+
+Fahrverhalten bei Vorderradantrieb,
+Hinterradantrieb
+
+Rahmen
+
+Aufgaben, Beanspruchung, Profilquerschnitte, Werkstoffe, Bauformen von
+Kfz.-Rahmen =. |
+Rahmenlose Bauformen
+
+Hinweise zur Vermessung und Instandsetzung
+
+Federung und Dämpfung
+Grundlagen
+
+Aufgaben
+
+Arten der Schwingungen
+Federhärte,. Federwege
+Federkennlinien
+Berechnungen
+
+Federausführungen
+
+Niveauregulierung
+
+Aufgaben, Notwendigkeit des Stoßdämpfers
+
+in Abhängigkeit von den Federausflührungen
+
+Forderungen
+Arten der Stoßdämpfer
+Stabilisatoren
+
+Federung und Dämpfung bei Einspurfahrzeugen
+
+Radstellungen
+
+Radstellung der Vorderräder
+
+Radsturz, Spreizung, Vorspur, Nachlauf
+und ihr Zusammenwirken
+
+Berechnungen
+Wirkprinzip der Meßgeräte (Diagnose)
+
+Besonderheiten zur Radstellung der Hinterräder
+
+Änderung der Hinterradstellung an bestimmten Radaufhängungen beim Ein- und
+Ausfedern
+
+Radaufhängungen
+Aufgaben der Radaufhängung
+Anforderungen an die Radaufhängung
+Arten der Radaufnängung
+Starrachsen
+Halbachsen
+
+2l
+
+Bedeutung der Radstellung für die waximale
+
+3
+
+Stabiles, labiles Gleichgewicht
+- Bezüge zur Technischen Mechanik
+
+;
+
+Die Bedeutung der Rahmen für die-Verkehrsund Betriebssicherheit
+
+Erkennen der Entwicklungstendenzen in der
+Kfz.=-Technik
+
+Erkennen der Abhängigkeit der Verkehrssicherheit vom Zustand der Federn und Stoßdämpfer
+
+Erkennen des volkswirtschaftlichen Wertes der
+Werkstoffe
+
+Bereitschaft und Fähigkeit zur bewußten Beachtung- des Gesundheits- und Arbeitsschutzes
+bei Demontagearbeiten der Federn
+
+Auswerten von Federkennlinien
+
+Bezüge zur BMSR-Technik
+
+x
+E
+)
+
+Einfluß der Radstellung auf Sicherheit
+und Fahrverhalten .
+
+Laufleistung der Reifen
+
+Erkennen der Bedeutung des Baugrüppenaustausches für die Volkwirtschaft sowie der
+Einhaltung von Montagevorschriften auf Haltbarkeit und Grenznutzungsdauer
+
+19
+2
+
+achslose Radaufhängung
+Fahrschemel
+
+Lagerung von Radnaben bei Vorder- und
+Hinterrädern
+
+Hinweise auf Wartung und Instandsetzung
+
+Lenkung
+Aufgabe der Lenkvorrichtung
+
+Anforderungen an die Lenkvorrichtung
+(Lenkrad und Lenkspindel mit günstigen
+
+Verformungseigenschaften und mäßigen Ver
+formungskräften - Sicherheitslenkungen)
+
+Rechtsvorschriften
+Achsschenkelilenkung
+
+Grundsätzlicher Aufbau
+
+Lenkgeometrie eines Kfz. mit starrer Vor
+derachse
+
+Lenkgeometrie eines Kfz. mit Einzelradaufhängung
+
+Einfluß des Schräglaufwinkels des Reifens
+
+| auf das Lenkverhalten
+
+Lenkgetriebe
+
+Lenkgestänge
+
+Einstell- und Nachstellprobleme
+Berechnung von Lenklübersetzungen
+Berechnung der Kräfte am Lenkgestänge
+
+Grundsätzliche Wirkungsweise von Lenkhilfen
+
+Sonderarten der Lenkung
+
+Anhängerlenkung
+
+Mehrachslenkung (Prinzip)
+Lenkung an Gleiskettenfahrzeugen
+(Prinzip)
+
+‚ Zusammenwirken von Lenkung, Radaufhängung und Federung
+
+Einfluß der Radaufhängung auf. die Rad
+stellung beim Überfahren. eines Hindernisses
+
+Auswirkungen auf Lenkeigenschaften und
+Spurhaltung
+
+Lenkung der Einspurfahrzeuge
+
+Räder und Bereifung
+
+Kräfte am Rad mit Bereifung
+Abhängigkeit des Kraftschlußbeiwertes
+(Reibbeiwert). vom Schlupf zwischen Reifen und Fahrbahn (Klaue-Diagramm)
+
+24219
+
+Erziehen zur verantwortungsbewußten Arbeit
+
+Genaue Kenntnisse der Konstruktionszusam
+menhänge und komplexes Wirken von Lenkung,
+
+Radaufhängung, Federung und Reifen
+Erziehen zur sachgemäßen Instandsetzung
+
+Bekanntmachen mit dem $ 43 der StVZO
+
+Ökonomische Vorteile der Wartungsfreiheit
+
+Bezüge zur Werkstoffkunde herstellen
+
+Bedeutung der richtigen Auswahl und des zweck
+zweckmäßigen Einsatzes der Bereifung
+
+15
+Grenzen der Radumfangskraft
+(Kammscher Kraftschlußkreis)
+Berechnungen
+
+Zusammenhänge zwischen maximal übertragbarer Reibkraft zwischen Reifen und Fahrbahn, Bremskraft bzw. Vortriebskraft sowlLe
+Seitenführungskraft
+
+Aufgabe, Anforderungen und Aufbau der Rad
+körper
+
+Arten der Radnaben
+Felgen (Arten, standardisierte Bezeichnungen)
+
+Hinweise auf Wartung und Betriebsvorschriften
+
+Bereifung
+
+Aufbau der Luftreifen (Radial-, Diagonalreifen)
+
+Arten der Reifen (Aufbau, Merkmale, Anwendung)
+
+Standardisierte Bezeichnung der Reifen
+
+Hinweise auf Wartung, Instandsetzung und
+Reifenwechsel ;
+
+Einfluß der Reifeneigenschaften, des Profils sowie des Luftdruckes auf die Fahrstabilität des Kfz.
+
+Einflußfaktoren auf den Reifenverschleiß
+
+Berechnung der Fahrgeschwindigkeit unter
+Berücksichtigung des dynamisch wirksamen
+Halbmessers, Reifenaußendurchmessers und
+der Reifentragfähigkeit
+
+Bremsen
+
+Aufgaben der Bremsen
+
+Herausstellen der volkswirtschaftlichen Bedeutung der Runderneuerung
+
+Erkennen des Einflusses.des Reifen- und
+Räderzustandes auf die Verkehrssicherheit
+
+Erziehen zur Beachtung besonderer Hinweise
+bei Demontage- und Montagearbeiten an Reifen
+(Umrüsten von Diagonalreifen auf Radialreifen
+
+Einsatz schlauchloser Radialreifen an bestimmten Kfz.-Typen
+
+Auswuchten der Räder)
+
+;; A
+N 7 S
+
+;
+
+Bekanntmachen mit dem $ 46 der StVZO ‚l
+u
+
+Grundsätzliche physikalische Vorgänge Einsicht in die Notwendigkeit internationa
+EnergieumwandlLung
+
+Achslastverlagerung beim Bremsen
+
+Notwendigkeit der größeren Bremswirkung
+an den Vorderrädern (Berechnungsbeispiel)
+
+Rechtsvorschriften
+Bremsprobe und Bremsprüfung
+Berechnungen:
+
+Bremsverzögerungs,
+Bremsweg,
+Bremszeit,.
+Bremskraft
+
+24219
+
+ler Zusammenarbeit, besonders der sozialistischen Staaten
+
+Zusammenarbeit als gesellschaftliches Anliegen zur umfassenden Stärkung des sozialistischen Lagers
+
+Erziehen zur gewissenhaften verantwortungsbewußten Arbeit
+
+Erziehen zur konsequenten Beachtung der Hin
+weise auf Kontroll- und Einstellarbeiten an
+Bremsen
+
+2
+
+Übersicht der Bremsenarten
+Aufbau, Funktion, Vor- und Nachteile sowie . ;
+Nachstellung der Trommel- und Scheiben
+bremsen
+
+Berechnungen der Bremskräfte an auf- und Bezüge zu den Grundlagen der technischen
+ablaufenden Bremsbacken sowie Bremsschei- Mechanik herstellen .
+
+ben
+
+Arten, Aufbau und Funktion der mechanischen Bremsanlagen
+
+Physikalische Grundlagen ‚ Anwenden der mathematisch-naturwissenschaftHydraulische Bremsanlagen (Aufbau, Lichen Kenntnisse aus der Oberschule
+Funktion) ; |
+
+Zweikreisbremsanlagen einschließlich
+Blockierverhinderern bzwe Bremskraftverstärkern
+
+Berechnung ZUr hydraulischen Kraftüber- Erziehen zur exakten Arbeitsausführung
+tragung ; ;
+
+Notwendigkeit von Blockierverhinderern:
+
+Auswirkung auf die Fahrtrichtungshaltung bei überbremsten Vorderrädern bzw.
+überbremsten Hinterrädern
+
+Lastabhängige Bremskraftbegrenzer
+
+Hinweise auf automatische lastabhängige Bezüge zur BMSR-Technik herstellen
+Bremskraftregelung ;
+
+Druckluftbremsanlagen (Gesamtübersicht,
+Bauteile, Wirkungsweise)
+
+Ein- und Mehrkreis-Druckluftbremsanlagen
+im Motorwagen
+
+Druckluftbremsanlage im Hänger
+
+Ein- und Zweileiteranlagen
+
+Berechnung zur pneumatischen Kraftübertra- . ;
+
+gung einschließlich der Kräfte am Bremsnocken
+
+Wartungsarbeiten an mechanischen, hydrau
+lischen und pneumatischen Bremsanlagen
+
+Funktionelle Begründungen von Bremsstörungen ;
+
+Druckluftunterstützte hydraulische Bremsen
+
+Bremsprüfverfahren (BremsprüfstandDiagnose)
+
+Motorbremsen | |
+Schmierung des Fahrwerks und der Kraftübertragungsteile.
+Nowendigkeit der Schmierung Bedeutung der regelmäßigen und ordnungsge
+Allgemeine Wirkungsweise | mäßen Schmierung
+Auswahl der Schmiermittel Erziehen zum Kosten-Nutzen-Denken
+
+Schmierstellen
+
+24219 17
+A
+
+1 Arten der Schmiersysteme (Übersicht)
+Wartungsfreie Lagerstellen
+Hinweise zur Behandlung und Wartung der
+Schmiersysteme
+9 Verkehrskunde und Racht
+Verordnung über- das: Verhalten im Straßenverkehr
+Kennenlernen der 5 1s 5 7 14, 21, 24,
+A7 der StVO und deren Anwendung im.
+Straßenverkehr
+Anwendung der StVZO für die Instandhaltung und Instandsetzung sowie den Aufbalu
+von Kraftfahrzeugen
+Bestimmungen für die Zulassung von Kraftfahrzeugen und Anhängern
+Neuzulassung von Kraftfahrzeugen
+Garantiebestimmungen
+Gewährleistung
+Garagenordnung
+Arbeitsschutzanordnungen in der Kfz.=Instandsetzung
+Arbeitsbedingte Zuschläge und Vergütungen
+|
+|
+.
+. 18
+
+Richtiges Verhalten im Straßenverkehr besonders bei Versuchs- und Probefahrten
+
+Richtiges Kennzeichnen von nicht verkehrs. sicheren Fahrzeugen; ZeDe bei Leistungen des
+Hilfsdienstes (Abschleppen) ;
+
+Rücksichtnahme auf andere Verkehrsteilnehmer.
+
+Erziehen zur Hilfsbereitschaft und Solidarität
+
+Erziehen zur Qualitätsarbeit.
+
+Hinweise auf besondere Aufgaben der Zivilverteidigung
+Fragen der Ordnung und Sicherheit verkehrasicherheit.
+
+Hinweise auf aiesbezügliche 88 im Zivilge
+setzbuch
+Erhalten der Arbeitskraft
+Richtiger sicherer Einsatz von Arbeitsmitteln
+Sicherheit am Arbeitsplatz
+‚siehe Grundlagenfächer, Betriebsökonomik und
+Sozialistisches Recht ;
+24219- ;
+Lehrplan Kraftübertragung
+
+Std. Stoffgebiet und stoffliche
+
+Kraftfluß entsprechend der Antriebsarten
+im Kraftfahrzeug bei: Hinterrad-, Vorder=
+
+rad- und Mehrachsantrieb
+
+Motorkupplungen
+
+Unterscheidung der Motorkupplungen nach
+ihrer. grundsätzlichen Arbeitsweise (Über
+sicht).
+
+Aufgaben, Aufbau, Wirkungsweise
+Reibungskupplungen (Bauarten, Bauteile)
+
+Magnetpulverkuppiungen (informatorisch)
+
+Strämungskupplung (Föttinger-Kupplung) nit
+mechanischer Trennkupplung
+
+Unterscheidung der Moterkupplungen hach
+
+dem Bedienungsaufwand (Übersicht)
+Nichtautomatisierte Kupplungen
+
+Teilautomatische Kupplungen
+Automatische Kupplungen
+
+Störungen an Reibungskupplungen
+Einstellprobleme, Hinweise zur Wartung
+und Instandsetzung
+
+Rechnerische Grundlagen (Formelentwieklunge) 
+Berechnungen zu Reibungskubplungen
+Grundbegriffe an Sahnridern
+Rechnerische Beziehungen an Zahnrädern
+(Drehzahlen, Übersetzungsverhältnisse,
+Drehmomente, Wirkungsgrade;, Stufensprung)
+Formelentwicklungen e
+Nachteile ganzZahliger Übersetzungsverhältnisse
+
+Zwischenräder:
+
+Rechnerische Beziehungen am Zahnrad
+(Modul, Teilkreis-, Kopfkreis-, Fußkreisdurchmesser, Achsabstand)
+Unterscheidung der Zahnräder nach der
+Flankenlinie (Grad-, Schräg-, Spiralvenzahnung)
+
+Vorteile der Schrägstirnräder gegenüber
+Geradstirnräder
+
+i Zahnflankenform (Evolventenverzahnung)
+
+24219
+
+Erziehungsschwerpunkte, zu erwerbende
+
+Schwerpunkte Fähigkeiten und Fertigkeiten, ökonomische
+und allgemeinbildende Bezüge
+1 | 2 3 |
+2. Einführung
+
+Befähigen zum Erkennen der technischen ZU
+sammenhänge und Entwickeln des technischfunktionellen Denkens
+
+Erziehen zum Kosten-Nutzen-Denken
+
+Herausbilden der Überzeugung, daß das Verwmeiden von Materialyerlusten jeglicher Art
+. durch verantwortungsbewußtes Handeln Be
+standteil der sozialistischen Einstell ung zur
+
+Arbeit ist
+
+| Aufzeigen der Vorteile der Standardisierung.
+
+Befähigen zum Erkennen mathematischer Zusam
+menhänge
+
+Vorteile der Standardisierung
+
+1
+
+16 Hachselgetriebe
+Aufgaben des Wechselgetriebes Erkennen des Zusammenwirkens von Verbennungsmotor, Wechselgetriebe und Achsantrieb
+
+Unterscheidung der Wechselgetriebe nach
+
+der grundsätzlichen Wirkungsweise und der Erziehen zum achlußfolgernden Denken
+
+Anzahl der Gänge (Übersicht) Auswerten von Diagrammen und Gleichungen
+Getriebesymbole Üben im Erkennen des Wesentlichen (GetriebeStufengetriebe (Aufbau, Wirkungsweise) aufbau, Lage der Gänge, Kraftfl uß, ÜbersetSchubradgetriebe zungsverhältnis)
+
+Schubklauengetriebe ohne Synchroneinrich- Erziehen zur Sorgfalt bei der Wartung und
+tung Pflege von Meß- und Prüfzeugen
+Schubklauengetriebe mit Synchroneinrich- Entwickeln des Skonomischen Denkens durch
+
+tung - Sperrsynchronisierung Vergleiche des technologischen Aufwandes bei
+Ziehkeilgetriebe (informatorisch) ; Einzelinstandsetzungen oder Baugruppehaus
+| | . Umlaufgetriebe (Planetengetriebe) tausch . .
+| | Getriebe mit Laisellenkupplungen Erkennen der Bedeutung des Einhaltens von.
+| Montagevorschriften auf-die Laufleistung
+
+| . Getriebeberechnungen
+Gegenüberstellen der Vor- und Nachteile von
+
+| . Schaltmechanismen . sperrsynchronisierten Stufengetrieben und
+Standardisierung Föttinger - Wandlern mit nachgeschaltetem
+Hinweise auf Getriebestörungen und deren Planetengetriebe
+| Ursachen
+Sonder- und Zusatzeinrichtungen zum Anwendungsbereiche und wirtschaftlichkeitsWechselgetriebe — betrachtungen
+
+Arten (Übersicht)
+Freilauf |
+. Nachgeschaltete Getriebe
+‚Vorgeschaltete Getriebe
+
+. Stufenlose Getriebe
+Unterscheidung der Wechselgetriebe nach 
+dem Bedienungsaufwand (Übersicht)
+
+| Halbautomatische Getriebe ;
+| Vollautomatische Getriebe ;
+|
+
+Gelenkwellen
+
+; Aufgaben, Aufbau, irkungsweise Erziehen zum konsequenten Einhalten von Ein. Anordnungen und Arten der Gelenkwellen bauvorschriften der CGelenkwellen unter Beach
+tung der. einschlägigen Arbeitsschutz- und
+
+M| Beanspruchungen
+; Schutzglütebestimmungen
+
+. Auswuchtung, kritische Drehzahl
+| Arten der Gelenke (GBL. Teil II, Ar. 87 vom 12. August 1966
+
+|
+
+|
+
+Probleme der Verzerrung der Winkelge-, Erziehen zum Beachten. der Wartungs- und Inschwindigkeit standsetzungshinweise der Gelenkwellen
+
+| . Richtiger Zusammenbau längsliegender Ge- Erziehen zur Gebrauchswerterhaltung und Ver
+lenkweilen . meidung volkswirtschaftlichen Schadens
+
+Richtige Anordnung von Gelenkwellen- | ;
+strängen . - .
+
+1 . ;
+|
+
+Zwischenlager
+
+Seitengelenkwellen mit Eigenzentrierung ;
+
+|
+
+|
+
+Homokinetische Antriebe .
+Hinweise zur Wartung und Instandsetzung 
+- . | |
+20 . 24219
+
+Berechnungen: Auslenkung der Gelenkwelle;
+Kräfte am Gelenk; Unwucht an der Gelenkwelle
+
+Hinweise: Antriebsketten für Motorräder).
+
+Achsantrieb und Ausgleichgetriebe
+
+Achsantrieb
+Aufgaben, Aufbaus Wirkungsweise
+
+Arten (Kegelradantrieb, Stirnradantrieb,
+doppelt übersetzter Achsantrieb)
+
+Verzahnungsformen
+Tragbilder und ihre Deutung
+
+Berechnungen: Übersetzung des Achsantriebes, Gesamtübersetzungen in den einzelnen
+Gängen .
+Fahrzeuggeschwindigkeiten
+
+Vortriebskräfte an den Antriebsrädern.
+
+Ausgleichgetriebe
+Aufgaben
+Arten (Übersicht)
+
+Ausgleichgetriebe mit geringer innerer Rei
+bung:
+Kegelradausgleichgetriebe
+
+Ausgleichsperre (Aufbau, Wirkungsweise)
+
+Berechnungen von Drehmomenten und mögli.cher Vortriebskraft (bei durchdrehenden
+und-nichtdurchdrehenden Rädern)
+
+Berechnung der Drehzahl des Ausgleich Korbes sowie der Ausgleichkegelräder um
+deren Achsen ;
+
+Hinweise zur Wartung, und Instandsetzung
+
+Ausgleichgetriche mit erhöhter innerer
+Reibung:
+selbstsperrende Ausgleichgetriebe (in
+formatorisch)
+
+Verteilergetriebe
+
+Aufgaben.
+Anordnungen‘ im Kraftfluß
+Arten (Übersicht)
+
+Verteilergetriebe ohne Drehzahlansgleich
+(Bedienungsvoörschriften)
+
+“Verteilergetriebs mit Drehzahlausgleich;
+unsymmetrische Ausgleichgetriebe
+
+Drehmomentenverteilung
+Ausgleichsperre .
+
+24219
+
+Erkennen der besonders exakten Montage und
+Einstellung des Eypoid-Achsantriebes
+
+. Erziehen zum Einhalten der Maßgenauigkeit
+
+Entwickeln des Verantwortungsbewußtseins
+
+Erziehen zur Sorgfalt bei der Handhabung von
+Meß- und Prüfzeugen
+
+Erziehen zum richtigen Anwenden der Erkennbnisse in der Praxis 
+Entwickeln der Beobachtungsfähigkeit
+
+Erziehen zur selbständigen Entscheidungsfindung
+
+Beitrag zur Vorbereitung auf den Ehrendienst
+in den kfz.-technischen Einheiten der NVA
+
+21
+
+Stde Stoffgebiet und stoffliche
+
+22
+
+Zylinder und Zylinderkopf
+Schwerpunkte
+
+Grundsätzliche Einteilung der Verbrennungsmotoren
+
+Hubkolbenmotoren
+Kreiskolbenmotoren
+Gasturbinen
+
+Gliederung der Hubkolbenmotoren nach
+
+Arbeitsverfaähren
+
+Motoranordnung.
+Art der Kühlung ;
+Art der Bauform
+
+Hauptteile des Hubkolbenmotors
+Kurbelgehäuse
+Aufbau und Beanspruchung
+
+Hinweise auf Herstellung und Werkstoff
+
+Arten
+
+Aufbau und Beanspruchung
+
+Hinweise auf Herstellung und Werkstoff
+Arten
+
+Hinweise auf Instandsetzung
+
+Berechnen des Hubraumes. der Hubverhältnisse und des Verdichtungsverhältnisses
+
+Berechnen des Verdichtungsraumes
+
+=
+
+Kurbeltrieb
+Kolben
+Aufgaben
+Bezeichnungen am Kolben
+
+Aufbau;, Werkstoffe, Herstellung, Beanspruchung
+
+Kolbenarten
+
+Hinweise zur Kolbenmontage
+
+Pleuel
+
+Aufgabe
+Beanspruchungen
+Querschnittsformen
+Werkstoffe und-Herstellung
+Pleuelkopflager
+Pleuelfußlager
+Notwendigkeit des Auswiegens und Auswinkelns von Pleueln und Kolben
+
+Hinweise zur Pleuelmontage
+
+Würdigung der bedeutungsvollen Leistungen
+
+24219
+
+Erziehungsschwerpunkte, zu erwerbende
+Fähigkeiten. und Fertigkeiten, ökonomische
+und allgemeinbildende Bezlige
+
+Erziehen ‚zum selbständigen Wissenzerworb durch
+Arbeiten mit Betriebsanleitungen für Fahrzeugmotoren |
+
+Erkennen der Bedeutung von TeL und Standards
+und deren Anwendung
+
+Erziehen zum bewußten Erfassen technisch-ökonomischer Zusammenhänge
+
+der Motorenbauer der volkseigenen Industrie
+
+Anerkennen, der volkswirtschaftlich bedeutsamen‘
+Forschungsarbeiten im Automobilbau
+
+/ Erziehen zur Entscheidungsfähigkeit und Bereitschaft beim Ausführen qualitätsgerechter Arbeit
+entsprechend. fertigungstechnischer Bedingungen
+auf.der Grundlage der angeeigneten Kenntnisse,
+
+Fähigkeiten und Fertigkeiten
+
+Konsequentes Beachten der in Reparaturanleitungen geforderten Arbeitsschritte, um den Gebrauchswert der Motore zu erhalten und volkswirtschaftlichen Schaden zu vermeiden
+
+Beachten des Arbeitsschutzes als Merkmal einer
+sozialistischen Facharbeiterpersönlichkeit
+
+Erziehen zum sparsamsten Materialverbrauch als
+wichtigem Grundsatz unserer Volkswirtschaft
+
+Hinweis: Beachten der SI-Einheiten
+
+Bezüge- zur technischen Mechanik
+
+Erziehung zur fehlerfreien Arbeit und zum Ver
+antwortungsbewußtsein gegenüber Menschen und
+Volkseigentum .
+Kuxbelwelie nit Schwungscheibe
+Aufgaben von Kurbelwelle und Schwungscheibe ;
+
+Aufbau, Zusammenhang zwischen Bauform und Zündfolge ;
+
+Arten
+
+Beanspruchungen
+Grundsätze zur Konstruktion schwingungsfester Kurbelwellen
+
+Herstellung. und Werkstoff .
+Kurbelwellenlagerung
+Hinweise zur Montage und. Instandsetzung
+
+Kräfte am Kurbeitrieb
+
+6 Das Arbeitsspiel des Viertakt-Ottomotors
+
+Vorgänge während eines Arbeitsspieles
+Arbeitsfolge eines Mehrzylinder-Ottomotors
+
+Die vier Takte des Arbeitsspieles
+p - V - Diagramm
+
+Steuerdiagramm |
+
+o oborsteuerung beim Viertaktmotor (Ventilsteuerung)
+
+Aufgabe
+Aufbau
+
+Arten der Steuerung und deren Arbeitsweise
+
+N
+
+Teile der Ventilsteuerung
+Kenngrößen .
+Hinweise auf Einstell- und Montägearbeiten
+
+6 Das Arbeitspiel des Zweitakt-Ottomotors
+e
+
+Arbeitsweise
+Ansaug-, Spül- und Ladevorgang, Staudruck
+Steuerung des Zweitaktmotors’ ;
+Steuerdiagramme . .
+.D - V -Diagramme
+Spülverfahren
+
+Erzeugung des Spüldruckes durch Kurbelge‚häusevorverdichtung.
+
+Hinweise auf Benzineinspritzung
+Schmierung des Kurbeltriebes 
+Gegenüberstellung von Zweitakt- und Viertakt-Ottomotoren
+Hinweise auf Wartung und Instandsetzung
+
+Der Einfluß der Auspuffanlage auf Leistung
+und Verbrauch
+
+Literleistung im Vergleich zu ViertaktOttomotoren
+
+24219
+
+Erziehen zur Anerkennung der ständigen Be
+Bedeutung des Auswuchtens und der einwand
+freien Lagerung für eine ökonomische Laufleistung des Motors ;
+
+Entwickelndes dialektischen und naturwissen
+schaftlich-technischen Denkens
+
+Einstellung zum Lernen dahingehänd entwickeln,
+daß jeder Wissenserwerb nicht Selbstzweck,
+sondern Mittel zum Zweck ist
+
+Erziehen zum technisch-funktionalen Denken,
+zum Erfassen von Kausalzusammenhängen
+
+Erziehen zur konsequenten, exakten Wartungsund Einstellungsarbeit an der Ventilsteuerung
+
+Herausbilden der Überzeugung, daß sorgfältig
+ausgeführte, Einstell- und Montagearbeiten
+
+Leistung, Wirtschaftlichkeit, Abgaszusammen
+setzung und--Werkstoffabnutzung beeinflussen
+
+mühungen der Motorenhersteller in der DDR,
+Zweitaktmotoren mit hohem Gebrauchswert
+
+. und optimaler Kraftstoffausnutzung zu ent
+wickeln
+
+Erziehen Zzum schlußfolgernden Denken durch.
+Vergleiche von Kennziffern international
+vergleichbarer Fahrzeugmotoren
+
+Hinweis: SI - Einheiten beachten!
+
+23
+
+4 Verbrennungsvorgänge 3u Ottomator
+
+Normaler Verbrennungsablauf beim Otti- Erziehen zur bewußten Anwendung naturwissenmotor schaftlicher Kenntnisse
+Gestörter Verbrennungsablauf beim Otto- Gewinnen von Grundkenntnissen über den Vermotor | . brennungsvorgang im Ottomotor
+
+Schlußfolgerung für bestimmte Einstell- und
+Wartungsarbeiten
+
+2 Filterung der angesaugten Luft ;
+Notwendigkeit der Filterung Erziehen zur Einsicht, daß Verschleißgeschwindigkeit an Motorenteilen mit der Staub
+Luftfilterbauarten
+belastung und Korngröße ansteigt
+Luftfilteröle
+. Erziehen zur konsequenten intensiven FilterHinweise zur Pflege und Wartung pflege | .
+
+Schlußfolgerndes Denken im Hinblick auf den
+Einfluß der Luftfilter auf Kraftstoffverbrauch und Leistung der Motore
+
+12 Die Kraftstoffversorgungsanlage für Ottomotoren
+
+Kraftstoffanlage Brandschutzanordnung beachten
+
+Aufbereitung des Kraftstoff = Luftgemi- Einstell- und Wartungsarbeiten im Hinblick
+
+sches auf wirtschaftliche Kraftstoffausnutzung und
+Umweltfreundlichkeit
+
+Aufbau und Wirkungsweise der Vergaser
+
+Hinweise zu Einstell- und Wartungsarbeiten
+
+x
+
+3 Störungen an Ottomotoren \
+Störungsursachen Erziehen zur Entscheidungsfähigkeit und BeStörungsmerkmale .. ; reitschaft bei der Störungssuche. entspreStörungsquellen chend der erworbenen Kenntnisse, Fähigkeiten
+
+und Fertigkeiten
+
+4 Das Arbeitsspiel des Viertakt- und Zweitakt- -Dieselmotors
+
+Vergleiche zwischen Otto- und Dieselmoto- Fähigkeiten zur selbständigen Erkenntnisgeren. | . - winnung, Bekanntmachen mit dem stetigen Bemühen der Motorenbauer des volkseigenen
+
+Automobilbaues, Dieselmotoren auf den höch
+Gemischbildung sten Stand der Entwicklung zu bringen
+Berechnung des spezifischen Kraftstoff
+verbrauchs bei Dieselmotoren
+(Vergleich zum Ottomotor).
+
+Arbeitsweise des Viertakt-Dieselmotors
+
+-Bewußtes Erfassen der ökonomischen Vorteile
+
+gystems
+
+Arbeitsweise des Zweitakt-Dieselmotors
+Bedeutung der standardisierten Baureihe von
+
+Spülverfahren und Gemischbildung ; IFA-Dieselmotoren
+
+Erziehen zum Kosten-Nutzen-Denken
+
+Bewußtes Anwenden naturwissenschaftlicher
+
+.Kenntnisse
+4 Verbrennungsvorgänge im Dieselmotor ;
+Normaler Verbrennungsablauf beim Diesel- Bedeutung von Grundkenntnissen über die Vermotor . brennungsvorgänge im Dieselimotor
+
+; 24219
+
+durch das Konstruktionsprinzip des Baukasten
+suüche.
+
+Gestörter Verbrennungsablauf beim Dieselmotor
+
+Die Kraftstoffanlage des Dieselmotors
+
+Schemata des Kraftatoffverlaufes
+Kraftstofförderpumpe (Saugpumpe).
+Kraftstoffilter;
+
+Funktion des Überstromiventils ;
+Einspritzpumpen‘
+Aufgaben der DEP
+
+Fördersysteme bei der DEP (Übersicht)
+
+Die IFA-DEP der Baureihen A und B mit
+Regler und Spritzversteller
+
+rumpenkolben und Futpenzylinder
+Druckventil
+
+Regler
+
+Spritzversteller
+Verstellmöglichkeiten an der IFA-DEP
+Berechnungen von Einspritzmenge und Hutzhub des Pumpenkolbens
+
+Hinweise zum Prüfen und Einstellen der
+DEP
+
+Einspritzdüsen und Düsenhalter
+
+Aufgaben der Einspritzdüsen
+
+Arten der Einspritzdüsen
+
+Aufbau und Funktion des Düsenhalters mit
+Düse
+Hinweise Zzum Prüfen. des Düsenhalters mit.
+Düse
+
+;
+Einspritzleistungen 
+Hinweise zum Entlüften der Einspritzanlage
+
+Störungen am -Dieselmotor
+
+Ursachen .
+
+.
+Grundsätze für eine systematische FehlerUnterstützung-der Fehlersuche durch Einteilung des. Funktionssystems des Dieselmotors in einzelne Funktionskreise
+
+Zusammensetzung der Abgase bei Dieselmotoren üund Ottomotoren
+
+24219:
+
+Erziehen zum schlußfolgernden Denken bei
+Einstell- und Wartungsarbeiten, besonders im
+Hinblick auf die Verminderung der Schadstoff
+emissionswerte
+
+Entwickeln des ökonomischen Denkens durch Vergleichen des technologischen Aufwandes bei
+der Montage und Demontage
+
+Einhalten ‚von Einstell- und Instandsetzungs
+vorschriften
+
+Erkeninen der Auswirkung der Korrosion auf
+die Funktionstüchtigkeit der DEP
+
+Herausbilden von Verantwortungsbewußtsein
+
+bei den qualitätsgerechten Einstell- und
+Prüfarbeiten an der DEP im Hinblick auf optimale Kraftstoffausnutzung und Verringerung
+der Schadstoffemission
+
+2
+
+Fähigkeit zum Denken in Zusammenhängen entwickeln
+
+Tragen von Verantwortung bei der systemati
+schen Fehlersuche fördern
+
+Hinweise auf Notwendigkeit des Umweltschutzes
+
+Befähigen zur selbständigen Erkenntnisgewinnung durch Vergleich und Urteilsbildung
+
+\
+
+Erziehen zur wissenschaftlich exakten Ausdrucksweise und zur bewußten Anwendung naturwissenschaftlicher Kenntnisse
+
+Motorkennlinien
+
+. 
+Drehmomenten- und Leistungskurve.
+Spezifischer Kraftstoff-VerbrauchDrehmonenten- und Leistungskurven von
+elastischen und lLeistungsgesteigerten
+
+Ottomotoren
+
+Drehmomenten- und Leistungskurven, von
+Dieselmotoren
+
+Leistungsformein und Leistungsberech= nungen an Zwei- und Viertakt-Motoren
+(Leistungseinheit kW,); ;
+Mittlere Kolbengeschwindigkeit, indi-.
+zierte und effektive Leistung,
+
+Mechanischer Wirkungsgrad
+
+Grundsätzliche Möglichkeiten der Leistungssteigerung
+
+. Angewandte Aufgaben
+
+Motorschmierung
+Aufgaben der Motorschmierung
+
+Aufbau und Wirkungsweise der Schmiersysteme
+
+\ Gifilter
+Ölpumpe
+Öldruckregulierung.
+öltemperaturen und Ölkühler
+
+Motorkühlung
+
+Aufgaben der Motorkühlung
+Grundsätzliche Wirkungsweise
+Wasserkühlung
+
+iuftkühlung
+
+Regelung der Betriebstemperatur
+Folgen unrichtiger Kühlung.
+Hinweise auf Wartung.der Kühlanlage
+Winterbetrieb
+
+3 Verbrennungskraftmaschinen ohne Kubkolber
+
+Rotationskolbenmotoren
+
+Grundsätzlicher Aufbau und Wirkungseige
+Gasturbine .
+Grundsätzlicher Aufbau und Wirkungsweise
+
+3 Prüfen und Einlaufen on Motoren
+Übersicht über FPrüfeinrichtungen und -ver
+fahren zur Ermittlung von Leistung, Kraftstoffverbrauch und Betriebsverhalten Motorenprüfstände
+
+Berechnen der. reduzierten Leistung
+
+Lesen und Deuten von. Diagrammen und
+Nomogrammen
+
+24219
+
+Nomogrammen
+
+Erziehen zum Kosten-Nutzen-Denken
+
+— x
+
+Erziehen zum bewußten Erfassen technischökonomischer Zusammenhänge
+
+Arbeiten mit dem Tabellenbuch
+Aufsuchen von Werten aus Tabellen und
+
+Auswerten der Kennlinien .
+
+. ‚
+Bezüge zum Fach Werkstoffkunde herstellen
+
+Einsicht in die Notwendigkeit einer einwandfreien Motorschmierung für hohe Laufieistung
+der Motore
+
+/
+
+7 .
+Befähigen zum Lesen und Auswerten von Be
+triebsvorschriften und Schmierplänen
+
+Folgen falscher Betriebstemperaturen \
+
+aufzeigen =
+
+Beurteilen des Entwicklungsstandes von KKM
+und Gasturbinen
+
+Vergleiche zwischen KKM und EM
+
+Notwendigkeit eines hohen Verhntwortühgs
+bewußtseins bei der Durchführung von -Prüfun
+‘gen an Motoren und Fahrzeugen aufzeigen 
+=
+
+S z
+
+. A e a n
+Ae ee N EN
+Lehrplan Kraftfahrieug-Elektrik
+Ziel nd Aufgaben ;
+
+Der Austauschbau.-spielt
+
+werden.
+
+\ethodik und Organisation
+
+eirne
+
+- Gleichstromlichtmaschinen
+Drehstromlichtmaschinen .
+
+- Lichttechnik
+
+Signalanlage . und
+
+— Zusätzliche elektrische Geräte
+
+- Stromversorgung
+
+— Zündanlage
+
+- Anlasser . und
+Vorglühaniage ;
+
+Lehrp lan
+
+mit dem sich immer mehr durchsetzenden wissenschaftlich-technischen
+
+Fortschritt in der gesamten Volkswirtschaft.eine bedeutende Rolle. Bei der Verwirklichung ratio- neller Instandhaltungs- und Instandsetzungsmethoden gewinnt die wirtschaftliche Demontage und.
+Montage von elektrischen Baugruppen (Batterie, Lichtmaschine, Anlasser und dgl. ) immer mehr an
+Bedeutung. Die Auswirkungen unsachgemäßer Behandlung, Nichtbeachtung von Anschlußgrößen, führen
+zu Störungen und großen volkswirtschaftlichen Schäden an Kraftfahrzeugen und somit im Transportprozeß. Die Erziehung zur Gewissenhaftigkeit muß deshalb unbedingt in den Unterricht einbezogen
+
+Der Unterricht ist nach Möglichkeit in einem Fachkabinett für Elektrotechnik durchzuführen. Für
+effektive Gestaltung sollten bestimmte Stoffgebiete unmittelbar in Verbindung mit den Lehrplaninhalten der Lehrgänge Fahrwerk und Ver'brennungsmotoren vermittelt werden.
+
+ES sind mit dem Lehrplan Fahrwerk die Stoffgebiete
+
+NAAALALALAS
+
+Das Hauptanliegen der Vermittlung von Grundkenntnissen der Kraftfahrzeug-Elektrik muß es sein, |
+. den Begriffen, Gesetzen und Prinzipien entsprechende Beachtung zu schenken. Den Lehrlingen ist |
+die Problematik klaärzulegen, die durch die Forderung entsteht, Kraftfahrzeuge stets in betriebs- |
+und verkehrssicherem Zustand zu halten. In diesem Sinne.ist die Bedeutung der elektrischen Ein
+. richtung an Kraftfahrzeugen sichtbar zu machen, wobei das Grundwissen sehr eng an'die Kfz.-Kunde angelehnt werden soll, um das. Zusammenwirken von mechanischen und elektrischen Aggregaten.
+aufzuzeigen. Dabei ist auf den Kenntnissen aus dem Physik- und ESP-Unterricht der .POS aufzubauen.
+
+mit 18 Stunden
+
+sowie mit dem Lehrplan "Verbrennungsmotoren" die Stoffgebiete
+
+3 mit.18 Stunden
+
+Std.. Stoffgebiet und stoffliche
+Schwerpunkte
+
+Erziehungsschwerpunkte, zu erwerbende
+Fähigkeiten und. Fertigkeiten, ökonomische und 
+; ; allgemeinbildende Bezüge
+
+2
+
+3
+
+6 Stromversorgung im Kraftfahrzeug
+Stromkreis, Spannungsquelle, Widerstand
+
+Batterie \
+
+Aufgaben, Aufbau, Wirkungsweise, Kennlinien,. Leistungsanpassung an den Anlasser
+
+Wartung und Pflege, Batterieunschaltungen
+
+24219
+
+Rechtsvorschriften bei Umgang mit Säuren und
+Laugen beachten
+
+Aufenthalt in Batterieräumen gemäß ASAO
+
+. Erkennen unterschiedlicher Schaltungen zur
+Kapazitäts- und Spannungserhöhung .
+28
+
+Umgang mit Batterien
+
+An- und Abklemmen von Batterien
+
+Laden von Batterien
+
+Dauerstrom führende Esitungen
+
+Klemmenbezeichnungen \
+Sicherungen, Funktion und. Bedeutung
+
+Gleichstromlichtmaschine
+
+;
+
+Aufbalu, Wirkungsweise, Störungen, War
+tung
+
+Einbauhinweise
+
+Kabelverbindungen zwischen Lichtmaschine und Regler
+
+Störungen, Ursachen und Abhilfe
+Rekgler, Aufbau und Wirkungsweise
+Umgang mit Reglern, Störungen
+
+Drehstromlichtmaschine
+
+Aufbau, Wirkungsweise, Regelung der
+Maschine
+
+Gegenüberstellen von Gleich- und Drehstromlichtmaschine. .
+
+Kennlinien, Umgang mit der Drehstromlichtmaschine ;
+
+Abklemmen bei elektrischen Schweißarbeiten
+
+Einbauhinweise
+
+Anlasser 
+Aufgaben, Aufbau, Arten
+Störungen, Wartung
+
+Montage- und Demontagehinweise
+Überprüfen von Anlassern
+
+Zündanlage der Ottomotore
+
+Aufgaben und Anforderungen
+Batteriezündung, Aufbal, Schaltung, Hochspannungserzeugung;, Einstellen der Zündung
+
+Störungen an der Zündanlage
+
+Fehler im Primärkreis
+
+Fehler im Sekundärkreis
+
+Hinweise zur Fehlersuche und ihre Hilfsmittel
+
+Vagnetzündanlage
+
+Elektronische Zündanlage
+
+Zündkerzen, Anforderungen, Aufbau, Störungen, Kerzengesicht
+
+24219
+
+Entwickeln des Qualitäts- und Kostendenkens
+(Zuverlässigkeit, Lebensdauer, Wartungskosten)
+
+-Ökonomischer Einsatz der Batteriewerkstoffe
+
+Erziehen zum Einhalten der Rechtsvorschriften
+
+Hinweise auf Notstromaggregate und deren Einsatz
+
+Erkennon der Vorteile der Wechselstromlichtmaschine
+
+Ökronomischer Nutzen
+
+Bezüge ZUr Elektronik und BMSR-Technik
+Erziehen zur gewissenhaften Arbeit und Verantwortungsbewußtsein
+
+Bedeutung für die Einsatzbereitschaft von
+Kraftfahrzeugen
+
+Betriebssicherheit hervorheben
+
+Ökonomisch-technischer Fortschritt bei der
+Drehstromlichtmaschine
+
+Bodeittung für Einsatzbereitschaft von Kraftfahrzeugen
+
+Betriebssicherheit hervorheben
+
+sammenhänge und Entwickeln des teohnisch
+Befähigen zum Erkennen der technischen Zu- |
+funktionellen Denkens |
+
+Bedeutung einer genaueh zündeinstellung für
+
+Kraftstoffausnutzung, Leistung, Beschleuni
+gungsvermögen, Kalt- und Warmstartvermögen,
+Verbrennen des Kraftstoffluftgemisches und
+
+Grenznutzungsdauer
+
+Bedeutung für die atürungssuche
+Systematik bei der Fehlersuche
+
+. Zusammenhang von Ursache und Wirkung
+In den Lehrgängen des berufspraktischen Unterrichts sollen die Lernenden, die während der
+sche Variante der Instandsetzung Wert zu legen. Der Umgang mit dem Kunden und die Kundenbera- | |
+
+ür den gesamten Ausbildungskomplex der Spezialisierungsrichtung ergeben sich für die Lehr
+An te
+;);
+E
+l
+
+D Vorglühanlage beim Dieselmotor
+
+Aufgaben, Schaltung - | Bedeutung der Vorglühanlage für das StartenAufbau der Glühkerzen, des Glühüber- . von Dieselmotoren |
+‚wachers ;
+
+Belastung der Batterie
+Störungen an der Glühanlage
+
+Verbindung zur Elektronik, Reihenschaltung
+Fehler, Ursachen, Abhilfe
+
+von Widerständen und ihr Vorteil
+
+4 Lichttechnik
+\N
+
+Grundlagen der Lichttechnik Scheinwerfer- Aufgaben der Lichtanlage für
+
+die Verkehrsarten ; sicherheit der Kraftfahrzeuge
+Fern- und Abblendlichtsysteme Notwendigkeit der Wartung und Pflege
+. Stand-, Parklicht .
+
+Bedeutung der Spannungsabfälle für Lichtaus
+Zusatzscheinwerfer beute und Lebensdauer von Glühlampen
+
+Einsatz von Relais, Schaltungen
+Fehler, Ursachen, Abhilfe
+
+L
+
+4 Signalanlage
+Blinkgeber, Horn, Stopplicht Bedeutung für Verkehrssicherheit 1
+Schaltungen .
+
+2 Zusätzliche elektrische Geräte _
+
+Allgemeine Hinweise zu Montage- und
+
+Demontagearbeiten
+4.1.2. Berufspraktischer Unterricht 1700/1525 Stunderr
+
+Ziel und Aufgaben
+
+Grundlagenbildung erworbenen Kenntnisse, Fähigkeiten und Fertigkeiten als Voraussetzung nutzen,
+um sich spezielle Fertigkeiten für die Instandsetzung von Kraftfahrzeugen anzueignen. Sie sind
+zu befähigen, selbständig Instandsetzungsarbeiten auszuführen. Dabei ist besonders auf die
+Fehlersuche und Befundaufnahme, die raticnellste Instandsetzungstechnologie und die ökonomi
+tung sind in die Ausbildung einzubeziehen,. |
+meister, Meister und Lehrfacharbeiter in Einheit mit der fachlichen Bildüung höhere Erziehungsaufgaben, Die Formung des sozialistischen Facharbeiters ist eine vorrangige Aufgabe. Es gilt,
+| solche kommunistischen Überzeugungen und Verhaltensweisen auszuprägen, wie hohe sozialistische
+Arbeitsmoral, Berufsehre und Berufsstolz. Das Pflichtbewußtsein und die Verantwortung für die
+eigene Arbeit, das bewußte Handeln sowie Beharrlichkeit und Ausdauer sind weiter zu entwickeln. Besonderes Augenmerk ist auf die Erziehung zum kollektiven Handeln und auf gegenseitige sozialistische Hilfe zu legen. Während der gesamten Ausbildung sind das Klassenbewußt
+8ein, die Liebe zur Arbeit und zum arbeitenden Menschen weiter auszuprägen.
+
+AEEA NA E
+
+24219 ; | | 29
+
+Es ist Ziel und Aufgabe der Spezialisierung, disponible, sozialistische Facharbeiterpersönlichkeiten heranzubilden und zu erziehen, die in der Lage sind; die erworbenen Kenntnisse, Fähigkeiten und Fertigkeiten ständig zu vertiefen d zu erweiteren sowie große Leistungen als Facharbeiter zu vollbringen. .
+
+Methodik und Organisation
+
+Die Ausbildung ist unter Produktionsbedingungen am Kraftfahrzeug und dessen Baugruppen durchzuführen. Das selbständige Lösen voh Aufgaben steht dabei im Vordergrund. Entsprechend den jewei.ligen betrieblichen Möglichkeiten ist eine lehrplangerechte Produktion zu gewährleisten.
+
+Durch fachgerechtes Anleiten der Lehrlinge, durch Demonstrieren der Arbeitstechniken und gründlLiches Üben sind die Lernenden zur Facharbeiterleistung zu führene- Der Inhalt der Lehrgänge
+
+kann als Komplex in Montageabteilungen über einen. zusammenhängenden Zeitraum sowie unabhängig
+voneinander in der Montage-und in der Baugruppeninstandsetzung vermittelt werden. Dabei sind
+in den Prüfungsgebieten die Leistungen der Lehrlinge zu bewerten und für die- Zeugniseintragung..
+
+zu ermitteln.
+
+Erforderliche theoretische Lehrstoffe sind dann vom Lehrmeister oder Ingenieurpfäagogen Dzwe
+von erfahrenen Praktikern am. Arbeitsplatz zu behandeln, wenn auf betriebliche Iypen von Kraftfahrzeugen oder auf Besonderheiten von Montagetechnologien einzugehen iste
+
+4
+1
+
+Lehrplan ; . |
+
+Sta. Stoffgebiet und Arbeitstätigkeiten Zu vermittelnde Kenntnisse;, zu erwerbende
+Fähigkeiten und Fertigkeiten, Erziehungsschwerpunkte, ökonomische und allgemeinbildende Bezlige
+Fahrwerk 450/425 Stunden
+|
+45 Aufbauten und Rahmen |
+Aus- und Einbau von Teilen der Fahr- Erkennen von Verschleißarten und -ursachen
+zeugaufbauten ; . am Rahmen und an den Aufbauten
+Peststellen und Binschätsen von Ver- Kontrolle von Rahmen und selbsttragenden sowie
+schleißerscheinungen ah den Aufbauten mittragenden Karosserien und Verbindungsstelund am Rahmen . len auf Risse und Verzug
+Sachgemäßes Aufbocken von Kraftfahrzeu- Verwendungszweck und Funktion der Hebezeuge
+gen .- und Hilfsgeräte für das Aufbocken von Kraft
+fahrzeugen unter. Berlücksichtigung der Kon- struktion des Fahrzeuges
+
+—
+
+Aus- und Einbau von Baugruppen und Tei- Bezüge zur Hydraulik im Fach Grundlagen der
+len der hydraulischen Anlage technischen Mechanik herstellen
+Handhaben und Bedienen von Hebezeugen, Einhalten der Arbeitsschutzanordnungen und
+Transportmitteln und Unterstellböcken Sicherheitsbestimmungen.
+
+Unfallverhütung beim Ab=- und Aufbau von Fahr
+zeugaufbAauten . /
+„ ;
+30 n und Schwingungsdämpfer |
+Feststellen von Schäden und Verschleiß- . Erkennen von Verschleiß an der Federung
+erscheinungen an der Federung und Auf- Bezüge Zum Lehrgang Wartung und Pflegas herhängung. gtellen
+Ursachen von roderbrlichen A
+30 . 24219
+1 e
+
+Aus- und Einbauarbeiten
+
+Ausbauen, Prüfen und Einbauen von
+Schwingungsdämpfern der verschiedenen
+Systeme
+
+120 Vorderradaufhängung
+
+. Aus-= und Einbau von Verderachsen, Vorderradaufhängungen und Fahrschemeln .
+
+Abziehen und Aufziehen von Radnaben
+Prüfen der Lager der Vorderradnaben
+
+Fachgerechter Aus- und Einbau von Wälzlsgern
+
+Erläutern von Achsmeßgeräten
+. Prüfen der Vorspur, des Radsturzes, der
+Spreizung und des Nachlaufes.
+
+Beheben von Abweichungen der RadstelL ung . o
+
+Kadstellung
+
+.
+60 Einterradaufhängung
+Aus- und Einbau voh Hinterachsen und
+
+- Hinterradaufhängungen
+Feststellen und Einschätzen von Fehlern
+und Verschleißerscheinungen an der Hinterradaufhängung
+
+Einstellen von speziellen Hinterachsen.
+
+Abziehen und Aufziehen von Hinterachsrradnaben
+
+Aus- und Einbau von Antriebswellen
+
+Erläutern-der Verstellnöglichkeiten der
+
+Montagehinweise und Regeln
+
+Unfallverhütung, besonders beim Aufbocken des
+Fahrzeuges und beim Aus- und Einbau der Federn
+
+Einhalten der ASAO 361/2 und der Sicherheitsbestimmungen
+
+Kenntnis der Beanspruchung der Vorderachs
+teile und der Notwendigkeit ihrer einwandfreien Funktion
+
+Herausstellen der großen Verantwortüung für
+die Sicherheit der Fahrzeuüge als Bestandteil des sozialistischen Eigentums
+
+Erkennen von Verschleiß an Lagern und Lagersitzen.
+
+Sicheres Handhaben der erforderlichen Prüfund Meßgeräte
+
+Verwenden der richtigen Schmiermittel
+
+Immanente Wiederholung der Begriffe "Vorspur",
+
+"Sturz", "Spreizung" und. "Nachlauf" und Wie
+beeinflussen sie die Fahr- und Lenkeigenschaften des Kraftfahrzeuges
+
+Bedingungen zum Nachmessen der Radstellungen
+Richtiges Einstellen des Lagerspiels
+
+Einfluß der Schmiermittel auf die Lebens
+- dauer der Lager
+
+ASAO urnd Sicherheitsbestimmungen
+
+Hinweise auf besonders orgfältiges Arbeiten
+
+-hinsichtlich der Verkehrssicherheit zur Er
+haltung der Gesundheit unserer Werkiiitigen
+
+Bezüge zur StVZO herstellen
+
+Notwendige vorbereitende Arbeiten zum Aus
+und Einbau von Hinterachsen und. Hinterradaufhängungen
+
+Hinweise auf die verschiedenen Arten des Verschleißes und seine Ursachen
+
+-Anleiten zum selbständigen Beurteilen des
+
+Verschleißes und der fehlerhaften Teile
+
+Arten der verschiedenen Radlagerungen
+
+Verwendung von Austauschbaugruppen, ökonomi=
+\
+
+sche Vorteile besonders bei der Senkung
+
+| | 24219 ; . .31
+
+S
+n
+
+45
+
+30
+
+32
+
+Anwenden der richtigen Abziehvorrichtungen
+
+Erneuern.der Wälzlager und Abdichtungen
+
+der Radnaben \
+
+Lenkung
+
+Kontrolle und Befundaufnahme von Lenkgetrieben und Lenkungsteilen
+
+Aus- und Einbauen von Lenkgetrieben und
+
+A
+
+Lenkungsteilen
+
+Sicheres Handhaben der benötigten Werkzeuge und Hilfsgeräte beim Aus- und Ein
+bauen von Lehkungen und Lenkungsteilen
+
+Räder und Bereifung
+
+Ab- und Anbau von ‚Rädern |
+
+Montage der Bereifung
+
+Prüfen der Felgen und der Bereifung
+
+Erkennen, Beurteilen und Beseitigen
+von Schäden an den Felgen,
+
+Anwenden der Fertigkeiten aus dem Ausbildungsabschnitt Vorderachsen
+
+Ursachen vom Schäden an der Bereifung
+prüfen
+
+24219
+
+herausarbeiten
+
+tragung
+
+Kennenlernen der Nachstellmöglichkeiten an
+
+Abschnitt 3 5 41
+
+der Reparatur- und Stillstandszeiten des Kfze
+
+Sicheres Handhaben der erforderlichen Werkzeuge und deren Pflege”
+
+Unfallverhütung als persönliches Anliegen im
+Interesse unserer sozialistischen Gesellschaft
+
+ASAO und Sicherheitsbestimmungen
+
+Fehler und Verschleiß an den verschiedenen
+Lenkungsarten und an den Lenkungsteilen
+
+Ursachen für zu großes Spiel in der Lenkliber
+Lenkungen |
+Grundeinstellung von Lenkungen
+Begründung der Arbeitsfolgen
+
+Herausbilden des Verantwortungsbewußtseins bei
+der Arbeit zur Gewährleistung der Verkehrssicherheit
+
+Fördern der Selbständigkeit bei der Befundaufnahme ;
+
+Kenntnis des $ 43 der StVZO, der ASAO und
+spezieller Sicherheitsbestimmungen
+
+Hinweise auf die vom Hersteller festgelegten
+Sicherheitsbestimmungen
+
+Notwendigkeit der Kontrolle der richtigen Radund Felgenbefestigung
+
+Erkennen von Verschleiß an den Radbefestigungen
+
+Reifendruck, Überlastung, Einfluß von Wärme
+und Kälte, Ö1 und Kraftstoff, Vorspur und
+Sturz
+
+Einfluß des Reifenzustandes auf die Verkehrssicherheit
+
+Bedeutung des Radauswuchtens auf das Fahrver
+. halten
+
+ASAO und Sicherheitsbestimmungen
+Kenntnis der StVZO
+
+l45 Motorkupplungen
+
+120 Bremsen
+
+Aus- und Einbau von Bremstrommeln, Brems
+backen, Bremsscheiben, Bremssattel,
+Bremsträgern, Haupt- und Radbremszylindern
+
+Erneuern von Bremsbelägen
+
+Prüfen und Erneuern von Bremsseilen,
+Bremsgestängen und Bremsleitungen |
+Wechsel von Haupt-, Tandem-, Radbremszylindern, Bremskraftverstärkern und
+Bremsdruckbegrenzern
+
+Einpassen von Bremswellen
+
+Vertiefen der Arbeitstechniken "Reiben";
+
+Nieten",
+
+ten"
+
+"Verschrauben", “Versplin
+EKEinstellen und Nachstellen von Bremsen
+
+Entlüften von hyAraulischen Bremsanlagen ;
+
+Entlüften von Zweikreisanlagen
+
+Pflegen und Wartung von Bremsanlagen
+
+Aus- und Einbau von Druckluftbremszylin
+dern,. Drückreglern, Motorwagen=- und Anhängerbremsventilen, Steuerventilen und
+Bremskraftreglern
+
+Instandsetzen von kombinierten Bremsanlagern
+
+Prüfen der gesamten Bremsanlage
+
+Kraftübertragung
+
+Aus- und Einbau von Kupplungen mit
+allen bedingten Nebenarbeiten
+
+Erkennen von Verschleiß‘ an den Kupplungen und dessen Ursachen
+
+Beseitigen von Störungen an Kupplungen
+und deren Ursachen
+
+Prüfen und Einstellen von Kupplungen
+
+Entlüftender Kupplungshilfen
+
+24219
+
+Arbeitstechniken beim Aus- und Einbau von
+Teilen und Baugruppen der Bremsanlage
+
+Notwendigkeit und Vorgang des Entlüftens 1
+; |
+
+ASAO und Sicherheitsbestimmungen
+
+Kenntnis der StVZO,
+Abschnitt 3$5 46 und 47
+
+Kenntnis über die vom Hersteller festgelegten Sicherheitsbestimmungen
+
+Funktionelles Begründen von Bremsstörungen
+Beachten der Störungen durch defekte bzwe
+.falsch eingestellte Bremsen
+
+Montagehinweise und Herausbilden von Fertigkeiten bei der Instandhaltung der hydraulischen Bremganlage
+
+Störungen in der Druckluftbremsanlage und
+
+deren Ursachen
+
+Bezüge zum Lehrgang |
+Fehler- und Ursachenermittiung herstellen
+
+Fertigkeiten bei Wartungs- und Kontrollarbeiten an.der Druckluftbremsanlage
+
+Druckluftunterstützte hydraulische Bremsanlagen
+
+Auswerten und Beurteilen von Diagrammen und
+Daten von Bremsprüfständen
+
+>
+
+210/185 Stunden .
+
+Einhalten und Beherrschen der technologischen
+
+Arbeitsabläufe
+
+Besonderheiten der verschiedenen Kupplungsbetätigungsmöglichkeiten
+
+Funktioneller Einfluß der Kupplung auf die!
+Nutzungsdauer anderer Baugruppen der Kraftübertragung
+
+Leistungsverluste i im Zusammenhang mit dem Einstellen der Kupplung
+
+ASAO-361/2
+
+Betriebliche Sicherheitsbestimmungen
+
+33
+7
+
+Wechselgetriebe
+
+Aus- und Einbauen von Schaltgetrieben,
+
+Nebengetrieben und Verteilergetrieben
+
+Feststellen und Beurteilen von Verschleiß
+
+15
+
+und Beseitigen der Ursachen
+Instandsetzen von Getrieben
+Abdichten der Getriebegehäuse und der
+Antriebs- bzw. Abtriebswellien
+
+Gelenkwellen
+
+Aus- und Einbauen von Gelenkwellen
+
+75
+
+Regeln für das Einbauen von Gelenkwellen
+unter Beachten der Gelenkstellung erarbeiten
+
+Auswuchten und Transport von Gelenk
+wellen
+
+Aus- und Einbauen von Zwischenlagerungen der Gelenkwellen
+
+Zerlegen, Erneuern der Lager und Abdichtungen sowie Zusammenbauen von Zwischenlagern
+
+Achsantrieb und Ausgleichgetriebe
+
+Aus- und Einbauen von Achsantrieben
+
+Feststellen, Beurteilen und Beseitigen
+des Verschleißes und deren Ursachen
+
+Abdichten der Gehäuse ud. .der Antriebs
+wellen
+
+215
+
+Instandsetzen von Achsen Achsantiieß
+und deren Einstellung
+
+Aus- und Einbauen von Mötoren ein
+schließlich aller Nebenärbeiten
+
+Feststellen, Beurteile und Beseitigen
+
+‚ Einsatz von günstig anzuwendenden Werkzeugen
+
+24219
+
+Erkennen von Einbaufehlern
+
+Auswirkungen von schlechter Arbeit
+
+Begründen der Einbauvorschriften von Gelenk
+Kennenlernen .des technologischen Arbeitsablaufes
+
+Erwerb von Fertigkeiten bei der Anwendung
+rationeller Arbeitsmethoden
+
+Erkennen von Störungen an Getrieben und
+Schaltübertragungselementen
+
+Beachten und Anwenden rationeller Arbeitsmethoden
+
+ASAO 198 und Sicherheitsbestimmungen
+
+Erkennen von Einbaufehlern.
+
+Unwuchten. und deren Folgen
+
+Feststellen und Beurteilen von Verschleißerscheinungen
+
+Notwendigkeit des Prüfens von Gelenkwellen
+
+wellen ;
+
+ASAO 361/2 und Sicherheitsbestimmung”
+
+Verschleißerscheinungen und mögliche Funktionsstörungen am Achsantrieb. und im Ausgleichgetriebe erkennen ;
+
+Ursachen von Störungen aufzeigen
+
+Reihenfolge der Arbeitsstufen und Besonderheiten der einzelnen Konstruktionen beim
+Aus- und. Einbau feststellen
+
+Hinweise auf die ökonomischen Vorteile bei
+der Verwendung von Austauschbaugruppen
+
+ASAO und Sicherheitsbestimmungen
+
+10 Stunden
+
+Einhalten des technologischen Arbeitsablaufes
+
+Umgang mit Hebezeugen und Anschlagmitteln
+besonders erläutern
+
+Ursachen des Verschleißes kennenlernen, Be
+2
+
+von Verschleiß und dessen Ursachen
+
+Systematische Fehlersuche an Zwei- und
+Viertaktmotoren durchführen ;
+
+Ab- und Anbauen von Zylinderköpfen und
+Erneuern von Zylinderkopf&ichtungen
+
+Bearbeiten von Zylinderköpfen
+
+Ausführen aller anfallenden Ventilarbeiten einschließlich Prüfen auf Gasdichtheit
+
+Einstellen des Ventilspielis
+
+Aus- und Einbauen von nassen Zylinderlaufbuchsen und einzelnen Kolben einschließlich aller bedingten Demontageund Montagearbeiten
+
+Bearbeiten von Dichtflächen an allen
+Bauteilen
+
+Prüfen und Einstellen der Steuerzeiten
+bei vorhandenen bzw. fehlenden Markierungen
+
+Arbeiten an Aufladeeinrichtungen von
+Dieselmotoren ausführen
+
+Aus- und Einbauen von Ölfiltern und Ö1pumpen sowie Ölkühlern
+
+Lagern von Kurbelwellen
+
+Einbauen des Kurbeltriebes
+
+Wechseln von Filtern.
+
+Motorschmierung
+
+Instandsetzen von Motoren .
+
+Arbeiten an der Kraftstoffanlage des
+Motors ; ;
+
+Motorkühlung
+
+Aus- und Einbauen von Buusruppen und Deilen vom Luft- bzwe Flüssigkeitskühlsystem
+
+Feststelien und Beheben von Störungen
+an Kühlsystemen
+
+Überprüfen wartungsfreier Kühlanlägen
+
+Funktionsprüfen von Thernostaten
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+24219
+
+3
+
+AE SELAN E E AAE EN E AEL AN E EAEEAE EL EEA AE AA ALEEE E E EN
+
+urteilen gelaufener Kolben und Gleitlager
+
+Einschätzung der mechanischen Geräusche des
+Motors üben
+
+Hinweise zur spannungafreien Montage, Auszugsmomente und Vorschriften des Herstellers
+beachten
+
+Erläutern der Folgeerscheinungen von undichten Ventilen bzw. falsch eingestellten Ventilspielen
+
+Methoden und Verfahren zur Einstellung der
+Ventile im Zusammenhang mit der Arbeitsweise des Motors (Zündfolge)
+
+Besonderheiten der Kolbenmontage kennen
+lernen
+
+Hinweise des Herstellers beachten
+
+Auf exakte Sauberkeit der Arbeit achten
+
+Zusammenhänge zum Umweltschutz und der Ver
+kehrssicherheit herstellen
+
+Umrechnen von Grad Kurbelwelle in Millinetar
+Schwungscheibenumfang bzw. Kolbenweg
+
+Bedeutung der Altölregenerierung aufzeigen
+
+Verbindung zur sozialistischen ökonomischen
+Integration am Beispiel der Erdölleitung
+Preundschaft" herstellen
+
+. Anwendung von Ölver brauche- und Ölwechsel
+tabellen
+
+Bedeutung des Schmiermittels für die
+Nutzungsdauer des Motors darlegen
+
+Kenntnisvermittlung über betriebstypische
+Motorprüfungen
+
+ASAO 361/2
+Kenntnis der StVZO, 
+Abschnitt 3 $5 50 - 53 ;
+
+. Erläutern der Regelung der Betriebstempera
+tur bei Luft- und Wasserkühlung
+Bezüge zur BMSR-Technik
+
+Bedeutung der Betriebstemperatur auf Leistung‘
+
+des Motors, Lebensdauer und Umweltschutz dar
+Legen
+
+Erkennen der Ursachen von Störungen, Zusammensetzung von Kühlflüssigkeiten .
+
+ASAO und Sicherheitsbestimmungen.
+
+35
+A
+
+45 Kraftstoffanlage und Einspritzanlage
+Aus- und Einbauen von meilen der Kraft
+stoffanlage
+
+Feststellen und Beseitigen von Fehlern
+an der Kraftstoffanlage
+
+Zerlegen, Reinigen, Instandsetzen und
+Zusammenbauen von Kraftstoffiltern
+
+Aus- und Einbauen von Einspritzpumpen
+und, -düsen
+
+Prüfen und Einstellen von Einspritz
+düsen
+Entlüften der Anlage
+
+Einstellen des Förd erbeginns
+Aus- und Einbauen von Vergasern
+
+Nachregulieren von Vergasern
+
+45 Zünd- und Vorglühanlage
+
+Systematische Fehlersuche an der Zündund Vorglühanlage durchführen
+
+Sachgemäßes Handhaben von Prüfgeräten
+Erneuern von Zünd- und Glühkerzen
+
+Einstellen des Zündzeitpunktes an Zweiund Viertaktmotoren
+
+Reinigen, Prüfen und Einstellen von
+Zündkerzen und Unterbrechungskontakten
+
+Ausführen efnfacher Instandsetzungsarbeiten an der elektrischen Anlage,
+
+Aus- und Einbauen von Baugruppen und Tei
+ien der elektrischen Anlage, wie Lichtmaschine, Anlasser, zündspulen,. ‚Geblässmotoren, Unterbrecherkontakte und dargleichen
+
+"Systematisches Beheben einfacher elektrischer und mechanischer Störungehh
+
+Einstellen der Zündung
+
+n
+
+Einfluß der Vergasereinstellung auf die Schad
+ASAO 361/2 und Sicherheitsbestimmungen
+
+führen einfacher Priif=- und Instandsetzungs
+Schrittfolgen und Priüfmethoden für die Feh1ersuche an Kraftstoff- und Einspritzanlagen
+von Otto- und Dieselmotoren erarbeiten und
+erläutern
+Arbeitsfolgediagranm
+
+Ungang mit Prüfgeräten üben
+
+Folgen falscher Einstellung darlegen
+
+Notwendigkeit des Entlüftens herausarbeiten
+
+Beurteilen des Zündkerzengesichtes
+
+stoffe darlegen
+Bezüge zum Umweltschutz herstellen
+
+Erläutern der Abgasprüfungen
+
+Schrittfolgen erarbeiten und üben
+
+Kenntnisse über die elektrischen Schaltungen
+vermitteln
+
+Merkmale von Zzündstörungen darlegen
+Bedeutung der Funktionssicherheit hervorheben
+
+Methoden zur Feststellung und Fixierung des
+Zündzeitpunktes vermitteln
+
+Auswirkung von Früh- und Spätzündungen erLäutern und demonstrLieren
+
+Verbindung zur Materialökonomie herstellen
+Auswerten des Zündkerzengesichts hinsicht
+lLich der Funktion und der Auswahl der Zündkerzen
+
+ASAO und Sicherheitsbestimmungen.
+
+435/110 Stunden
+
+Erarbeiten und Üben von Regeln für das Aus
+arbeiten
+
+Erläutern von .Schwerpunkten bei der Behebung
+von Störungen an der alsektrischen Anlage 80wis bein Aus- und Einbau von Baugruppen und
+eilen
+
+Varbindung zu Lehrplan, wahletortung und
+Ursachenermittiung heratelien
+
+Bedeutung für Leistung und Wirtscha elichkeif”
+des MotOorE
+Auswechseln und Auswahl von Glühlampen
+und Sicherungen ;
+
+Aus- üund Einbau von Sammlern sowie Auswechseln von Anzchinßkienten
+
+Durchführen von Pflegearbeiten an Sammlern
+
+Ausführen von Kontroll- und Einstellarbeiten, um Fahreigenschaften und Fahrsicherheit zu gewährleisten, wie
+Lenkanlage, Bremsanlage, Federung, Bereifung; Aufbauten, Rahmen und elektrische Anlage
+
+Motor (Leistung und Verbrauch)
+Abgasanlage und Abgastest
+
+e
+
+Abfertigen von Revisions- und Diagnoseberichten und Auswerten von Diagrammen
+
+Arbeiten mit den dazugehörigen Prüf- und
+Meßgeräten
+
+meiinahna an Prüffahrten
+
+Arbeiten nach Revisionsplänen
+
+Arbeiten an betrieblichen Prüfeinrichtun- 
+gen und Kontrollplätzen.
+
+Wartung und Pflege
+
+Laufende. Wartungs- und i Eflegearbeiten
+am Kfz.
+
+x
+
+Arbeiten nach ege- und Durchsichtsan
+weisungen
+Anfertigen von Befundberichten
+
+Arbeiten mit den dazugehörigen Prüf- und
+Meßgeräten +
+
+Hinweise auf Umweltschutz beachten
+
+. Verbindung zum Lehrgang Wartung und Pflege
+
+Begriffsbestimmungen, Anwendung und wirt
+-arbeiten
+
+Ökonoinische Bedeutung
+
+24219
+
+Umgang mit Säuren und Laugen
+
+Auf ASAO 361/2 und ASAO 900 hinweisen sowie
+Erläuterungen der TGL-Vorschriften und StVZO,
+Abschnitt 3 $$ 56 - 63
+
+(
+
+135/110 Stunden |
+
+Die Lehrlinge sind mit den Güte- und Kontrollbedingungen bzw. Bauvorschriften vertraut zu machen, damit sie bewußt ökonomische Probleme erkennen und aktiv an der Steigerung der Arbeitsproduktivität teilnehmen
+
+Einfluß der vorbeugenden Instandhaltung auf
+die Lebensdauer der Kraftfahrzeuge, ihre Baugruppen und Einzelteile herausarbeiten
+
+Bedeutung von Disziplin, Ordnung und Sauberkeit am Arbeitsplatz .
+
+=
+
+Anleiten zum selbständigen Arbeiten mit Plänen, Reparaturhandbüchern und Betriebsaniei
+tungen
+
+Erkennen der Bedeutung einer richtigen
+Diagnose für die nachfolgende Instandsetzung
+
+Erläutern der Schmier- und Durchsichtpläne
+
+Kenntnisse über richtige Wahl und Anwendung
+der Schmiermittel
+
+135/110 Stunden
+
+schaftliche Bedentuhg der Eriene und Wartungs
+Anleiten zum selbständigen Arbeiten mit Durchgichtsanweisungen
+
+Regeln für den Sommer- und Winterbetrieb
+
+Beziüge zu den. Aufgaben der Zivilverteidigung
+herstellen
+
+Hinweise auf Garantie- und Gewährleistungsbedingungen
+
+37
+38 | | 24219
+
+Ziel und Aufgaben
+
+Der Einsatz bezieht sich auf die Vorleistungen der gesamten berufstheoretischen und berufsprak
+Hier sollen die Jugendlichen am gesellschaftlichen Leben der Brigade bZzw. des Betriebskollektivs
+
+Schmierung und Wartung des Fahrwerks
+Abschmierarbeiten nach Schmierplan. Werkzeuge und Geräte für Arbeiten am Schmier
+system und zum Abschmieren
+
+ölstandkontrolle und Ölwechsel Erkennen und Beurteilen von Verschleiß am
+Fahrwerk, dessen Ursachen und Schäden, die
+Auswechseln von Schmiernippeln auf mangelhafte Überwachung des Schmiersystems
+. .
+
+zurückzuführen sind
+
+Arbeiten im Kundendienst Erziehen zur Höflichkeit und Korrektheit gegen; über den Kunden |
+
+rbeitsplatz . 00/275 Stunden
+
+Einarbeitung am_künftigen
+
+Dieser Abschnitt der Ausbildung soll der unmittelbaren Einarbeitung in das künftige Arbeitsgebiet als Facharbeiter dienen. Dabei ist der zukünftige Facharbeiter zum beständigen Erreichen
+der Facharbeiterleistung zu führen. |
+Besonderer Schwerpunkt ist die Erziehung zur Selbständigkeit, Selbstkontrolle, bewußten Disziplin, Ordnung und Sauberkeit sowie zum Hineinwachsen in das Arbeitskollektiv der betrieblichen
+Abteilung bzw.e des Betriebes.
+
+Methodik und Organisation |
+
+a
+
+tischen Ausbildunge
+
+Die Lernenden sind an ihrem künftigen Arbeitsplatz einzusetzen, deh. in einem betrieblichen Proauktionsbereich einzugliedern und einer Brigade zuzuordnen.
+
+teilnehmen und die Hilfe und Erfahrungen der Werktätigen für ihre Entwicklung nutzen.
+
+Die Vertiefung von Fähigkeiten und Pertigkeiten bezieht sich hier vor allem auf die speziell für
+den Arbeitsplatz notwendigen Arbeitstätigkeiten. ;
+
+In diesem Abschnitt gibt der Lernende die Hausarbeit zur Facharbeiterprüfung ab, in der er den
+Nachweis über das in der Berufsausbildung Erlernte erbringt.
+
+Gemäß Prüfungsordnung erhält er dazu vom Betrieb das Thema und zur Unterstützung einen Mentor.
+Die Leistungen innerhalb dieses Einsatzes sind zu ermitteln und darüber eine Abschlußzensur ZU
+erteilen. i |
+
+Die Arbeitstätigkeiten sind betrieblich festzulegen, sie entsprechen den Aufgaben und Tätigkeiten-des Betriebes bzw. der Abteilung oder Brigade. Erziehungsschwerpunkte, Zzu erwerbende
+
+Fähigkeiten und Fertigkeiten werden analog vom Arbeitskollektiv abgeleitet.
+
+Erwerb von Berechtigungsnachweisen ;
+Im Rahmen des berufspraktischen Unterrichts. können entsprechend den betrieblichen Erfordernissen foigende Berechtigungsnachweise erworben werden: .
+
+1. Berechtigung zum Brennschneiden nach Lehrplan ZIS Halle
+Lehrplanbaukasten R 315 - 73 Teil R 315 =01 +)
+Lehrgangsdauer 80 Stunden.
+; % =
+
+2. Berechtigung zum Gasschweißen von Blechen bis 2 mm nach Lehrplan ZIS Halle
+Lehrplanbaukasten R 315 - 73 Teil R 315 - 02 *)
+Lehrgangsdauer 80 Stunden,..
+
+3Z Fahrerlaubnis Klasse I und V .
+(Ausbildung als Militärkraftfahrer im Rahmen der vormilitärischen Ausbildung Laufbahnausbildung Militärkraftfahrer = möglich),
+
+\
+
+Die erworbenen Berechtigungen sind durch Nachweis Zzu bestätigen. .
+Sie erscheinen jedoch nicht als Prüfungsgebiet mit einer Zensur im Facharbeiterzeugnis.
+
+4)
+
+Werden beide Lehrgünge komplex durchgeführt, sind insgesamt 120 Stunden dafür
+. vorzusehen. —
++
+
+24219 | 39
+
+|
+
+4
+. \
+e /
+. . 1
+O .
+(
+o .
+45 f . .
+o
++> £ E .
+1
+o b0
+r
+E = \
+e0 o
++ .
+N x
+D
+}
+A ( T . .
+a . - .
+.
+O
+A r L
+n . 4
+% . 1 ; . A
+f
+o . .
+;
+- .
+. .
+N
+\ |
+
+41
+
+24219
+
+S
+
+‚l
+
+i.2.10 Berufstheoratischer Unterricht 306./288 Stunden
+
+Ziel und Aufgaben
+
+Das Unterrichtsfach Fahrzeugkunde dient der. Vermittlung technologoscher Grundlagen der modernen Produktionstechnik des Kraftfahrzeuges und deren Entwicklung. Der gesamte Unterricht {st dabei
+naturwissenschaftlich und gesellschaftswissenschaftlich so zu durchdringen, daß die Lernenden .
+erkennen, welche ökonomischen, naturwissenschaftlichen und technischen Gesetze dem Kraftfahrzeugbau zugrunde liegen. Weiterhin sind im Unterrichtsprozeß die Lernenden zur Betriebstreue,
+zur Mitarbeit im Neuererwesen und zur Beteiligung an der Messe der Meister von morgen zu er
+ziehene
+
+Methodik ‚und Organisation
+effektiver Methoden ist das Aneignen von Kenninissen; der Erwerb von Fähigkeiten und Fertigkeiten zu formen. Die Gestaltung des Lehr- und Lernprozesses muß die Lernenden
+
+zu einer selbständigen, aktiven, schöpferischen und bewußten Lerntätigkeit führen. Durch den
+mer Unterrichtsmittel und durch Experimente ist der Unterricht ratio
+Durch das Anwenden
+
+Einsatz erkenntniswirksa
+nell zu gestalten und die. aktive Wissensaneignung zu förderne.
+Im Unterricht sind die Empfehlungen für das Einbeziehen der‘ Erfordernisse der Zivilverteidigung,
+des Havarie- und Brandschutzes in der Berufsausbildung zu erfüllen. Zu Aufgaben des Umweltschut
+zes, zur ökonomischen Energieanwendung und zu den Unterrichtsfächern
+
+echnische Stoffe Fertigungstechnik
+Fachzeichnen ; Betriebsökonomik und
+
+Grundlagen der Sozialistisches Recht
+
+| technischen Mechanik
+
+sind stets Bezüge herzustellen.
+
+Lehrplan Fahrzeugkunde
+
+Erziehungsschwerpunkte, zu erwerbende
+
+Sta. Stoffgebiet und stoffliche
+Fehigkeiten und Fertigkeiten, ökonomische
+
+Schwerpunkte .
+
+und allgemeinbildende Bezüge f
+
+1 2
+
+101/96 Stunden
+
+. Einführung in die Fahrzeugkunde
+
+5 Erläutern der Fahrzeuge mit ihren Merkmalen |
+Fahrzeuge und ihre Verwendungszwecke | Ökonomische Betrachtungen über den richtigen
+Fahrzeuge und ihre Antriebsart‘ . und planmäßigen Einsatz von Fahrzeugen
+
+;
+AE N
+
+A
+
+Hauptteile der Fahrzeuge Erkennen der Bedeutung der Kraftfahrzeugmon; tage im Zuge der wissenschaftlich-technischen
+
+Masseberechnungs ; Revolution bei der Produktion und Instandhaltung von Kraftfahrzeugen
+
+Entwicklungstendenzen im Fahrzeugbau aufzei
+gen
+
+| 2 24219
+
+Steigungswiderstand und Gefällekraft
+
+Begriffserklärung von. Steigung und
+Steigleistung
+
+Rahmen
+
+Aufgaben und Beanspruchung
+Profilquerschnitte
+
+Bauformen und ihr Verwendungszweck
+
+Federung und Schwingungsdämnpfer
+Grundlagen der Fahrzeugfederung
+
+Aufgaben und Arten der Schwingungen
+Federkennlinien
+
+Untersuchen der gefederten und ungefederten Masse
+
+Aufbau, Wirkungsweise und Anwendung der
+.verschiedenen Federungselemente
+
+Blattfedern, Schraubenfedern, Drehstabfedern, Gummifedern, Luftfedern
+
+Berechnen von Federweg und Verhalten
+der Feder bei Belastung
+
+Aufbau und Wirkungsweise der hydraulischen Stoßdämpfoer
+
+Untersuchen der Zusammenhänge zwischen
+Feder und Stoßdämpfer
+
+Einsatzbedingte Bauformen und deren
+Wirkungsweise. ist zu untersuchen
+
+; Achsen; Wellen, Lager
+Aufgaben und Verwendungszweck
+
+Arten der Kraftfahrzeugachen
+Starrachsen, Halbachsen
+Einzelradaufhängungen
+
+Vorspur, Radsturz, Spreizung und. Nachlauf
+Berechnungen zur Lenkgeometrie
+
+. Achslager: Aufgabe,. Aufbau und Wirkungsweise
+
+Berechnungen von Achslagemund Achslasten
+
+Kennenlernen von Sinnbildern der einzelnen Maschinenelemente
+
+Gleit- und Wälzlager
+
+Wellen und Achsen
+
+24219
+
+Erziehen zur verantwortungsbewußten Arbeit
+und Gewissenhaftigkeit‘
+
+Darlegen der Beanspruchungsarten und Hinweise
+- auf materialschonenden Fahrbetrieb
+
+Erziehen zum folgerichtigen Denken, zur Sau
+berkeit, Sorgfalt und Gewissenhaftigkeit
+
+Lesen und Deuten von Diagrammen hinsichtlich
+der Federkennlinien
+
+Erkennen des Einflusses der Fedetung mit
+
+Schwingungsdämpfer auf die Fahrsicherheit und
+
+Fahreigenschaften
+
+Darlegen der, von den Werkstoffen abhängigen
+Anwendungsmöglichkeiten
+Erkennen der Kraftwirkung bei Belastung
+
+Bezüge zum Fach Technische Stoffe herstellen
+
+Anwenden und Festigen der Grundgesetze der
+Hydraulik anhand des Stoßdämpfers
+
+Bezüge zur technischen Mechanik herstellen
+
+Erziehen zur Eewissenhaften und gauberen Ar
+beit im Produktionsprozeß
+
+Erziehen zur fehlerfreien Arbeit und zur Beurteilung der Funktionstüchtigkeit der einzubauenden Teile
+
+Bezüge zum Fach‘“ Fertigungstechnik herstellen
+
+Erkennen der Bodeutung der Stellung der Vorderräder und ihr. Zusammenwirken
+
+Bezüge zur Geometrie und Mathematik 
+43
+
+10
+
+24
+
+Lenkung
+
+Aufgabe, Anforderungen und . Gesetzmäßigkeiten.
+
+Übersicht über Fahrzeuglenkungen
+
+Arten der Lenkgetriebe
+hydraulische Lenkhilfen
+
+Berechnungen zur Lenkung
+
+Anhängerkupplungen
+
+Anforderungen, Rechtsvorschriften undBauausführungen
+
+Räder und Bereifung
+Anforderungen und Bauformen
+Herstellungsverfahren
+Reifenbezeichnung und Abmessungen
+
+Auswuchten ;
+Reifenpflege
+Berechnungen
+
+Bremsen
+
+Aufgaben, Anforderungen und gesetzliche
+Bestimmungen
+
+Arten der Bremsen
+Unterscheidung nach Konstruktion 
+Trommelbremse, Scheibenbremse ;
+
+Unterscheidung nach der Wirkungsweise
+Simplex-, Duplax- und Servobremse
+Unterscheidung nach der Bremskraftübertragung:
+
+mechanisch, hydraulisch, pneumatisch
+Einsatzwöglichkeiten
+
+Bremsfading .
+
+Berechnen von Bremskraft, Fußkraft,
+Bremsweg, Bremsverzögerung
+
+Montage beschreibungen
+Beschreiben von Einzelteilien
+
+Erkennen der funktionellen Zusammen
+hänge
+
+Schmiereinrichtung
+Notwendigkeit der Schmierung
+
+Auswahl der Schmiermittel
+
+-läutern eines Schmierplanes
+Arten der Schmiersysteme
+Einzelschmierung, Gruppenschmierung,
+Zentralschmierung
+
+sicherheit und des Schutzes von Menschenlieben
+
+Für das Stoffgebiet Bereifung
+sonders die Bedeutung der synthetischen
+
+Bedeutung des richtigen Handhabens der mwoder- \
+nen Schmiereinrichtung ;
+
+2442419
+
+Herausarbeiten der Abhängigkeit der Verkehrs
+von einer funktionstüchtigen Lenkung
+
+Erziehen zur sozialistischen Arbeitsmoräl
+
+Bedeutung des richtigen Materialeinsatzes
+‚und der einwandfreien qualitätsgerechten
+Fertigung
+
+Bezüge zu den Grundlagen der technischen
+Mechanik herstellen
+
+sollte be
+Gummierzeugung herausgearbeitet werden und
+die uns zur Verfügung stehenden Rohstoffe
+
+Die Lernenden sind zu hohem Verantwortungsbewußtsein zu erziehen
+
+Sie müssen die Gesetzmäßigkeiten von Masse,
+Beschleunigung und Bremsweg erkennen
+Erziehen zum konsequenten Einhalten aller
+Rechtsvorschriften und notwendigen Kontrollen
+der Bremsanlage
+Erkennen des Zusammenhanges zwischen Bremsanlage, Bremsvorgang und Fahreigenschaften.
+Bezüge zum Fach Physik der polytechnischen
+
+Oberschule und dem Fach Grundlagen der. technischen. Mechanik herstellen
+
+4
+
+Auf die Wichtigkeit der regelmäßigen und ordnungsgemäßen Schmierung eingehen
+
+Wartungsfreie Lagerstellen
+
+10 Instandhaltung von Fahrwerksteilen
+Ziel der Instandhaltung
+. Grundbegriffe der Instandhaltung
+Überprüfung
+Wartung und Pflege
+Instandsetzung
+Elements der Instandhaltung S
+
+10 Motorkupplungen |
+Aufgaben und Anforderungen
+Arten der Kupplungen
+mechanische Kupplungen
+Strömungskupplungen
+Wirkungsweise der Kupplungen
+Wärmeentwicklung und Verschleiß
+Berechnungen von Kräften an der Kupplung
+Sinnbildliche Darstellung
+
+22 Wechselgetriebe
+Aufgaben, Anforderungen und Wirkungsweise
+Arten der Getriebe
+
+mechanische Getriebe
+Strömungsgetriebe
+
+Bestimmnungsgrößen am Zahnrad, Zahnformen
+
+Berechnen von einfachen Getrieben im
+Kraftfahrzeugbau
+
+Kraftflußbilder.
+
+Sinnbildliche Darstellung .
+Montagebeschreibungen
+
+4 Gelenkwellen
+Arten und Anordnungen
+Beanspruchungen
+Arten der Gelenke
+Auswuchten
+
+T Achsantrieb
+
+Aufgaben und Beanspruchungen
+
+Arten der mittelbaren und unmittelbaren
+Übertragung
+
+Ausgleichgetriebe
+Wirkungsprinzip
+Wirkungsweise der Ausgleichsperre
+
+Erkennen der funktionellen Zusammenhänge
+
+Bezüge zum Fach Technische Stoffe herstelien
+
+\
+
+Bedeutung der regelmäßigen Durchsichten am
+Fahrzeug für die Sicherheit im Straßenverkehr
+
+Bezüge zum Umweltschutz herstellen
+Querverbindungen zum Fach Betriebsökonomik
+
+herausarbeiten
+
+45 | Stunden
+
+Auf die Bedeutung der Typisierung und Stan
+dardisierung von Baugruppen ist hinzuweisen
+
+Die Lernenden sollen den Einfluß auf die
+
+Lebensdausr und Möglichkeiten des rationellen
+Austauschbaues erkennen
+
+Erziehen zum Kosten-Nutzen-Denken
+
+f
+
+. \ .
+Anwenden der Kenntnisse aus der Physik: Leistung, Reibung, Geschwindigkeit und Kräftezer-,
+
+legung sind zu festigen
+
+Bezüge zu den. Fächern Grundlagen der techni
+schen Mechanik und Fachzeichnen herstellen
+
+Erziehen zur Qualitätsarbeit
+
+1
+
+Erkennen des Zusammenhangs von Drehmoment,
+Übersetzung und Geschwindigkeit
+
+Demonstrieren des Achsausgleiches am Model1
+
+Fördern des Beobachtungsvermögens
+4 WNeuzeitliche Antriebsarten für Kraftfahrzeuge
+
+Kreiskolbenmotor . Den Lernenden sollen abgeleitet aus. der geGasturbine schichtlichen Entwicklung der FahrzeugmotoElektroantrieb ren die heutigen Erkenntnisse und Untersuchungen für den Einsatz neuer Antriebs. aggregate im Fahrzeugbau vermittelt werden
+
+10 Instandsetzung von Motor und Getriebe ;
+
+Triebwerkwiderstand. Wöglichkeiten der industriellen InstandMechanischer Reibverlust‘ am Fahrzeug - setzung, Austauschprinzip und Materialeinsatz
+
+\
+
+- Reibkräfte in Lagern
+Reibkräfte bei Zahnrädern Anerziehen von Fähigkeiten zur Anwendung des
+- Systems der fehlerfreien Arbeit, zur Beurteilung der Funktionstüchtigkeit des Fahr
+. zeuges und des Erkennens der Bedeutung der
+
+; Fahrzeugmechanik
+6 -Aufbauten
+Erläutern der einzelnen Aufbauten und | Beurteilen von Kraftfahrzeugtypen
+deren Zubelörteile | . Kennenlernen von Typenprogrammen und BaukaMittragende Bauwelsen stensystemen sowie Aufbauvarianten
+
+Selbsttragende Bauweisen
+Karosserien mit innerem Bremsweg
+Sonderbauarten Entwickeln des ökonomischen Denkens durch
+Berechnungsbeispiele durchführen Vergleiche des technologischen Aufwandes bei
+' ; Demontage- und Montagearbeiten
+
+Erkennen der Bedeutung des Leichtbaues
+
+2 Luftwiderstand
+
+Strömungsverhältnis am Fahrzeug Entwickeln des physikalischen Denkvermögens
+Dynamischer Druck: . Erkennen der Bedeutung einer sinnvollen VerStatischer Druck ; knüpfung ästhetischer und physikalischer
+Kräfte am Fahrzeug Gesichtspunkte bei der Gestaltung von FahrMerkmale der Gentaltung von Aufbauten zeugen ;
+Elektrische Ausrü atung gen/Eflege und_War riung. von.Kraftfahrzeugen B2/46 Stunden.
+
+4 Elektrische Arbeit und Teistung beim Fahrzeug
+Maßeinheiten ; Herausstellen der volkswirtschaftlichen Be‚elektrische Arbeit ; deutung hinsichtlich der Erzeugung, des |
+elektrische Leistung Transports und-des sparsamen Verbrauchs .elekelektrischer‘ Wirkungsgrad trischer Energie
+
+10 Stromerzeugung‘
+Aufbau und Wirkungsweise der Batterie . Bei der Behandlung dieses Stoffgebietes sil
+
+Bei der Behandlung dieses Stoffgebietes sol
+len die elektrischen Spannungsquellen und.
+
+deren Schaltmöglichkeiten als Gründlage der
+praxisverbundenen rechnerischen‘ Durchdrin
+Berechnen der Kapazität und gung des Stoffes genutzt verden
+
+der Belastbarkeit der Batterie
+
+Aufbau und Wirkungsweise der Lichtnaschine und des Reglers und deren Zusammenwirken
+
+Bezüge zum Physikunterricht der Oberschule
+Berechnen der elektrischen Leistung herstellen
+
+83 24219
+Elektromagnetische Induktion
+
+Energieerhaltungsgesetz
+Generatorprinzip
+Selbstinduktion
+
+Stromverbraucher
+
+Aufbau und Wirkungsweise des Anlassers,
+
+richtungsanzeiger und sonstige alektronische Einrichtungen sind zu untersuchen
+
+Schaltpläne erläutern
+
+Berechnen von Leistung und Wirkungsgrad,
+Leistungsverlust, Übersetzung und Drehzahl
+
+3 WMehrphasensysteme beim Fahrzeug
+
+Begriffserklärung
+Verkettungsschaltungen
+Kennfarben und -buchstaben
+
+2 Nieder- und Hochspanhungstrafo
+
+Zündspule
+
+Pflege und Wartung von Kraftfahrzeugen
+
+Untersuchen der Pflege-, Wartungs- und
+Konservierungsarbeiten nach der Montage
+
+Abschmieren nach Schmierplan
+Zusammensetzung und Auswahl der Schmierstoffe
+
+14 Ausgleich
+
+A2.2. Berufspraktischer Unterricht
+
+Beleuchtungsanlage, Signalanlage, Fahrt
+Erkennen des komplexen Charakters elektri
+scher und wmagnetischer Felder unter Bezugnahme auf eiektrische Maschinen
+
+Anregen zur Mitarbeit im Neuererwesen und in
+Arbeitsgemeinschaften
+
+Erkennen der ökonomischen Bedeutung der
+Standardisierung im nationalen Maßstab
+
+Umgang mit Schaltplänen üben
+
+Bezüge zum Fachzeichnen durch Lesen und
+Deuten von Sehaltzeichen und Schältplänen
+anhand von betrieblichen Maschinen und Anlagen herstellen
+
+Die allgemeinen Grundsätze der Wartung und
+Pflege der Fahrzeuge sind erzieherisch zu
+nutzen; dabei ist die Wechselbeziehung
+zwischen Qualität der Einzelteile und des
+Gesamtprodukts darzulegen
+
+1700/1525 Stunden.
+
+Es sind alle Potenzen im berufspraktischen Unterricht zu nutzen, um bei den Lernenden das Be=
+. wußtsein und den Stolz zu vertiefen, Angehöriger der Arbeiterklasse zu sein. Es sind alle Eigen
+schaften eines sozialistischen Facharbeiters zu entwickeln. Vor allem ist die Bereitschaft an-.
+zuerziehen, kühn .und beharrlich ‚um das Weus zu kämpfen, Berufs- und Betriebstreue zu wahren und
+
+im Mehrschichtsystem zu arbeiten;
+
+Die Lernenden sind zu befähigen, die erworbenen Kenntnisse, Fähigkeiten und Fertigkeiten in der
+Praxis folgerichtig anzuwenden. Das Leistungsvermögen der Lernenden ist voll auszuschöpfen mit
+dem Ziel, am Ende der Lehrzeit beständig die Facharbeiterleistung zu erfüllen. Während der Ausbildung ist die Fähigkeit und Bereitschaft zu entwickeln,
+
+= den Arbeitsablauf und den Binsatz der Arbeitsmittel nach, ökonomischen Gesichtspunkten ZUu
+
+planen und zu gestalten
+
+die Arbeitsmittel und Arbeitsgegenstände sorgfältig zu behandeln, zu warten und zu pflegen
+= Sparsam mit Material umzugehen
+
+24219
+
+- mit technischen Dokumentationen und unter bewußter Anwendung der theoretischen Kenntnisse zu
+arbeiten ;
+- die Forderungen der Zivilverteidigung, des Havarie- und Brandschutzes, des Umweltschutzes,
+
+des Landeskulturgesetzes und der Arbeitsschutzanordnungen zu erfüllene.
+
+A . .
+Die aktive Teilnahme am sozialistischen Berufswettbewerb ist zu fördern. Die Lehrlinge sind
+
+zu befähigen, sowjetische Neuerermethoden anzuwenden und enge Verbindung zu den sozia| listischen Arbeitskollektiven herzustellen. > |
+
+Methodik und Organisation
+
+Zur Durchsetzung einer sozialistischen Ausbildungsmethodik sind die Arbeitstechniken unter den
+| könkreten Bedingungen der forgeschrittensten Produktions- und Arbeitsbedingungen durchzuführen.
+; Dabei müssen .der Umfang und die Art der bereits von den Lernenden erworbenen grundlegenden Ar| . beitstechniken berücksichtigt werden. Prinzip der Ausbildung muß es sein, daß von den Lernenden
+die standardtechnischen, funtionellen, technologischen, rechnerischen und wirtschaftlichen
+Probleme bei jeder einzelnen Arbeit erfaßt werden.
+Der Unterricht ist so zu gestalten, daß im Mittelpunkt das Unterrichtsgeschehens das selbstän.dige, aktive, schöpferische und bewußte Lernen steht. In diesem Zusammenhang ist den Lernenden
+. zeitweilig sowohl einzein als auch im Kollektiv die volle Verantwortung für bestimmte Produktions- und Arbeitsaufgaben zu übertragen. Sie müssen frühzeitig mit dem sozialistischen Wettbewerb, dem Ringen um die Planerfüllung ;hres Betriebs und mit der komplexen Rationalisierung
+des Produktionsprozesses vertraut gemacht und aktiv einbezogen werden.
+
+. Bezüge sind zu folgenden Fächern herzustellen:
+
+. Kraftfahrzeugkunde
+. = Fachzeichnen
+. = Technische Stoffe
+Grundlagen der technischen Mechanik
+; = Betriebsökonomik
+— Sozialistisches Recht
+— Werkstoffbearbeitung und -prüfung
+1 ;
+Bei der Ausarbeitung der thematischen Planung ist zu gewährleisten, daß der Umfang und der In; halt den betriebsspezifischen Aufgaben der Herstellung von Neufahrzeugen entsprechen, Es ist
+zu gewährleisten, daß die Lehrlinge einen längeren Zeitraum am künftigen Arbeitsplatz als Fach
+arbeiter ausgebildet werden.
+
+Lehrplan
+
+Sta, Stoffgebiet und Arbeitstätigkeiten Zu vermittelnde Kenntnisse, zu erwerbende
+| - ; ; . Fähigkeiten und Fertigkeiten, Erziehungs. schwerpunkte, ökonomische und allgemeinbil
+dende Bezüge
+
+Motor | 380/330 Stunden
+120 Montieren von Verbrennungsmotoren
+
+\ Vorbereiten und Zusammenbauen von Otto- Arbeitstechniken beim Zusammenbau der Motor; und Dieselmotorteilen . teile üben
+
+Montieren der Teile und Aggregate nach Kenntnisse über die Bearbeitung von Kurbel
+Arbeitsplan wellen, Kolben, Zylinder und Nockenwelien
+
+mittel
+Einstellen des Motors nach Betriebsvor- ver en
+
+schrift Motorsteuerung und Motoreinstellung erläutern
+
+50 | 24219
+
+Einbauen und Einstellen von Vergasern und
+Einspritzpumpen
+
+Fertigmontage des gesamten Motors
+
+110 Ein- und Ausbau von Kraftfahrzeugmotoren.
+Demontage und Vorbereitung der Einzelteile für die nachfolgende Montage
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+Arbeiten an der Zündanlage
+
+Einstellen des Zündzeitpunktes bei Ottomotoren und des Förderbeginnes bei Dieselmotoren
+
+Arbeiten mit Prüfgeräten für Förderpumpen,
+Einspritzpumpen und Düsen üben
+
+Anwenden der Methoden für die systematische Fehlersuche an der Zündanlage
+
+Einhalten der Arbeitsschutzanordnungen.
+und. Sicherheitsbestimmungen ;
+
+\
+Arbeiten am Kühl- und Schmiersystem
+Montage von Kühl- und Schmiersystemen an
+
+Otto- und Dieselmotoren
+
+Anbauen von Gebläseantrieben und Flüssigkeitspumpen. |
+
+Auswechseln von Thermostaten
+Auf- und Abbauen von Kühlern
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+- 24219
+
+3
+
+Konstruktive Zusammenhänge, ökonomische
+
+Prinzipien der Tauschteilwirtschaft
+
+Erziehen zur Sorgfalt und Gewissenhaftigkeit ;
+Funktion von Vergaser und Einspritzpumpe 80wie das Montieren und Einstellen erläutern
+
+Erziehen zur Qualitätsarbeit
+
+Die Organisation am Arbeitsplatz, rationellles Arbeiten, Taktsystem, wirtschaftliche
+Fertigungsverfahren
+
+Aufbau und Wirkungsweise .von Otto- und Diesel
+motoren, Zweitakt und Viertakt
+
+Grundlagen der Montage dieser Motoren
+
+Mentagetechnologien für Kraftfahrzeugmotore
+
+Aufzeigen von Fehlern bei der Demontage und
+
+Montage
+
+Vermitteln der Arbeitsschtzanordnungen und
+Sicherheitsbestimmungen, ASAO 361/2 besonders der ASAO 5
+
+7
+
+Erkennen der. Funktion der Zündspulen und
+Zündverteiler.
+
+Kenntnisse aus dem berufstheoretischen Unterricht über Batteriezündungen an Ottomotoren
+und Vorglühanlagen an Dieselmotoren anwenden
+
+Auswahl der Arbeitsmittel nach technologischen und ökonomischen Gesichtspunkten treffen
+Erziehen zur Selbständigkeit und Zuverlässigkeit
+
+Bezüge zu den Grundlagenfächern herstellen
+
+Vermitteln der Arbeitsschutzanordnungen und
+
+Sicherheitsbestimmungen ASAO 361/2
+
+Kenntnis über Zweck, Aufbau und Wirkungsweise wichtiger Arten der Kühl- und Schmiersysteme
+
+“Arbeitsregeln für das Ausführen von Prüfarbeiten an Kühlsystemen von Otto- und Diesel
+motoren (Gebläse-Luftkühlung und Flüssigkeitskühlung)
+
+Erkennen von Schäden, die durch Störungen am
+
+Kühl- odar Schmiersystem entstanden sind
+
+tung der chemischen Industrie der DDR
+
+Prüfen von Motoren
+
+40 Prüfen von Motoren
+. Mitarbeit auf Prüfständen
+
+Aufbauen und Vorbereiten des Motors zur
+
+Funktionsprüfung
+
+Kontrolle des Motorlaufes,
+Erreichen der Motorleistung
+
+Peatstellen und Beseitigung von Fehlern
+
+Ein- und Anbauen von Buntseheinwerfern
+
+Montieren von Blinkleuchten, Schlußleuchten und Begrenzungsleuchten
+
+10 Ein- und Ausbauen sowie Prüfen von Sammlern
+
+Sammler zum Einbau vorbereiten und einbauen
+
+10 Ausführen von Pflegearbeiten
+Sämntliche Pflege- und Wartungsarbeiten,
+die im Bandbereich entstehen sind auszuführen
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen .
+
+52 | 24219
+
+.de
+
+‘Beschaffenheit der Leitungen
+
+Notwendigkeit zum Sammeln und Regenerieren
+
+A
+
+von ALtöl
+
+Erkennen der politisch-ökonomischen Bedeutung der Lieferung sowjetischen Erdöls
+durch die Erdölleitung “Fpeundschaft" und
+deren Wirkung auf die strukturelle Umgestal
+Vermitteln der Arbeitsschutzanordnungen und
+Sicherheitsbestimmungen, ASAO 361/2
+
+Kenntnis über Einlaufvorschriften, Anwenden
+der Formel zur Berechnung der Motorleistung
+
+Beseitigen der Fehler, die bei der Montage
+aufgetreten sind und Anwenden der Fallmetho
+Beachten der ASAO 361/2
+
+Erziehen zur Disziplin, Ordnung und Bauberkeit am Arbeitsplatz für die Erhaltung des
+Umweltschutzes ;
+
+120/120 Stunden
+e
+
+Arbeitsregeln für das Ein- und Ausbauen elektrischer Aggregate aufstellen
+
+Kenntnisse über den Aufbau von Sammlern, An
+lassern; Lichtmaschinen und Reglern vertiefen
+
+Besondere Hinweise auf den Arbeitsschutz beim
+Umgang mit Säuren und Laugen
+und Anschlüsse
+
+der Stromverbraucher entsprechend der elektrischen und mechanischen Beanspruchung
+
+"Arbeiten mit technischen Dokumentationen,
+Hinweise auf die Sicherheitsbestimmungen für
+Batterie-Ladeanlagen
+
+"Vermitteln der Arbeitsschutzanordnungen und
+Sicherheitsbestimmungen sowie der TGL-Vorschriften ;=” |
+
+Kenntnis über die StVZO- Abschnitt 3, 85 56 =
+63, ASAO 900 und über die vom Hersteliler Vor
+geschriebenen. Sicherheitsbestimmungen
+Kraf iübe ;riragung
+
+20 Ein- und Ausbau von Kupplungen
+Überprüfen auf schlagfreien Lauf und
+volle Funktionstüchtigkeit
+
+Erkennen von Fehlern an der Kupplung, die
+beim Einbau entstanden gind
+
+Einhalten der Arbeitsschutzanordnungen
+und Gecherheitsbestinungen
+
+180 Wechsel- und Zusatzgetriebe
+
+Bin- und Ausbausen von Getrieben, Anwenden moderner Montagetechnologien
+
+- Überprüfen und Einbauen von Zahnrädern,
+Wellen, Wellendichtungen und Wälzlagern
+unter Einhaltung der Einbauspiele
+
+Untersuchen und Anwenden der Reihenfolge
+der Arbeitsgänge und Arbeitsstufen
+
+Abdichten der Getriebegehäuse
+Durchführen der Gütekontrolle zur Verhlitung von Arbeitsfehlern
+
+Durchführen von Probeläufen
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+/
+
+7
+
+s= und Einbauen von Achsantrieben und Ausgleic
+
+O Aus- Ein ri ( hgetrieben
+
+Zusammenpassen von Teilen des Ausgleich
+getriebes und des Ächsantriebes nach technischen Unterlagen
+
+Zusammenbauen der Ausgleichgetriebe
+
+Einbauen von Wälzlagern und Zahnrädern
+
+unter Beachtung der vorgeschriebenen Ein(bauspiele und nach technischen Unter-..
+lagen
+Warten und Pflegen der'erforderlichen‘
+Werkzeuge und Prüfgeräte
+
+Einhalten der Arbeitsschutzbestimmungen
+
+30 Gelenkwellen Ein- und Ausbauen von Geienkwellen
+
+Zusammenpassen, Verschrauben und Sichern
+von Metall- und Scheibengelenken
+
+.Ein- und Ausbauen der Zwischenlagerung
+der Gelenkwellen
+
+24219
+
+350/300 Stunden
+
+Wirkungsweise, Aufbau und Zweck der Motor
+kupplungen und ihre Betätigungsmechanismen
+erkennen und die technologisch notwendigen
+Arbeitsgänge einhalten
+
+Erziehen zur fehlerfreien Arbeit und zur
+richtigen Handhabung sowie sorgfältigen
+Pflege der Arbeitsmittel
+
+Einhalten der geforderten Toleranzen
+
+Vermitteln der Arbeitsschutzanordnungen und
+Sicherheitsbestimmungen, ASAO 361/2
+
+Zweck, Aufbau und Wirkungsweise wichtiger
+Getriebearten erkennen und das Wissen in
+der beruflichen Praxis anwenden
+
+Arbeiten mit betrieblichen technischen Dokumentationen
+
+Arbeitsregeln und Arbeitsstufen bei der
+Montage 
+Anwenden der in der Grundlagenbildung erworbenen Fertigkeiten bei der Herstellung von
+Verbindungen und deren Sicherungen
+
+Beachten.der Abnahmebedingungen-und Gütevor‘schriften
+
+Erziehen zur Qualität, zur. Ordnung am Arbeitsplatz und zum Verantwortungsbewußtsein
+
+Vermitteln der Arbeitaschutzanordnungen und
+
+Sicherheitsbestimmungen ASAO 361/2
+
+7
+
+Zweck, Aufbau und Wirkungsweise der Ausgleichgetriebe und deren Antriebselemente
+
+k
+
+Auswerten von Zahnrädertragbildern
+
+Erkennen des Zusammenhanges zwischen Reibung
+und Verschleiß ;
+
+Vermitteln der vom Hersteller festgelegten
+
+Sicherheitsbestimmungen
+
+Verschiedene Gelenkkonstruktionen und die
+Regeln für das Ein- und Ausbauen von Gelenk-wellen unter Beachtung der Gelenkstellung
+Notwendigkeit des statischen und dynamischen
+Priüfens von Gelenkwellen sowie das Beseiti
+Überprüfen der gefertigten Baugruppen
+und Einhaltung der geforderten Gütevor
+schriften
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+gen von Unwuchten
+
+Herausbilden des Verantwortungsgefühls gegenüber der sozialistischen Gesellschaft
+
+|
+| Vermitteln der Arbeitsschutzanordnungen und
+der Sicherheitsbestimmungen ASAO 361/2
+
+470/420 Stunden
+
+5 Arbeiten am Rahmen .
+
+Sachgemäßes und unfallfreies Aufbocken
+der Rahmen und Vorbereiten zur Montage
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+Rahmenkonstruktionen und ihre Besonderheiten
+
+Art und Größe der Werkstoffbeanspruchung
+
+bei der Montage
+
+Kenntnisse über die Sicherheitsbestimmungen
+
+| | | für Schweißarbeiten an Kraftfahrzeugrahmen
+| | . | Vermitteln der ASAO 303 |
+
+10 Arbeiten an der Federung
+Ä Einbauen von Blattfedern und Schrauben
+Aufgaben der Federung an Kraftfahrzeugen,
+
+federn Arten der Federung und Aufhängungen der
+. Richtige Handhabung von Werkzeugen und Federelemente
+| Hilfsgeräten Bezüge zur Fahrzeugkunde und zu Technischen
+
+| Stoffen herstellen
+
+Ä ; | . Kenntnisse über die Standsicherheit der
+
+10 Arbeiten an Schwingungsdimpfern
+Ein- und Ausbauen sowie Prüfen der
+Funktionstüchtigkeit der Schwingungsdämpfer ;
+Untersuchen der ordnungsgemäßen Befestigung an den Fahrzeugen
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen .
+
+T0 Arbeiten an der Vorderradaufhängung
+Ausführen aller vorbereitenden Arbeiten
+für die Montage der Vorderachse, der
+Vorderradaufhängung
+Ausführen der eigentlichen Montagearbeiten von Vorderachsen, Vorderradaufhängung
+und Fahrschemel unter Beachtung der Einbauvorschriften
+
+Fachgerechtes Ein- und Ausbauen von
+Wälzlagern
+
+Einstellen der Vorsyur
+
+.
+
+Sicheres Handhaben der Abzieh- und Einpreßvorrichtungen sowie der erforderlichen Prüfgeräte und Werkzeuge
+
+54
+
+. Aufgaben und Arten der Vorderradaufhängung
+
+der Geräte und Werkzeuge
+
+Vorspur, Sturz, Spreizung und Nachlauf
+
+24219
+
+Fahrzeuge
+
+Auswerten von Federkennlinien
+
+Die Aufgaben der Schwingungsdämpfer im Zusammenhang mit der Fahrzeugfederung
+
+Hydraulische Schwingungsdämpfer und Stabi
+lisatoren
+
+Berechnen fachbezogener Beispiele ABAO; 361/2
+
+.
+
+und Fahrschemel
+
+Erziehen zur Sorgfältigkeit bei der Arbeitsausführung sowie zum fachgerschten Einsatz
+
+Erziehen zur. gewissenhaften Kontrolle der
+montierten Baugruppen sowie Überprüfen von
+
+o S
+
+Einhalten der Arbeitsschutzanorinungen
+
+und Sicherheitsbestimmungen
+
+7T0 Arbeiten an der Hinterradaufhängung
+Durchführen aller vorbereitenden ÄArbeiten
+
+5
+
+60
+
+für die Montage der Hinterradaufhängung
+bzwe Hinterachse
+
+Ausführen der Montagearbeiten unter Einhaltung der vorgeschriebenen Einbaumaße
+
+Sicheres Handhaben der erforderlichen
+Werkzeuge und Prüfgeräte sowie deren
+Pflege | ;
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+Montage von Gleit- und Wälzlagern
+
+Arbeiten mit geeigneten Werkzeugen und
+Geräten zum Abziehen bzw. Aufpressen von
+Lagern sowie fachgerechtes Handhaben der
+Meß- und Prüfzeuge
+
+Einstellen des richtisen Lagerspieles bei
+
+Wälzlagern
+
+Verwenden der richtigen Schmiermittel
+beim Warten der Lager
+
+‚.Einhalten der Arbeitsschutzanordnungen
+
+und Sicherheitsbestimmungen
+
+Montieren von Anhängerkupplungen
+
+Richtiges Sichern aller Verbindungselemente
+
+Durchführen der Gütekontrolle zur Verhütung von Arbeitsfehlern
+
+Durchführen von Funktionsproben
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+Zusammenpassen von Lenkgetriebeteilen
+
+Einstellen und Prüfen der Lenkung unter
+
+Beachtung der Einbauspiele
+
+Handhaben und Pflege der entsprechenden
+
+. Werkzeuge und Vorrichtungen
+
+24219
+
+Montage von Lenkungsteilen und Lenkgetrieben
+
+unter Beachtung der zulässigen Toleranzen
+
+Erziehen zum konsequenten Einhalten der
+verbindlichen ASAO 361/2 und ASAO 908/1
+
+Zweck und Aufbau von angetriebenen und nichtangetriebenen Achsen
+
+Anwenden moderner Montagetechnologien
+
+Auswerten der Meß- und Prüfergebnisse sowie
+
+sicheres Arbeiten nach technologischen Unterlagen
+
+Vermitteln der Arbeitsschutzanordnungen und
+
+Bicherheitsbestimmungsn ASAO 908/1 und
+ASAO 361/2
+
+Arbeitstechniken beim Abziehen und Aufdrücken
+von Wälzlagern
+
+Erkennen des richtigen Lagerspiels bei Gleitund Wälzlagern.
+
+Vermitteln der Arbeitsschutzanordnungen und
+
+Sicherheitsbestimmungen ASAO 198
+
+Anwenden der Arbeitsregeln beim Montieren von
+
+Anhängerkupplungen
+
+Kenntnis der benötigten Verbindungselemente
+und deren Sicherungen
+
+Einhalten der Abnahmebedingungen und Gütevorschriften
+
+Erziehen zur Qualitätsarbeit
+Vermittein der. Arbeitsschutzanordnungen und
+Sicherheitsbestimmungen,StVZO Abschnitt 3
+48 und 49
+
+Kenntnis über Aufbau und Wirkungsweise der
+
+Lenkung am Kraftfahrzeug
+
+.Kenntnis über Wirkungsweise der verschiedenen
+
+Arten von Lenkgetrieben
+
+Lenkhilfen am Kraftfahrzeug
+Montagevorschriften und Montagefolgen beim
+Zusammenbau der Lenkung einhalten
+
+Kenntnis über‘ Pflege- und Kontrollarbeiten
+
+an der Lenkung
+
+55.
+
+10
+
+100
+
+56
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+An- und Abbau von Rädern am Kraftfahrzeug
+
+Montage der Bereifung
+
+Auswuchten der Räder
+
+Anbauen und Einbauen von Rädern am Kraft
+fahrzeug in der zwangsgesteuerten Produktion ;
+
+Untersuchen von Schäden an der Bereifung
+
+und an den Folgen
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+Durchführen von Arbeiten an der Bremsanlage.
+
+Ein- und Ausbatuu von Bremsbacken und
+Bremsbackenträgern
+
+Auswechseln von Bremsbelegen
+Austauschen und Zusammenbauen von hydraulischen Bremszylindern
+
+Einstellen der Bremsen
+Entlüften der hydraulischen Bremsanlage
+
+Mitarbeit beim Zusammenbauen von DruckLuftbremsanlagen ;
+Prüfen der gesamten Bremsanlage
+
+Beseitigen von Montagefehlern an der
+hydraulischen bZWe Druckluftbremsanlage
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+C /
+
+Schmieren, Warten und Pflegen am Fahrzeug
+
+Abschmierarbeiten nach Schmierplan
+
+Ölstandskontrolle und Ölwechsel
+
+Erziehen zum verantwortungsbewußten Arbeiten,
+
+Kenntnis über $ 48 der StVZO, der Arbeits. schutzanordnungen und Sicherheitsbestimmungen
+
+Kenntnis der Ursachen von Schäden an der Be=
+
+Reihenfolge beim Entlüften der Bremsanlage
+
+Montagefehler, Ursachen und Verhütung
+
+Funktion, .
+Aufbau und Wirkungsweise der Scheibenbremse
+
+StVZO Abschnitt 3 S5 46 und 47
+
+um die Sicherheit der Lenkung zu gewährleisten . Ä
+
+ASAO 198, StVZO Abschnitt3.$ 43 und über die
+vom Hersteller festgelegten Sicherheitsbestimmungen
+
+Montagefolgen beim Aufziehen der Bereifung
+
+Kenntnis über Rundlauf und Auswuchten der
+Räder ;
+
+Vermitteln von Kenntnissen über Aufbau und
+Herstellung der Bereifung
+Erziehen zum richtigen Uinganss und zur-Pflege
+der Bereifung
+
+reifung: Reifendruck, Überlastung, Einfluß
+von Wärme und Kälte, Sonnenbestrahlung, Ö1L
+und Kraftstoff, Vorspur und Radsturz.
+
+Arbeitsschutzanordnungen und Sicherheitsbestimmungen, StVZO Abschnitt 35 41
+
+Aufbau und Arten der Bremsen und deren Wirkungsweise
+
+Montagevorschriften für Einzeiteile und Batugruppen der Bremsanlagen
+
+Bedeutung und Notwendigkeit zum Einhalten der
+
+Anwenden der richtigen Meß- und Prüfvorgänge
+an Bremszylindern, Ventilen und Kompressoren
+
+Einhalten der Abnahmebedingungen und Gütevorschriften
+
+Erziehen zur Gewissenhaftigkeit und Verantwortlichkeit gegenüber der sozialistischen
+Gesellschaft
+
+Begriff: Bremsfading
+
+Richtige Auswahl der Werkzeuge und Geräte für
+die Arbeiten am Schmiersystem
+
+Schmiermittel, die Bezeichnungen und
+richtige Auswahl
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen, ASAO 361/2
+
+40 Verarbeiten von Plasten und Klebern
+
+Einführung in die Verarbeitung von Plastund Preßstoffen
+
+Verbinden dieser Stoffe mit metallischen‘
+Bauteilen
+
+Moderne Arbeitsverfahren zur Bearbeitung.
+und .zum Kleben der Plaste .
+
+Arbeiten mit kalt und warım aushärtbaren
+Klebern
+
+Einhalten der Arbeitsschutzanordnungen
+
+und Sicherheitsbestimmungen insbesondere
+beim Umgang mit Heizöfen und Infrarotan
+lagen
+
+80 ‚Betriebsbedingte Arbeiten
+
+Durchführen von Arbeiten mit besonderein
+Charakter, die sich aus beruflichen,
+industriezweigtypischen oder betriebli
+. chen Spezialaufgaben ergeben |
+
+Einarbeitung am künftigen Arbeitsplatz
+
+Einsatz und Verwendung von Plasten im Fahrzeugbau unter Anwendung des im Fach Technische Stoffe erworbenen Wissens
+
+Erkennen der Leistung unserer Volkswirtschaft bei der Fertigung von Plastkarosserien
+
+Bedeutung der Klebetechnik für denAutomobil
+bau
+
+Das Vorbereiten der Bauteile zum Kleben,
+Arten der Kleber und deren Lösungsmittel.
+
+Vermitteln der Arbeitsschutzanordnungen und
+Sicherheitsbestimmungen ASAO 725, 103/1 und
+ASAO 728
+
+Die in den Hinwen en zum Lehrplan gegebenen
+Zielie und Schwerpunkte sind Zu beachten
+
+Erziehen zum komplexen Kosten-Nutzen-Denken,
+
+zum Aparsamen Materialverbrauch und zur
+Selb: ändigkeit
+
+80 Stunden
+
+Der Einsatz der Lehrlinge am künftigen Arbeitsplatz, der gleichzeitig als Prüfungsgebiet zu bewerten ist, hat zum Ziel, die Lehrlinge an die Facharbeiterleistung und Qualitätsnorm heranzu
+kollektiv zichern.
+
+führen. Er soll einen nahtlosen Übergang des Lehrlings als Facharbeiter in das neue Arbeits
+Besondere Schwerpunkte sind die Erziehung ZU Selbständigkeit, Selbstkontrolle, bewußten Disziplin sowie das Ausprägen von Disziplin, Ordnung und Sicherheit am Arbeitsplatz und einer hohen
+
+\
+
+24219
+
+Berufsehre bei der qualitätsgerechten Ausführung der Arbeitsaufträge.
+
+7
+
+x (
+. | ;
+. . 1
+.
+O
+. . In .
+1
+1
+. . . . \
+\ . \ .
+. \ 1 A
+en - H
+. OD .
+. n0 .
+.
+a.
+- . ,
+O ( z
+. . .
+(G4 ,
+1 a .
+. 4 .
+\ . . ; ; . e
+. ( . . o
+. . .
+4 n el
+; ; A A . . ;
+un '
+N .
+. D G .
+. . = .
+©
+. . D .
+.
+. .
+1 .
+| .
+|
+z
+.
+s ‘ 1 . r
+\
+
+Hinweise . . | |
+
+Die Spezialisierungsrichtung Berufskraftfahrer ist für die Einsatzgebiete
+
+Kraftverkehr und Stadtreinigung
+vorgesehene. Deshalb gelten die Lehrpläne
+
+Transportpraxis und
+Verkehrspraxis
+
+nur für das Einsatzgebiet Kraftverkehr, die Lehrpläne ; . 
+Geräteinstandhaltung ;
+Technologie der Stadtreinigung und \
+Einsatz in der Stadtreinigung
+
+mnur flüir das Einsatzgebiet Stadtreinigung, Der Inhalt der Ebrigen Lehrpläne ist für die Ausbildung der Lehrlinge beider Einsatzgebiete verbindliche
+
+4.3.1. Berufstheoretischer Unterricht $IHIı | 306/288 Stunden
+l . | .
+Fahrzeugkunde . 180/166 Stunden
+Ziel und Aufgaben
+
+| Ziel dieses Unterrichtsfaches ist es, die theoretischen GrundlLagen über den Aufbau, die Funktion
+und das technische Zusammenwirken der Baugruppen und Bauuntergruppen des Kraftfahrzeuges zu vermitteln.
+
+Der Unterricht muß die zukünftigen Berufskraftfahrer mit größter Effektivität auf die Erfordernisse ihres Einsatzes in den Verkehrsbetrieben oder anderen Einrichtungen vorbereiten. Dabei
+ist seine Tätigkeit im Zusammenhang mit sozialistischer Gemeinschaftsarbeit als ein Hebel zur
+Intensivierung des Transportprozesses herauszustellen.
+
+Methodik und Organisation
+
+Es ist zu sichern, daß in diesem Unterrichtsfach Kenntnisse auf dem Gebiet des Verkehrsrechts
+vermittelt werden, damit-die Lernenden ständig und unmittelbar Bezüge zUur Verkehrspraxis und
+| zu allen Lehrgängen des berufspraktischen Unterrichts herstellen können. Zwischen den Fachlehrern und den Lehrmeistern ist der Unterricht ständig abzustimmen. Zu folgenden Fächern und
+Lehrgängen sind Bezüge herzustellen:
+
+Verkehrsgeographie und verkehrstechnisches Zeichnen,
+
+|. . | Grundlagen der technischen Mechanik,
+
+|
+
+Technische Stoffe sowie
+
+Fertigungstechnik,.
+
+.
+
+1
+ll ; |
+
+Lehrplan ; ; .
+
+|
+
+Std. Stoffgebiet und stoffliche ; Erziehungsschwerpunkte, zu erwerbende
+Schwerpunkte Fähigkeiten und Tertigkeiten, ökonomische
+
+. nd allgemeinbildende Bezi
+
+1 Einführung ; |
+I$ Aufgabenbereiche der Kraftfahrzeugin- Bedeutung der Instandhaltung für die Erhalstandhaltung im Rahmen der Volkswirt- tung wertvollen sozialistischen Zgentume
+
+;
+
+schaft
+
+. 60 . 24219
+
+A
+
+3
+
+Kraftfahrzeugufbauten
+
+Binteilen der Karosseriebauweisen nach
+
+10
+
+Wearkstoffen
+
+Erläutern der Karosserien mit "innerem
+Bremsweg" (Sicherheitskarosserien)
+
+Federung und Dämpfung
+Belastungszustände und Federwege
+
+Berechnen des Federweges, der Achslasten.
+
+und der Federhärte
+
+Blattfedern, Aufbau und Wirkungsweise
+
+Abhängigkeit der Eigenreibung vom Pfiege
+zustand der Blattfedern
+Progressive Blattfedern
+
+Schraubenfedern, Anwendungsbeispiele und
+Arten
+
+*
+
+Begrenzung der Federwege
+
+Drehstabfedern .
+
+Abhängigkeit der Federhärte
+
+Luftfedern.
+
+Arten und Wirkungsprinzip
+Gummifedern, Wirkungsweise mit Anwendungsbeispielen
+
+Schwingungsdämpfer: Stafdardisierung,.
+hydraulische Teleskop- und. Hebestoß
+.dämpfer
+
+Stabilisatoren: 7
+Zweck, Arten, Aufbalu und Wirkungsweise
+
+A
+
+adaufhän en
+Definition .
+
+Starrachsen
+
+Starre Vorderachsen als Laufachse
+
+Faustachse
+Gabelachse
+Turmachse (Hülsenführung)
+
+Starre Hinterachsen als Antriebsachse
+Einfache Banjoachse mit getrennter Anordnung ;
+
+Kennenlernen von Typenprogrammen und Baukastensystemen sowie Aufbauvarianten‘
+
+Erkennen der ökonomischen Vorteile der Lizenzfertigung
+
+Die Rolle und Stellung sozialistischer Produzenten in ihrer Funktion als sozialistische
+Eigentümer
+
+Erkennen der Bedeutung des Fahrzeugrahmens
+als tragendes Fahrzeuggerüst
+
+Erkennen der Bedeutung der Leichtbauweise
+
+Erkennen der Bedeutung des Zusammenhanges
+
+zwischen Achslast und Federweg ,
+
+Lesen und Deuten von Federdiagrammen
+
+Erkennen der Bedeutung des Pfiegezustanden
+
+der Federung 1
+
+Erkennen der ökonomischen Vorteile der War
+tungsfreiheit von Federn
+
+. Abhängigkeit der Verkehrssicherheit vom Zu
+stand der Federung und Dämpfung
+Erziehen zur sozialistischen Hilfe und zum
+Pflichtbewußtsein
+
+Bezüge zum Fach Grundlagen der technischen
+Mechanik herstellen
+
+Anwenden der Momentengleichung
+Anforderungen an die Werkstoffe
+
+Mathematischer Nachweis der Kräfteverteilung
+an der Radnabe
+
+Herausbilden des- Verantwortungsbewußtseins
+
+sozialistischer Eigentümer bei Instandset
+zungsarbeiten
+
+Tragachse und Achsantrieb, Trichterachse,
+Doppelachse, De-Dion-Achse
+
+Aufhängung der starren Hinterachse
+(Antriebsachse) bei.
+
+Blattfederung
+
+Schraubenfederung
+
+Luftfederung
+Drehstabfederung |
+
+Halbachsen als Antriebsachsen
+(Pendelachsen, Einzelradaufhängung)
+
+Klassische unverkürzte Pendelachse auch
+als Doppelachse
+
+Verkürzte Pendelachse
+
+Neuere Eingelenkpendelachse
+
+Schrägpendeiachse
+
+Achslose Radaufhängung für Lauf- und
+Antriebsräder (Einzelradaufhängung)
+
+Achslose Radaufhängung an Querlenkern
+
+und an Schräglenkern (Schrägpendelarne)
+
+Fahrschemel
+
+Arten der Lagerung von Achswellen
+Lenkung
+
+Rechtsvorschriften (StVZO)
+
+Lenkgeometrie der Achsschenkellenkung
+
+Erforderliche Radstellung bei Kurvenfahrt
+
+Lenkgeometrie von Kraftwagen mit starrer
+
+Vorderachse
+
+Lenktrapez
+
+Stellung des Lenkstockhebels bei Gerade
+ausstellung der Vorderräder
+
+Lenkgeometrie von Kraftwagen mit Einzelradaufhängung
+
+Neutrales Lenkverhalten sowie Über- und
+
+Untersteuerung
+
+1.
+Lenkgestänge
+
+Lenkgetriebe
+Lenkhilfen
+
+\
+
+Sonderarten der Lenkung
+
+Anhängerlenkung
+
+Drehschemellenkung
+
+Achsschenkellienkung (Busanhänger)
+
+Lenkkinematik von Mehrachslenkungen
+
+Anregen der Denkprozesse durch Problemstellung
+
+Fördern des selbständigen Lernens durch
+
+konkrete Aufgabenstellung
+
+Anleiten zur selbständigen Arbeit mit Fachund Tabellenbüchern sowie mit Betriebsanleitungen und Reparaturhandbüchern
+
+Erkennen der Notwendigkeit des verantwor
+tungsbewußten Handelns zur dauerhaften Ge
+währleistung der Verkehrssicherheit
+
+Erziehen zur Qualitätsarbeit durch mathematische Durchdringung des Stoffes
+
+Anwenden geometrischer Darstellung
+
+| Bezüge zum Fachzeichnen und zu geometrischen
+
+24219
+
+Grundlagen herstellen
+Bezüge zur Werkstoffprüfung herstellen
+
+Anwenden physikalischer Gesetzmäßigkeiten
+für Gase und Flüssigkeiten bei Lenkhilfen
+
+Werkstoffverhalten und der Einfluß von
+Wärmebehandlung auf das Werkstoffgefüge
+
+Erziehen zur Achtung des sozialistischen
+Eigentums
+
+Ökonomische Vorteile der Wartungsfreiheit
+
+10
+
+Bereifung
+
+Radstellung der Vorderräder
+Vorspur
+
+Sturz
+
+Spreizung und Lenkrollhalbmesser
+
+Nachlaufen in Grad und Millimeter
+Wirkprinzip der Meßgeräte
+
+Das Zusammenwirken der Radstellung
+
+Besonderheiten zur Radstellung der Hinterräder
+
+Änderungen der Hinterradstellungen an
+bestimmten Radaufhängungen beim Ein- und
+Ausfedern
+
+Sturzänderung
+
+Bedeutung des negativen Radsturzes
+
+Räder und Bereifung .
+
+Räder
+Kräfte am Fahrzetgrad
+
+Anforderungen an Radnabe, Radkörper und
+Felgen
+
+Arten und ihre Bezeichnungen
+(Standardisierung) .
+
+Aufbau der Luftreifen
+Arten
+Reifenbezeichnung
+(Standardisierung)
+
+Aktive und passive Sicherheit
+Klärung der Begriffe
+
+Erhöhung der aktiven Sicherheit durch
+
+Optimierung der Fahreigenschaften
+Straßen- und Kurvenlage
+Bremsfähigkeit und Spurtreue
+
+Beschleunigungsfähigkeit, Wendigkeit
+
+und Steigfähigkeit
+
+Die Bedeutung des technisch einwandfreien
+Zustahdes des Fahrzeuges insbesondere bezüglich der Lenkung, Radstellung, Radaufhängung, Federung einschließlich Stabilisatoren und .Dämpfung sowie Räder
+
+. und Bereifung für eine sichere Straßen
+und Kurvenlnke
+
+24219 
+=:::. !!JM’>MINlllllllllÄ,üi:IZ:EIEIII|IEEN !!jg
+
+Erläutern des Lenkverhaltens in Abhängig
+kelit von Geschwindigkeit uhnd Straßenzustand
+(Beispiele)
+
+Herausbilden von Fertigkeiten in der geometrischen Darstellung und vertiefendes Anwenden der Trigonometrie durch praxisbezogene Beispiele
+
+Erkennen des funktionalen Zusammenhanges
+zwischen Radaufhängung und Radstellung
+
+Bedeutung der Radstellung für die Verkehrsgicherheit und die maximale Laufleistung
+der Reifen
+
+Erkennen der Bedeutung der richtigen Auswahl und des Einsatzes der Bereifung
+
+Bezüge zum Fach Grundlagen der technischen
+Mechanik und zur StVZO herstellen
+
+Erkennen des Einflusses des Bereifungszu
+standes auf die Verkehrssicherheit
+
+Erkennen der ökonomischen Bedeutung der
+
+Runderneuerung
+
+Herauzarbeiten der Abhängigkeit in Bezug
+auf Straßen- und Kurvenlage e
+
+Anwehndung physikalisch-mathematischer de
+setzmäßigkeiten
+
+Erkennen der volkswirtschaftlichen Bedeutung der. Verkehrssicherheit
+
+63
+
+16 Bremsen
+
+7 .
+Trommel- und Scheibenbremsen Einhalten der verbindlichen RechtsvorVor- und Nachteile von Scheibenbremsen schriften |
+gegehüber Trommelbremsen ; StVZO und die Verantwortung der Instand- .
+Arten von Scheiben- und Trommelbremsen- setzungsbetriebe
+und deren Unterschiede ; Physikalisch-mathematischer achweise- der
+Ein- bzw. Nachstellmöglichkeiten an konstruktiv bedingten Unterschiede einzelner
+Trommel- und Scheibenbremsen | Bremssysteme | | .
+Automatische Bremsennachstellung Anwenden des Pascalschen Gesetzes
+Mechanische Bremsanlagen
+Betriebsbremse für Einspurfahrzeuge Erhöhen der Verkehrssicherheit durch zuFeststellbremse sätzliche spezielle Einrichtungen (ZweiAnhänger-Auflaufbremse kreisbremssystem, Bremskraftbegrenzer, Mo=
+
+torbremse) ;
+
+. Hinweise auf Kontroll- und Einstellarbeiten
+Hydraulische Bremsanlagen Entwickeln ‚von Fähigkeiten des Urteilens,
+Wirkungsweise. der Hauptbremszylinder des Beweisens, .der Schlußfolgerung.
+Zweikreisbremsanlagen Entwickeln des sozialistischen QualitätsBremskraftbegrenzer . und Kostendenkens |
+Funktionelle Begründung von Brems- Durchführen von Bremsberechnungen
+
+störungen
+
+Druckluftbreinsanlagen
+
+Einkreis- und Zweikreis-Druckluftbremsanlagen (im Motorwagen)
+
+Gesamtübersichten und Wirkungsweise
+
+Druckluftunterstützte hydraulische
+Bremse .
+
+Motorbremsen
+
+Bremsprüfverfahren
+
+4A Anhänge=- und Aufliegerkupplungen
+
+Anwendung, Aufbau, Funktiorn und Siche-, Hinweise zur StVZO und ASAO 361/2
+
+rung ;
+Steckbolzenkupplungen Erkennen der mathematischen und physikali
+Zughakenkupplungen schen Gesetzmäßigkeiten in ihren technischen
+
+Kugelkupplungen . Auswirkungen
+
+Automatische Anhängekupplungen Bedeutung zulässiger Anhängemassen und
+
+- Standardisierung herausstellen
+Überprüfen des technischen Zustandes Erkennen der Bedeutung der Kontrollen des
+
+. Sonderbestimmungen | ‚technischen Zustandes
+
+6 Hydraulische Anlagen von Kipperfahrzeugen
+
+Aufbau und Funktion sowie Zusammenwirken, Bezlige zum Fach Grundlagen der technischen
+von . Mechanik herstellen
+
+Ölpumpe ; Anwenden physikalischer Kenntnisse
+Absperrventil . ; Bezüge zu den Grundlagenfächern herstellen
+
+Überdruckventil 
+G4 . 24219
+
+Rüttelventil und Kolbenpresse
+
+Sonderbestimmungen
+
+Wartung der ranlschen Anlagen
+
+2 Einführung .
+Schematische Darstellung üblicher Antriebsarten mit Bezeichnung der Baugruppen bei
+Hinterradantrieb, Vorderradantrieb und
+Mehrachsenantrieb
+
+©6 Motorkupplungen
+
+Vorherrschende Bauarten und bauliche
+Einzelheiten
+
+Einscheibentrockenkupplung Zweischeibentrockenkupplung
+
+Mehrscheibenölkupplung
+
+Kupplungsscheiben
+
+Kupplungsfedern (Schrauben- und Teller
+federn)
+Ausrückvorrichtungen
+Besondere Reibungskupplungen
+
+Fliehkraftkupplungen
+Elektromagnetkupplungen
+
+Standardisierung
+
+Einstellprobleme
+Unterscheidung der Motorkupplungen nach
+dem Bedienungsaufwand (Übersicht)
+
+Ticht automatisierte Kupplungen: ohne und
+
+mit Kupplungshilfen
+
+Teilautomatisierte Kupplungen e
+Automatische Kupplungen
+
+Aufbau und Funktion von automatischen
+Kupplungerr
+
+40 Wechseigetrisbe 
+Arten, Aufbau, Wirkungsweise
+
+Besonderheiten der Stufengetriebe
+Schubradgetriebe
+Aphongetriebe
+Synchrongetriebe(einfache Sas Sperrsynchronisation) ;
+
+Erklären der Vorgänge bei der Synchronigierung
+
+24219
+
+Herausbilden kommunistischer Verhaltensweisen - Jeder trägt Verantwortung für das
+Ganze
+
+Bezüge zum polytechnischen Unterricht her
+‚stellen.
+
+Erläutern der technologischen Reihenfolge
+
+Anwenden der physikalisch-mathematischen Zusammenhänge
+
+Entwickeln des Qualitäts- und Kostendenkens
+(Zuverlässigkeit, Lebensdauer, Wartungsund Kostenfrage)
+
+Erwerb von Grundkenntnissen über Aufbau und
+Wirkungsweise automatischer Kupplungen
+
+Bezüge zum Grundlagenfach BMSR-Technik
+
+herstellen
+Nachweis von efetenserediuhen
+
+Bezüge zum Unterrichtsfach Technische Stoffe
+herstellen
+
+Entwickeln von Fähigkeiten zum Nachweisen
+
+funktioneller Zusammenhänge und Auswirkungen
+
+Aufzeigen der Vor- und Nachteile von halb- .automatischen Kupplungen - internationale
+Entwicklungstendenzen
+
+Fördern der selbständigen Arbeit
+
+—
+
+Bezüge zu mathematischen Grundlagen her
+stellen '
+
+Graphisches und rechnerisches Darsteilen der
+Abhängigkeit von Motorleistung und Fahrgeschwindigkeit
+
+Fördern‘ der selbatändigen Erkenntnisgewinnung durch Vergleiche und Urteilsbildung
+
+Ökonomische Betrachtungen (Vor- und Nachteile) der Stufen- und stufenlosen Getriebe (Wirkungsgrad)
+
+65
+
+EEE
+
+66
+
+Berechnen von Getriebeübersetzungen und
+
+Kräften in Wechselgetrieben
+
+Sonder- und Zusatzeinrichtungen zum
+Wechselgetriebe |
+
+Freilauf
+Nachgeschaltete Getriebe
+
+Schnell-Schongang-Getriebe
+Geländegetriebe
+
+; Verteilergetriebe
+
+(Bedienungsvorschriften)
+
+Verteilergetriebe bei Zweigang-Hinter
+achse
+
+Vorgeschaltete‘ Getriebe
+Umlaufgetriebe (Planetengetriebe)
+Stufenlose Getriebe
+
+Vor- und Nachteile stufenloser Getriebe:
+
+gegenüber Stufengetrieben
+
+Prinzipielle Funktionserklärungen und
+Ausführungsbeispiele
+
+Mechanisch-stufenlose Getriebe
+
+Hydraulisch-stufenlose Getriebe
+
+Hydrodynamische Getriebe (FöttingerWandler)
+
+Achsantrieb und Ausgleichgetriebe
+
+Achsantrieb
+
+Spezielle Arten von Achsantrieben im
+Kraftfahrzeug
+
+Ausgleichgetriebe:
+
+Aufgaben
+
+Arten
+Ausgleichgetriebe mit geringer innerer”
+Reibung
+
+Kegelradausgleichgetriche
+
+Ausgleichgetriebe mit erhöhter innerer
+Reibung
+
+Berechnen von Übersetzungen, Drehzahlen
+und Kräften beim Ausgleichgetriebe
+
+Gelenkwellen
+
+Verzerrung der Winkelgeschwindigkeit
+
+Darstellen des Kardanfehlers
+
+Schlußfolgerungen für den richtigen Zu=
+sammenbau unter Beachtung des Auswüchtens .
+
+zliehen
+
+Bilden des Urteilsvermögens und der selbständigen Erkenntnisgewinnung
+
+Erziehen zum‘ technisch-funktionalen Denken
+dürch Erkennen der Kausalzusammenhänge
+
+Bezüge zum Fach Grundlagen der technischen
+Mechanik und Fertigungstechnik herstellen
+
+Entwickeln des Abstraktionsvermögens bei der
+Klärung von Absolut- und Relativbewegung im
+Ausgleichsgetriebe
+
+Bezlüge zu der Fächern Grundlagen der technischen Mechanik und Fertigungstechnik
+herstellen
+
+Domonstriexen des Achsausgleichs. am Modell
+
+Nachweis der otwendigkeit des Achsausgleichs
+
+‚ führen
+
+Fördern des Beobachtungsvermögens
+
+Mathematischer Nachweis zu den Einbauvorschriften der Gelenkwellen führen
+
+Kenntnisse über Vorschriften und Richtlinien
+für Behandlung und Einsatz der Bauelemente
+vermitteln .
+
+24219
+
+Doppeigelenkwellen
+Gleichlaufgelenkwellen
+Gleichlaufgelenke (informatorisch)
+Zwischenlager
+
+Verbrennungsmotoren
+
+Verbrennungsvorgang
+Verbrennungsvorgang in Ottomotoren
+Luftzahl
+
+Liefergrad
+
+Verdichtungsverhältnis
+Gleichraumverbrennung
+
+pv-Disagramm von Zwei- und Viertaktmotoren, Darstellen der mittleren Kolbendrücke
+
+Verbrennungsvorgang in Dieselmotoren im
+Vergleich zu Ottomotoren:
+
+Luftüberschuß
+Verdichtungsverhältnisse
+Gleichdruckverbrennung
+
+pv-Diagramme von Viertakt-Dieselmotoren
+
+Mittlere Kolbendrücke
+
+Zündverzug
+
+Auswirkung des Zündvorganges
+Möglichkeiten der Verkürzung des Zündverzuges
+
+Dieseleinspritzverfahren
+
+Die Zusammensetzung der Abgase bei Diesel- und Ottomotoren
+
+Wirkungsgrade und Sankeydiagramme
+Motorenkennlinien:
+Drehmomenten- und Leistungskurven von
+
+elastischen und leistunssgesteigerten
+Ottomotoren .
+
+Drehmomenten- und Leistungskurven von
+Dieselmotoren
+
+Kurven zum spezifischen Kraftstoffverbrauch
+
+Leistungseinheiten und Leistungsformeln:
+kW DIN-PS, SAE-PS
+
+Mittlere Kolbenkraft, mittlere Kolbengeschwindigkeit und effektive Leistung
+(DIN-PS)
+
+Nachweise der grundsätzlichen Möglichkeiten der Leistungssteigerung anhand
+der Leistungsformel
+
+24219 .
+
+Entwickeln von Fähigkeiten Zzur Verschleißmessung
+
+Erziehen zum technisch-funktionalen Denken
+durch Erkennen der Kausalzusammenhänge:
+
+Arbeiten mit Betriebsanleitungen und technischen Daten von Herstellerbetrieben
+
+Anfertigen von pv-Diagrammen
+
+Lesen und Auswerten von pv-Diagrammen
+
+Betrachtungen zu ökonomischen Vor- und Nachteilen von Diesel- und Ottomotoren führen
+
+Bezüge zu den naturwissenschaftlichen Fächern
+
+der polytechnischen Oberschule sowie zum Fach
+Grundlagen der technischen Mechanik herstellen |
+
+Bezüge zum Fach Grundlagen der technischen
+Mechanik herstellen
+
+Einbeziehen von Fachliteratur und technischen Werkinformationen in den Unterricht
+
+Anfertigen und Lesen von Leistungsdiagrammen
+
+Entwickeln von Fähigkeiten zum Abstrahieren
+und Folgern bei der Darstellung ‚mathematischer Formeln und Leistungsberechnungen
+
+67
+
+6
+
+68
+
+Erläutern der Begriffe Literleistung und
+Masse-Leistungsverhältnisse
+
+Zylinder, Zylinderkopf, Kurbelgehäuse
+
+Arten, Ausführungsformen
+
+Hinweise auf Werkstoffe.
+
+Thermische Beanspruchung und Wärmeableitung
+
+Betriebstemperatur und Verschleiß
+
+Kurbeltrieb
+Kolben:
+
+Beanspruchungen, Werkstöffe
+
+Kolbenbauarten
+Beschriftung bzw.e Kennzeichnung
+
+Kolbenbolzen:
+
+Beanspruchungen
+
+Lagerungen
+
+Sicherungen
+
+Versetzte Bolzenachse
+
+Kolbenringe
+
+Formen
+
+Hinweise auf Werkstoffe und Oberflächenvergütung
+
+Kolbenringmaße
+
+Pleuelz;
+
+Beanspruchungen
+
+Hinweise auf Werkstoffe und Profilquerschnitte
+
+Pleuelkopflagerung
+
+. Pleuelfußlagerung
+
+Notwendigkeit des Auswiegens und Auswinkelns von Pleueln mit Kolben
+
+Kurbelwelle mit Schwurngscheibe:
+Beanspruchungen
+
+Hinweise auf Werkstoffe
+Hinweise auf dynamisches Auswuchten
+Ausgleichmassen |
+Schwingungsdämpfer
+Kurbelwellenlagerung
+
+Ventilsteuerung
+
+Bauteile der Ventilsteuerung bei standardisierten ohv-Motoren (ohne hängende
+Ventile,
+
+ohc- und 2-ohc-Motoren (oben liegende
+Nockenwelle)
+
+Prinzip der Zwangssteuerung
+
+Anleitung für das zielgerichtete Selbststudium geben
+
+Erkennen der Bedeutung der Bauelemente für
+die Funktionstüchtigkeit der gesamten Bau
+gruppe
+
+Ableiten einer werkstoffgerechten Konstruktion auf die Funktionstüchtigkeit der Bauteile
+
+Erziehen zur Qualitätsarbeit
+
+Bezüge zum Fach Fertigungstechnik herstellen
+
+Erziehen zur qualitätsgerechten Arsführung .
+und zur Sauberkeit der Arbeit
+
+Bezüge zum Stoffgebiet Wärmelehre der
+polytechnischen Oberschule herstellen |
+
+Mathematische und graphische Begründung der
+Belastungen des Pleuels
+
+Erkennen der Bewegungsvorgänge am Kurbeltrieb und ihre Auswirkungen auf die bewegten
+
+Massen
+
+‘Ökonomische Wichtigkeit der Notlaufeigen
+schaften aufzeigen
+
+Bezüge zum Fach Technische Stoffe herstellen - ; ; Ä
+
+Erläutern und Auswerten von Steuerdiagrammen
+
+2
+
+8
+
+mischbildung
+
+Nockenwelle:
+
+Versetzung der Nocken
+Beanspruchung durch die Ventilbeschleunigung
+
+Ventile: Erziehen zur Gewissenhaftigkeit.
+Beansprüuchung, Ausführungsarten
+
+Hinweise auf Werkstoffe
+
+Ventilführung und Ventilspiel
+
+Hinweise auf automatische Ventileinhal- Einfluß der Steuerzeiten auf die Gemischbiltung dung und den Kraftstoffverbrauch in AbSteuerzeiten hängigkeit zur Leistung herausarbeiten
+
+Einfluß der Steuerzeiten auf die Ge- Fördern der forschenden Tätigkeit der
+
+Lernenden
+Zweitakt-Ottomotor
+Aufbauvergleich Viertakt-Ottomotor - Fördern der selbständigen ErkenntnisgeZweitakt-Ottomotor winnung durch Vergleiche und Urteilshildung
+Spülverfahren Entwickeln von Fähigkeiten zum Abstrahieren
+Umkehrspühlung | und Folgern
+Dreistromspülung Ökonomische Gegenüberstellung von ZweitaktGleichstromspülung und Viertaktmotoren
+Vorverdichtung
+Das symetrische und unsymetrische Steuer- Wiederholen der mathematischen Grundlagen
+diagramm der Leistungsberechnung in Anwendung für den
+
+Einfluß der Steuerzeiten auf das Arbeits- Zweitaktmotor
+
+verfahren
+
+Der Einfluß der Auspuffanlage auf die
+Leistung
+
+Vergleichende Betrachtung zwischen
+
+Zweitakt- und Viertakt-Ottomotoren be
+züglich des mittleren Kolbendruckes und
+der Literleistung
+
+Filterung der angesaugten Luft
+
+Notwendigkeit der Luftfilterung Herausstellen der Bedeutung der regelmäßigen
+
+Filterwirkungsgrad ; Wartung der Filteranlagen
+
+Druckverbrauch Anschauliches Darstellen der Luftfilterung
+Druckverlustanstieg während der Verschmutzung Verbindungen zu ökonomischen Aspekten her
+stellen
+Einfluß des Filterwirkungsgrades auf die
+
+Laufzeit der Motoren
+
+Schädlichkeit der Leckluft auf den
+Filterwirkungsgrad
+
+Luftfilterbauarten
+
+Einfluß der Luftfilter auf Kraftstoffverbrauch und Leistung der Motoren aufzeigen
+
+Kraftstoffversorgungsanlage für Ottomotoren
+
+Kraftstoffanlage
+
+Teile der Kraftstoffanlage bei Gefälleund Pumpenförderung
+
+Kraftstofförderung
+
+24219 69
+
+70
+
+Gefälleförderung
+
+Förderung durch Membranpumpen
+Berechnen des Kraftstoffnormverbrauches
+Aüufbereiten des Kraftstoffluftgemisches
+
+Aufgaben der Vergaser
+
+Aufbau und Wirkungsweise der Vergasertypen einschließlich Aufgaben und Funktion
+einzelner Bauteile
+
+Hauptdüsensystem
+Schwimmersystem
+Leerlaufsystem,
+Startvorrichtungen Beschleunigungseinrichtungen
+
+Vergleiche zwischen Kraftwagen- und
+
+Kraftradvergasern
+
+Anwendungsbereich der Benzineinspritzung
+
+Grundsätzlicher Aufbau und Wirkungsweise
+dieser Anlagen
+
+Vor- und Nachteile der Benzineinspritzung gegenhüber Vergasern
+
+Motorschmierung
+
+Aufgaben der Motorschmierung
+Schmiersysteme
+Aufbau;s Wirkungsweise
+
+Mischungsschmierung
+
+Berechnung zu Mischungsverhältnissen
+
+Druckumlaufschmierung
+Tauchumlaufschmierung, Trockensumpfschmierung, Obenschmierung
+
+Ölfilter
+
+Aufgaben, Anforderungen
+
+Anordnungen im Haupt- oder Nebenstrom
+Trennung durch Porenströmung
+Tiefenfilter (Füllstoffilter)
+
+Trennung durch Absetzvorgänge
+Öldruckregulierung
+Schmierpläne und Schmierfristen
+Ölkühler
+Überwachungsgeräte‘
+
+Menge, Druck, Temperatur
+
+Motorkühlung
+
+Aufgaben
+Grundsätzliche Wirkungsweise
+Wärmeleitzahlen
+
+Flüssigkeitskühlung
+Offene und geschlossene Kühlsystem
+Luftkühlung .
+
+. Fördern des Abstraktionsvermögens
+
+24219
+
+Bezüge zum Fach Technische Stoffe
+
+Spezifischer Kraftstoffverbrauch und Kraftstoffverbrauchsnormen als ökonomische Kennziffern im Verkehrswesen auswerten
+
+Erziehen zum Einhalten der Brandschutzanordnungen
+
+Werben zur Mitarbeit in den betrieblichen
+Brandschutzgruppen zum aktiven Schutz und
+
+zur Erhaltung des sozialistischen Eigentums
+
+Erkennen der Zusammenhänge technisch-physikalischer Prozesse
+
+Entwickeln des sozialistischen Qualitäts- und
+Kostendenkens |
+
+Herausbilden sozialistischer Verhaltensweisen
+
+Erkennen der ökonomischen Bedeutung einer
+einwandfreien Motorschmierung für das Erreichen maximaler Laufleistungen
+
+Erkennen und Beurteilen typischer Verschleißformen
+
+herstellen
+
+Erziehen zum selbständigen Lesen und Auswerten von Betriebsvorschriften und Schmierplänen
+
+Erkennen der Richtigkeit der Investitionspolitik unserer Regierung in bezug auf die
+Entwicklung der Petrolchemie, in der DDR in
+sozialistischer Kooperation mit der Sowjetunion ;
+
+Anwenden physikalischer Gesetzmäßigkeiten
+Erkennen der Notwendigkeit der Wärmeabführung
+
+Bedeutung der Betriebstemperatur als ökonomischer Faktor sowie als Funktion des Verschleißes
+12
+
+Dieseimotor
+Dieseleinspritzverfahren
+
+Einspritzverfahren und ihr Einfluß auf
+
+‚die Gemischbildung und den Verbrebhuhngsablauf ;
+
+Vergleiche zum spezifischen Kraftstoff-.
+verbrauch |
+
+Berechnungen zum Kraftstoffverbrauch
+Notwendigkeit von Anlaßhilfen
+
+Zweitakt-Dieselmotoren
+Bauformen
+
+. Grundsätzliche Arbeitsweise
+
+Spülverfahren und Gemischbildung
+
+Aufladseinrichtungen
+
+Gebläse
+
+Abgas-Turbolader
+
+Die Kraftstoffanlage, Einspritzanlage
+
+und Einspritzaggregate des Dieselmotors:
+
+Schema des Kraftstoffverlaufes bei Fall
+kraftstoff und bei Verwendung einer
+Kraftstofförderpumpe
+
+Aufbau und Wirkungsweise der Kraftstoffförderpumpe und der Kraftstoffilter
+Einspritzplumpen
+
+Aufgaben \
+Fördersysteme (Übersicht)
+IFA-Einsgritzpumpen wit Regler und
+
+. Spritzverteiler
+
+Pumpenkolben und FPumpenzylinder
+
+Druckventil
+
+mit Düse
+
+Zweistufenregler
+
+Spritzversteller
+
+. Mathematische Aufgaben. zur Einspritz
+menge und zum Kutzhub des Fumpenkolbens
+
+4
+
+Einspritzdüsen und Düsenhalter
+
+Aufgaben der Einzspritzdüsen
+Aufbau der Einspritzdüsen .
+Aufbau und Funktion des Düsenhalters.
+
+Einspritzleitungen
+
+Zünd- und Glühanlagen .
+
+Zündanlagen von Uttomotoren
+Vorglühanlagan xon Dieselmotoren
+
+heoretiuche Grundlagen zur Einstellung
+des Zündzeitpunktes |
+
+Herstellen ; von Bezügen zum Viertakt-Öftomotor
+
+Fördern der selbständigen Erkenntnisgewinnung
+
+Technische und ökonomische Vorteile der
+
+einzelnen Einspritzverfahren und mathematisch-graphischer Beweis der Wirtschaftlichkeit des Dieselmotors
+
+4
+
+Erziehen zum kostenbezogenen Denken
+
+Wecken der Freude am Beruf
+
+\
+
+Erkennen der Zusammenhänge der technisch
+physikalischen Prozesse
+
+Förderung der selbständigen Erkenntnisgewinnung als Grundlage bei der Fehlersuche
+
+Erziehen zum Einhalten der Hygienevorschrif
+ten
+
+Erkennen und Beurteilen der Funktionstüchtigkeit der Einspritzanlage
+
+Erziehen zum sozialistischen Kosten- und
+Qualitätsdenken (Zuverlässigkeit, Lebens-.
+dauer und Kostenfragen)
+
+. x
+Anwenden der mathematisch-physikalischen
+
+Kenntnisse bei der Berechnung von Einspritz
+mengen und Einspritzdrücken
+
+Erkenntnisgewinnung durch Beobachten und
+selbständige Urteilsbildung
+
+Hinweise auf die Wirtschaftlichkeit durch
+
+die Verwendung verschiedenartiger\Kraftstoffe
+
+geben | | 4
+
+Darlegen der Entwicklungstendenz
+
+Erkennen der Bedeutung des ökonomisch vor
+teilhaften Einsatzes von Prüfeinrichtungen
+
+Erziehen zur unbedingten Qualitätsarbeit
+
+7
+
+4 Das Prüfen und Einlaufen von Motoren 7
+
+Übersicht über Prüfeinrichtungen und Befähigen zum selbständigen Erkennen und
+=verfahren zur Ermittlung von Leistung, Lösen von Problemen
+Kraftstoffverbrauch und Betriebsverhal- Fähigkeiten zum Beurteilen, Beobachten und
+ten . ; ; Auswerten von Meß- und Prüfergebnissen
+Entwickeln der Leistungsformel fördern. |
+Lesen und Auswerten von Diagrammen —= Sicherheit im Lesen von graphischen Darstellungen als Grundlage für Leistung sabrechnun
+Berechnungen zu Motorprüfungen
+gen üben
+
+Bedeutung von Nomograumen und Leistungskurven für die Technik
+
+; - Diskussion und Auswerten des Motorkenn
+linienfeldes durchführen
+. Exkursionen Motorprüffeld
+12 Ausgleich
+
+Technologie des Kraftverkehrs 72/T2 Stunden ;
+
+Ziel und Aufgaben
+
+Die Lernenden erwerben durch .den Unterricht in diesem Fach technologische Kenntnisse auf dem
+Gebiet des öffentlichen Kraftverkehrs. Dadurch sind sie in der Lage, technische, technologische
+und betriebsorganisatorische Fragen des VE-Werkverkehrs, der Transportgemeinschaften und anderer Eigentumsformen zu beherrschen.
+
+Die Lernenden gewinnen einen Überblick über.die Entwicklung des Kraftverkehrs, besonders des
+Aufbaues eines leistungsfähigen öffentlichen Kraftverkehrs in der DDR. Ausgehend. von den volkswirtschaftlichen Aufgaben des Kraftverkehrs werden die Lernenden mit der Leitungsstruktur und
+der Betriebsorganisation der Kraftverkehrskombinate bekannt gemacht.
+
+Die technische und verkehrstechnische Vervollkommnung der Kraftfahrzeuge ist umfassend darzustellen, 6 . ;
+
+Methodik und Organisation ” ;
+Innerhalb des Gesamtkomplexes sind den Lernenden Betriebsanlagen des volkseigenen öffentlichen
+Kraftverkehrs und Entwicklungstendenzen beim Bauı von Verkehrsahlagen ZU erlnteen..
+
+Die Technologie des Kraftverkehrs ist untar Beachtung ökonomischer und technischer Gesichtspunkte dazulegen. ; / .
+
+Die Wissensvermittlung muß schwerpunktmäßig auf technologisch-betriebsorganisatorische Aufgaben
+zur Meisterung der sozialistischen Intensivierung sowie auf politisch-ideologische Probleme gerichtet sein, um die Berufskraftfahrer zur aktiven Mitgestaltung in ihrem sozislistischen Trans
+portbetrieb zu erziehen. - ;
+
+Im Unterricht sind geeignete Fach- und Lehrbücher als berufsbildende Literatur zu verwenden,.
+weitgehend Unterrichtsmittel einzusetzen und nach Möglichkeit Betriebsbesichiigungen und Exkurgionen durchzuführen. ;
+
+2 a4419g ;=
+
+Lehrplan .
+\ .
+
+Std. Stoffgebiet und stoffliche
+Schwerpunkte
+
+Erziehungsschwerpunkte, zu erwerbende
+Fähigkeiten und Fertigkeiten, ökonomische
+
+2 Die Entwicklung des Kraftverkehrs
+Die Entwicklung des öffentlichen Kraftverkehrs nach 1945 und seine Stellung im
+einheitlichen sozialistischen Verkehrswesen
+
+und allgemeinbildende Bezüge
+
+Darlegen des Inhalts und der Aufgaben des
+Verkehrswesens der DDR
+
+‘6 Die Organisation des sozialistischen Verkolrawegens
+
+Struktur des Verkehrswesens, eines Kraftverkehrskombinates und eines Kraftverkehrsbetriebes
+
+GLiederung. nach Verkehrszweigen
+Gliederung nach Beiriebsabteilungen. und
+
+Aufgabenbereichen
+
+4 Die Abgrenzung und Verteilung der Aufgaben für die verschiedenen Verkehrsträger
+
+Prinzipien der Aufgabenteilung
+
+Aufgaben der jeweiligen Verkehrsträger
+
+6 Die Struktur der Verkehrsieistung
+Darstellen der Verkehrsleistungen im
+CGüter- und Personenverkehr
+
+8 Die Transportmittel des Kraftverkehrs
+Kraftfahrzeuge und Anhänger des Gütertransports
+
+Grundausführungen von Lkw, Sattelzugmaschinen, Spezialfahrzeugen,\ Zugmaschinen für Schwerlasttransporte ;
+
+Kraftfahrzeuge und Anhänger der Personenbeförderung
+
+Stadtlinienkraftomnibusse
+Reisekraftomhibusse
+
+Plcw, Konzeption von Stadiwagen
+Fahrzeuge mit Elektroantrieb
+
+8 Das Kennziffernsrsten im Kraftverkehr
+
+Technfsch-wirtschaftliche Kennziffern
+
+(TWK) und Maßeinheiten des Transportprozesses bzwe des Beförderungssrozesses
+
+- Ausnutzen der Transportmittel des Kraftverkehrs ; ;
+
+Inhalt und Ziel der Gastaltung optimaler
+
+Transportprozesse- .
+Erfassen zweckmäßiger Arbeitsteilung zwischen
+
+den Verkehrsträ igern
+Notwendigkeit der Kooperationsbeziehungen
+
+Erarbeiten von Diagrammen und Tabeilen,. die
+Aussagen über die laufende Steigerung der
+Transportleistung geben
+
+Die Bedeutung von Konzentration, Speziali
+sierung und Kooperation
+
+Erkennen der Anpassung der Technologie des
+Transports und des Umschlags
+
+Arbeiten mit meitheinatischen Daten und Kenn
+‚ziffern woderner Kraftomnibusse
+
+Beachten der Entwicklungstendenzen im Kiz.
+Bau
+
+\
+
+Augführen von Berechnungen anhand prakti=.
+
+scher Beispiele
+
+Volkswirtschaftliche Bedeutung optimaler
+
+. Transportprozesse .- .
+
+Bezlüge zum Fach Betriebsökonomik herstellen
+
+16 Die Technologie des ransporinrozenses im Gut r und. Perzonenverkehr
+
+. Notwendigkeit, Bedeiu tung und Aufbau einer
+Transporttechnologie
+
+Ermitteln des Transportmittels nach Größe|
+und Art und die Bersitsteliung der Fahr.
+
+. Zzeuge
+
+24219
+
+Erziehen und Befähigen zu optimalen Entscheidungen durch Variantenvergleich
+
+Wichtige Rechtsvorschriften und-die Notwenigkeit, sie einzuhalten
+
+Das Be- und Entläden der Fahrzeuge
+
+Die Spezifik der Umschlagstechnologie
+und Mechanisierung des Güterumschlages
+
+Die geschlossene Transportkette Das Arbeiten mit dem Tourenzeitplan .
+
+Der Behälter- und Palettenverkehr Kennenlernen spezieller Umschlagsmechanis
+Das Container-Transportsystem mohn
+
+Erkennen der Bedeutung des Container-Transportsystems für die Innen- und Außenwirtschaft der DDR
+
+Der Einfluß des Transports auf das ; Erziehen zur ordnungsgemäßen Belegführung
+Transportgut | |
+Moderne und ratiohnelle Methoden der Ein- Erziehen zur aktiven Mitarbeit und Disziplin
+satzorganisation bei der Erfüllung der Transportaufgaben
+Graphische Wagenlaufpläne (WLP) Die Vorteile dieser Unterlagen und ArbeitsDiensterläuterung, Dienstplan und Einsatz- mittel anhand praktischer Beispiele .
+tafel | Kennenlernen der Dienste mit dem Ziel eines
+; =; ökonomischen und rationellen VerkehrsablauPlan des Technischen Dienstes fes
+Dispatchersystem ; ; Bedeutung der Technischen Überwachung erläutern
+
+14 Die Betriebsanlagen des öffentlichen Kraftverkehrs
+
+Gestaltung der Betriebsanlagen nach mo= | Bedeutung rationeller, störungsfreier, überdernen Gesichtspunkten ; sichtlicher Verkehrswege-zu den Betriebsan| lagen und zentralen Abstellplätzen
+Kennenlernen der Betriebsordnungen (Meldeordnung, Fuhrparkordnung ueao)
+
+Exkursion zu modernen Betriebsanlagen
+Anlagen der Instandhaltung der Kraft- Vermitteln der wesentlichen Zusammenhänge
+fahrzeuge zwischen Betriebs- und Einsatzbereitschaft
+
+der FPahrzeuge
+
+Verkehrsahlagen und -einrichtungen (KOM-. Entwickeln von Vorstellungen über zukünftige
+Bahnhöfe, Ausführung von Hoch- und Tief- Verkehrsanlagen unter Beschtung Skoncmischer
+garagen, Autotunnel, Straßenkreuzungen Gesetze
+
+und Unterführungen Mehrebenenstraßennetz) Variantenvargleiche anstellen
+
+Information über Verkehrsanlagen anderer
+Verkehrsträger ; ;
+
+8 Ausgleich
+
+. z
+Verkehrsgeographie und verkehrstechnisches Zeichnen 40 Stunden
+
+Ziel und Aufgaben
+
+\
+
+Auf dem Gebiet der Verkehrsgeographie sollen die Lernenden zur sicheren Handhabung der Verkehrskarte und zum rationellen Festlegen der günstigsten Fahrstrecken befählgt werden. Sie sind deshalb mit den Verkehrskarten, dem Straßennetz des Heimatbezirkes, den Hauptverkshrastraßen undAuotbahnen der DDR, den wichtigsten Verbindungsstiraßen zu den Nachbarländern und mit wirtschaftlichen und technischen Grundsätzen der Linienführung von Straßen-vertraut Z machen.
+
+7 | 24219
+
+Den besonderen Schwerpunkt bildet das Festlegen von Fahrstrecken nach wirtschaftlichen Gesichtspunkten. Dazu zählt auch das Berechnen der Einsatzarten und des Kraftstoffverbrauchs.
+
+Auf dem Gebiet des verkehrstechnischen Zeichnens werden in diesem Unterrichtsfach Fertigkeiten
+im Anfertigen von Unfallskizzen und für das Schreiben des Unfallortbefundberichts vernittelt,.
+Als Erziehungsschwerpunkte gelten dabei besonders die Entwicklung solcher Überzeugungen und
+
+Verhaltensweisen, wie Ehrlichkeit, Rücksichtnahme
+
+sonen und Glitern, Hilfsbereitschaft im Transportprozeß u.a.
+
+Methodik Organisation
+
+Im Unterricht sind verstärkt solche modernen Unterrichtsmethoden wiLe Trainings- und Fallmethode
+anzuwenden. So können die verschiedenartigsten Fahraufträge vorgegeben werden, für deren Lösung
+die optimale Fahrstrecke und Einsatzzeit sowie der minimalste Kraftstoffverbrauch geplant werden
+sollen. Analog verhält es sich mit den vorgegebenen Unfallsituationen, die als Handskizze dargestellt werden müssen und für die ein Unfallbericht zu fertigen ist.
+
+Im Unterricht sind Bezüge zu Kenntnissen herzustellen, die usa. in den Fächern Verkehrsrecht,
+Technologie des Kraftverkehrs und Betriebsökonomik bzw. Sozialistisches Recht erworben werden.
+
+Lehrplan
+
+S
+
+Std. Stoffgebiet und stoffliche
+
+Schwerpunkte
+
+| und allgemeinbildende Bezüge
+
+1 2
+
+2 Einführung in die Verkehrsgeographie
+Begriffserklärung, Bedeutung und Aufgabe
+
+6 Verkehrskarten
+
+Arten der Verkehrskarten und deren prinzipieller Aufbau
+
+Übersichtskarten, Stadtpläne, Tankstellenverzeichnis
+
+Kartenmaßstäbe..
+Kartenzeichnen
+
+6 Linienführung der Straßen
+Eistorische Entwicklung:
+Pfad - Weg - Straße
+
+Aligemeine Grundsätze der Linienführung 
+Sicherheit, Leistungsfähigkeit, Wirtschaftlichkeit
+
+Städte- und Landschaftsbild
+
+Fragen der Lärmbelästigung und des Umweltschutzes, Landesverteidigung und
+Verpflichtungen im Transitverkehr
+
+Wirtschaftliche Linienführung
+
+Neubau, Aus- und Umbau von Straßen, Verbesserung der Ortsdurchfahrt
+
+Beseitigung von Unfallschwerpunkten
+Umgestaltung von Straßenknoten Uu.a.
+
+24219
+
+und Landesverteidigung u.a.
+
+Bezug zu den Aufgaben der Zivilverteidigung
+
+Mitarbeiten bei der Verbesserung von Linien
+und Verantwortungsbewußtsein gegenüber Per
+Erziehungsschwerpunkte, zu erwerbende.
+Fähigkeiten und Fertigkeiten, ökonomische
+
+3
+
+Erkennen von Zusammenhängen zwischen Verkehrsgeographie, Wirtschaft, Umweltschutz, Zivil
+Treffen von Entscheidungen zur Anwendung der
+günstigsten Karten für das Festlegen von
+Fahrstrecken
+
+Umrechnen von Maßstäben und Entfernungsermittlung
+
+Festigen und Vertiefen von Kenntnissen aus
+der politischen Geographie
+
+Erkennen der Vorzüge zielgerichteter sozialistischer Perspektivplanung der RGW-Länder
+hinsichtlich der Entwicklung von Verkehrsverbindungen
+
+herstellen‘
+
+Erwerben von Fähigkeiten zum konstruktiven
+
+führungen
+
+75
+
+1 2 3
+
+12
+
+Technische Linienführung
+
+Geländekategorien-Flachland-HügellandBergland-Straßenverlauf-Staatsstraßen,
+Bezirksstraßen, Kommunale Straßen
+
+Technik des Krlümmen-Sichtfeldes, Über
+holweiten, Längsneigung, Querneigung,
+Kuppen UleAo
+
+Das Verkehrsnetz
+Unterschied zwischen Nah- und Fernverkehr
+
+Das Verkehrsnetz des Heimatkreises und
+=-bezirkes
+
+Übersicht über die. Ausfallstraßen des
+Kreises und Bezirkes
+
+Autobahnen und Pernverkehrsstraßen der
+DDR
+
+Verbindungsstraßen zu den Nachbarländern
+= Grenzübergänge der sozialistischen
+Staaten
+
+Kennenlernen der wichtigsten Straßenzlge,
+
+. der kürzesten und günstigsten Verbindungen
+
+zwischen den Betrieben und Warenumschlagsplätzen
+
+Erwerben von Fähigkeiten, schwierige Strekkenabschnitte, Gefälle, Kurven auf der Karte zu erkennen und sich einzuprägen
+
+Einprägen der wichtigsten Nord-Süd- und OstWest-Verbindungen sowie der Straßen im
+Transitverkehr
+
+Erkennen der politischen und ökonomischen
+Bedeutung gutnachbarlicher Beziehungen für
+den grenzüberschreitenden Verkehr
+
+15 Festlegen von Fahrstrecken im Nah- und Fernverkehr
+
+76
+
+Ermitteln von Fahrstrecken nach Verkehrskarten unter Berücksichtigung ökonomischer Gesichtspunkte
+
+Hilfsmittel zur Entfernungsbestimmung
+
+Kraftstoffverbrauch - Normverbrauch und
+Zuschläge
+
+Fahrzeiten, Aufenthaltszeiten, Gesamteinsatzzeit
+
+Schwerlasttransporte
+
+Orientierungsmittel für die Auftragsermittlung
+
+Ausgleich
+
+Einführung in das verkehrstechnische Zeichnen
+
+Gegenstand, Ziel und Aufgabe
+
+Sinnbilder und Symbole für Personen,
+Fahrzeugarten, Fahrzeugspuren und andere
+notwendige Merkmale
+
+Erwerben der Fähigkeit, Fahrstrecken selbständig so festzulegen, daß ein minimaler
+Kostenaufwand erreicht wird
+
+Anwenden von Tabellen, Stechzirkel und
+Kurvimeter
+
+Berechnen von Kraftstoffverbrauch und der
+Fahr- bzw. Einsatzzeit unter Beachtung leistungsbedingter Zuschläge.
+
+Auswerten von Fahrtenschreiberdiagrammen
+
+Gebrauchsskizzen über den Streckenverlauf
+bei Fernfahrt
+
+Lösen von Komplexaufgaben aus der Praxis
+
+Erkennen wirtschaftlicher Kennziffern aus
+der Materialökonomie ;
+
+Kennenlernen der Bedeutung des Unfallortbefundberichtes und der Unfallskizzen
+
+Der Unfallortbefundbericht und die Unfallskizzen
+
+Festlegen des Ausschnittes aus der Verkehrsanlage ;
+
+x
+
+Maßausgangspunkt (MA) bestimmen Festigen und Vertiefen der im Verkehrsrecht
+| und im Gesundheits-, Arbeits- und Brandschutz
+erworbenen Kenntnisse
+
+Sichern von Spuren, Feststellen des
+Standortes von Fahrzeugen und der Lage
+
+der Verkehrswege mit Hilfe des recht- Herstellen von Bezlügen zu den Stoffgebieten )
+winklichen Meßverfahrenis und des Drei- Betriebsökonomik, Sozialistisches Recht und
+eckmeßverfahrens Verkehrsrecht |
+Übertragung in die Handskizze
+
+Aufnahme von weiteren den Unfall be. treffenden Angaben wie Unfalltag, -zeit,
+=ort und Unfallfolgen
+
+E SE NN
+
+Sachliche Unfallvorgangsschilderung
+
+4 Die Unfallmaßstabskizze.
+
+Sauberes Übertragean der Handskizze auf
+Millimeterpapier im Maßstab 1 : 200
+
+Erwerben von Kenntnissen und Fertigkeiten,
+um Unfallsituationen objektiv, zeichnerisch
+
+Die Arbeit mit dem Zirkel beim Dreieck- richtig und aussagefähig darzustellen sowie
+meßverfahren aus Unfallskizzen die Unfalisituation zu be= ;
+urteilen 
+Wiedergabe wichtiger Details in abweichehden Maßstäben
+
+‚Beschriftung der Unfallmaßstabskizze
+unter Anwendung der Sinnbilder und Sym
+bole
+4.3.2. Berufspraktischer Unterricht ; 1700/1525 Stunden
+Kraftfahrzeuginstandsetzung 508 8 Stunden
+
+Ziel und Aufgaben
+
+Durch die Vermittlung des Lehrgangsinhaltes muß erreicht werden, daß die Lernenden in der Lage
+sind, kleinere Schäden an den Kraftfahrzeugen bei der Transportdurchführung selbst zu beheben.
+Außerdem sind sie zu befähigen, vorbeugende Instandhaltungsarbeiten durchzuführen, um die ihnen
+anvertrauten wertvollen Grundmittel optimal zu nutzen.
+
+| Methodik und Organisation
+
+In diesem Lehrgang ist es erforderlich, -die Lernenden unter Produktionsbedingungen mit den
+wichtigsten Instandhaltungsprozessen vertraut zu machen. Nach Möglichkeit sind für die Ausbildung solche Abteilungen oder Bereiche. auszuwählen, die bei kleineren Reparaturen einen hohen
+Fahrzeugdurchlauf haben. Unter Umständen sind komplizierte Arbeitstätigkeiten an geeigneten
+Prainingsobjekten und Simulatoren zu üben.
+
+Es ist möglich,, bestimmte Instandhaltungsarbeiten wie Arbeiten am Motor , Kraftfahrzeugelektrik und Reifendienst im Lehrgang Verkehrspraxis noch besonders zu vertiefen.
+
+e
+
+Die in der Grundlagenbildung erworbenen Kenntnisse, Fähigkeiten und Fertigkeiten auf dem Gebiet
+der Demontage und Montage von Aggregaten und Baugruppen sind voll zu nutzen, zu festigen und
+.zu erweiterne
+
+Die Arbeitsgebiete Kraftfahrzeugelektrik und Reifendienst sind als Teile des Lehrgangs
+Kraftfahrzeuginstandsetzung selbständige Prüfungsgebiete, Sie sind im Facharbeiterzeugnis besonders auszuweisen.
+
+24219 | 77
+
+L hrpla n
+
+Std. Stoffgebiet und Arbeitstätigkeiten
+
+Zu vermittelnde Kenntnisse, ZU erwerbende
+Fähigkeiten und Fertigkeiten, Erziehungsschwerpunkte, ökonomische und allgemeinbil
+dende Bezüge
+
+1 2
+
+3
+
+40 Arbeiten an der Lenkung
+
+Aus- und Einbau von Spur- und Schubstangen, Einstellen der Vorspur
+
+80 Arbeiten an der Bremsanlage
+Ein- und Ausbau von Bremsbacken
+
+Einstellen der Betriebs- und Feststellbremse
+
+Aus- und Einbau von Haupt- und Radbremszylindern der hydraulischen Bremse
+
+Entlüften der Bremsanlage
+
+Warten und Pflegen der Druckluftanlage
+von Druckluftbremsen
+
+Ausführen von Instandsetzungsarbeiten an
+der Motorbremse
+
+228 Arbeiten am Motor
+Wechseln von Zylinderkopfdichtungen
+
+Aus- und Einbau von Aggregaten der Kühl
+systeme x
+
+Wechseln und Einstellen der Einspritzpumpe und Einspritzdüsen bei Dieselmotoren
+
+Einstellen der Zündung am Ottomotor
+Regulieren des Vergasers
+
+. Einstellen der Ventile bei ViertaktOttomotoren
+
+Einstellen des Kupplungsspiels
+
+40 Arbeiten an Kraftfahrzeuganhängern
+
+Aus- und Einbauen von Bremsbacken
+Aus- und Einbauen von Radbremszylindern
+Einstellen der Bremse
+
+Beachten und Einhalten der Arbeitsschutzanordnungen und Sicherheitsbestimmungen
+
+78
+
+Erziehen zur sorgfältigen Arbeitsausführung
+
+Erkennen der Zusammenhänge zwischen Lenkgeometrie und Reifenverschleiß
+
+Befähigen zum Durchführen der Bremsprobe
+unter Verwendung eines Bremsverzögerungsmessers ;
+
+Erziehen zur Gewissenhaftigkeit
+
+Erkennen der Besonderheiten des hydraulischen Bremssystems, der Ursachen für Störungen und Möglichkeiten zu deren Beseitigung
+
+Erkennen der Fehlerquellen an Druckluftbremsen
+
+Beachten der Besonderheiten beim Abschleppen
+von Fahrzeugen mit Druckluftbremsen
+
+Erkennen der Wirkungsweise von Motorbremsen
+
+Bezüge zum Fach Grundlagen der technischen
+Mechanik herstellen
+
+Erkennen der Wichtigkeit des richtigen Anzugsmomentes
+
+Bedeutung der Betriebstemperatur herausstellen ;
+
+Erkennen des Einflusses richtiger Steuerzeiten und Einstellungen auf die Wirtschaftlichkeit und Betriebssicherheit der Motore
+sowie auf die Forderungen des Umweltschutzes
+
+Erziehen zum Einhalten der Arbeitsschutzanordnungen und Sicherheitsbestimmungen
+
+Erkennen von Mängeln an Bremsanlagen von Anhängern
+
+Kraftfahrzeugelektrik
+
+
+Wechseln von elektrischen Bauuntergruppen
+
+Erkennen, Eingrenzen und Beheben von
+Mängeln bzw. Schäden nach den gegebenen
+Möglichkeiten.
+
+- Auswechseln von Lampen, Soffitten und
+Sicherungen
+
+Erkennen falscher Scheinwerfereinstellung
+
+Einhalten der Arbeitsschutzanordnungen,
+Sicherheitsbestimmungen und TGL-Vor
+schriften
+T2 Reifendienst
+Mitarbeit bei der Demontage und Montage
+von Fahrzeugreifen aller gebräuchlichen
+Felgenarten
+Kennenlernen behelfsmäßiger Reparaturmöglichkeiten auf der Strecke
+Pflege der Reifen |
+Beurteilung von Reifenschäden und deren
+Ursachen
+; Prüfen und Pflegen der Felgen
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+Verkehrsrecht
+
+Ziel und Aufgaben‘
+
+Die Vermittlung der Lehrstoffe dieses Lehrganges o11 den ständig steigenden Anforderungen an.
+die Sicherheit im öffentlichen, Straßenverkehr dienen und dazu, beitragen, daß die künftigen Be
+rufskraftfahrer umfangreiche Kenntnisse über die
+
+Straßenverkehrsordnung (StVO).
+Straßenverkehrszulassungsordhung (StVZO)
+Garagenordnung sowie
+
+Verordnung über die Kfz.-Haftpflichtversicherung
+
+erwerbene.
+
+Erziehen zur sorgfältigen Kontrolle der
+
+aktiv ‚.
+
+Sicherheitsbestimmungen
+
+Verkehrssicherheit der Kraftfahrzeuge und Anhänger ; ; ;
+
+Erziehen zum sorgfältigen Umgang mit Säuren
+
+Erkennen der grundsätzlichen funktionellen‘
+Zusammenhänge zwischen Kraftfahrzeugtechnik
+und Kraftfahrzeugelektronik 1
+
+Anregen zZur Mitarbeit im. Verkeinsieherelte
+
+Erziehen zum Einhalteh der ASAO- und der.
+
+Erkennen der wichtigsten Einflnßfaktoren auf“
+den Reifanverschleiß
+
+x
+
+Bedeutung und Zweck der Reifenrunderneuerung,
+der Bestimmungen über die Zuführung zur Runderneuerung sowie der Vorschriften unter dem
+Aspekt der Materialökonomie
+
+Vertiefen und Anwenden -der. Kenntnisse- aus n
+dem Unterrichtsfach Kraftfahrzeugkunde
+
+60/60 Stunden
+
+.
+
+Das Beachten und Anwenden der verkehrsrechtlichen Bestimmungen und die Broiehung zu rücknichtg
+
+vollem und verantwortungsbewußtem Verhalten ist wesentliche Voraussetzung für die sich diesem
+
+Zehreang anschließende Fahrausbildung.
+
+; 24219
+
+Methodik und Organisation . ;
+Der Inhalt des Lehrganges ist anhand von Beigpielen und Erfahrungen aus der täglichen Verkehrs
+und Transportpraxis zu veranschaulichen.. 
+Als effektive Form der Kenntnisvermittlung kann der Trainingsunterricht und die Fallmethode
+angewendet werden. Dieser Lehrgang ist zeitlich so anzulegen, daß die” Lernenden bereits über.
+einen bestimmten Unfang an technischem Wissan verfügen.
+
+Die Prüfung erfolgt auf der Grundlage der $$ 13 und 85 der StVZO.
+
+. Zu vermittelnde Kenntnisse, zu erwerbende
+Fähigkeiten und Fertigkeiten, Erziehungsschwerpunkte, Skonomische und allgemeinbil_dende Bezlüge
+
+Std. Stoffgebiet und Arbeitstätigkeiten
+
+3 Gesetzliche Bestimmungen im Straßenverkehr.
+
+Rolle und Bedeutung der Einhaltung der Erkennen der Zusammenhänge der gesetzlichen
+gesetzlichen Bestimmungen - Grundlage ; Bestimmungen im Straßenverkehr
+der ständigen Erhöhung der Verkehrs
+sicherheit ; 4
+
+= "Aufmerksam und rücksichtsvoll- ich
+bin dabeit
+
+= Gefahren im Straßenverkehr Kommunistische Überzeugungen und Verhaltensweisen zur Erhöhung der Leistungsbereit
+- Unduldsame Bekämpfung voh Verstößen
+; schaft entwickeln
+
+der gesetzlichen Bestimmungen m
+\
+
+Straßenverkehr
+= Rechte und Aufgaben der Verkehrssicher- Festigen von Charaktereigenschaften, wie
+heitsorgane und der gesellschaftlichen Liebe zur Arbeit
+Verkehrssicherheitskräfte, z.B. VSA . Liebe zum Beruf, Berufsstolz
+ede Einhalten von Disziplin, Ordnung, Sicherheit
+. und Sauberkeit
+
+
+20 Verordnung über das Verhalten im Straßen- Bewußte Einstellung. zum Einhalten der Ververkehr | ordnungen im Straßenverkehr.
+Straßenverkehrsordnung (StVO) ; ‘ Bedeutung des Begriffes "Ständige Erhöhung
+
+der Verkehrssicherheit" erläutern
+Erziehen zum verkehrsgerechten Verhalten in
+. allen Verkehrssituationen
+12 Verordnung über die Zulassung von Per- Erkennen der Notwendigkeit der ständigen Ge“ sonen und Fahrzeugen züm Straßenverkehr . währleistung der Verkehrssicherheit
+Straßenverkehrszulassungsordnung (StVZO) 
+‚und erste Durchführungsbestimmung zur
+Straßenverkehrszulassungsordnung (StVZO)
+
+Tauglichkeitsvorschriften und Führen von Höhere Anforderungen an die körperliche und
+
+Kraftfahrzeugen geistige Leistungsbereitschäft des Kraft=
+fahrers stellen
+3 Rechtsvorschriften und betriebliche Ver- Erziehen zum Verantwortungsbewußtsein gegohordnungen der Personenbeförderung (BO über Personen und Fahrzeugen im TransportKraft) . prozeß
+
+Personenbeförderung mit KOM
+Personenbeförderung mit Likw
+
+80 | 24219
+
+Nr. 287 .
+A4 Der Straßenwinterdienst‘ . ; Herausbilden vorbildlicher Verhaltensweisen
+im Winterfahrverkehr
+s; ; . , Erziehen zum geiigsenkaften Einhalten der‘
+| | Bestimmungen ‚im Winterdienst.
+10 Verordnung über die Kraftfahrzeug-Haft- Entwickeln der Verpflichtung, das Lehen und.
+- pflichtversicheruhg die Gesundheit der Bürger vor- Schäden;
+
+zeugen im- öffentlichen Straßenverkehr sowie unter erschwerten Einsatzbedingungen vermittelt
+
+In Anbetracht der Bedeutung des Lehrganges müssen die“ Lehrlinge über. folgende Kenntnisse ver
+
+Es ist deshalb notwendig, mit den Bildungseinrichtungen die Stoffliche Glisderung des ge mten
+
+1 Garagenoränung ; Erkennen der Bedeutung dieser Verordn
+vom 2. Oktober 1958 GBl-Sonderdruck. | x |
+
+Schäden an Fahrzeugen und am Transpörtgut
+
+Versicherungsrecht und Versicherungsart
+zu schützen bzwe zu. verhindern.
+
+Varkehrsunfall und Verhalten Erwerben von. Kenntnissern zur
+- arteilung von Unfallsituationen
+
+4 Ausgleich
+3 Priüiifun ; ; (Theoretischer Teil der ‚Prüfung zur Fahrer
+; laubnis).
+4.302.3. Fahrausbildung . | 100/100 Stunden
+
+Ziel und Aufgaben
+
+werden.
+
+gewissenhafte und sichere Bedienung der ‘Kraftfahrzeige.
+Methodik und Organisation
+
+fügen:
+
+L
+
+Aufbau und Funktion der Kraftfahrzeuge und Anhänger SowLe Scndereinrichtungen
+
+a Auswahl und Anwendung der Werkzeuge auf dem Gebiet der Instandsetzung Bowie der artung un
+
+Pflege der Fahrzeuge
+
+- Kenntnisse der Ersten Hilfe (Nachweiskarte der geklnat sartekngerngt
+
+Lehrplanes abzusichern, damit Vorkenntnisse bereits im 1 Lehrjahr erworben: ‚werden: können; Un
+sofort mit Beginn des 2, Lehrjahres mit dem Lehrgang Fahrausbildung begobän werden kann.
+
+Nr. 16/68 für den Erwerb der. Fahrerlaubnis Klasse 5
+
+24219;;9
+
+Lehrplan
+
+Sstd
+
+Zu vermittelnde Kenntnisse, zu erwerbende‘
+
+Fähigkeiten und Fertigkeiten, Erziehungsschwerpunkte, ökonomische und allgemeinbildende Bezüge
+
+6 Fahrübungen auf Trainereinrichtungen Vermitteln von Grundkenntnissen der Bedienung
+6 Fahrübungen mit Pkw Erziehen zum verantwortungsbewußten Umgehen
+bei der Bedienung eines -Kraftfahrzeuges
+Trainieren von Schaltübungen
+10 Fahrübungen bei geringer Verkehrsdichte Komplexes Anwenden der Bedienungselemente
+auf öffentlichen Straßen mit Lkw eines Kraftfahrzeuges
+20 Fahrübungen bei mittlerer Verkehrsdichte Erziehen zum verkehrsgerechten Verhalten
+auf öffentlichen Straßen mit Lkw unter Beachtung der gesetzlichen Bestimmungen
+Anwenden des Systems der fehlerfreien Arbeit
+10 Fahrübungen unter erschwerten Bedingungen ; Herausbilden sozialistischer Verhaltensweisen
+auf öffentlichen Straßen und im Gelände Zur Materialökonomie Bezüge herstellen
+mit Liw und Hänger ,
+Erreichen der Bereitschaft, unter erschwerten
+Bedingungen. Fahrleistungen zu vollbringen
+10 Fahrübungen auf öffentlichen Straßen bei Beachten der ökonomischen Fahrweise, ErDunkelheit mit Lkw und Hänger. ziehen zum kostenbezogenen Denken
+6 Einweisungen in Garagen, Kraftfahrzeug- Erziehen zur Genauigkeit, Gewissenhaftigkeit,
+hallen, Höfen Selbständigkeit unter Einhaltung der VerordHeranfahren an Rampen hungen
+Einfahren in Parklücken, Wenden und dergleichen |
+4 Das Bergen von Kraftfahrzeugen und | Kennenlernen und richtige Anwendung der BerHängern 1 gemittel
+| Erziehen zur gegenseitigen Hilfe und Achtung
+10 Fahrübungen als Fernfahrt mit Lkw und Erziehen zum Einhalten der festgelegten
+Hänger Pausen und laufende Durchsichten im Rahmen
+der Fernfahrt ..
+10 Fahrübungen unter erschwerten Bedingun- Fördern des aufmerksamen und rücksichtsvollen
+
+gen, nachts mit LKW und Hänger bei .
+Nebel, Regen und Eis
+
+Fahrübungen mit Fahrzeugeinheiten in
+Kolonnen
+
+\
+
+.Ausgleich
+
+Verhaltens |
+
+Verbinden mit den Aufgaben der Zivilverteidigung
+
+Richtiges Verhalten bei Kolonnenfahrten
+fordern
+
+Einordnung in das Kollektiv
+
+Praktische Fahrprüfung zur Fahrerlaubnis
+
+24219
+
+Wartung und
+DZiel und Aufgaben
+
+Außerdem sind regelmäßig Gesundheits- und Arbeitsschutzbelehrungen‘ aurchzuführen.
+Bei der methodischen Gestaltung des Lehrganges sind Beziehungen zu den TLehrgängen
+
+Kraftfahrzeuginstandsetzung
+
+Kraftfahrzeugkunde
+= Verkehrsrecht und
+Verkehrspraxis
+
+herzustellen.
+
+Lehrplan
+
+.
+
+Sta. Stoffgebiet und Arbeitstätigkeiten
+
+17 Ausführen aller Pflegearbeiten an Fahr- Vermittein der Maßnahmen zu
+
+zeugen und Anhängern | 4. Fahrzeuge
+Reinigen des Fahrgestells Monatlicher Stehtag
+
+Monatliche” grünäliche Reinigung der Fahrzeu
+
+;; durch den pfiegedienst. und- ;gründli
+Einsprühen und Äbschmieren der Fahrzeuge aicht durch den D-Meister
+
+. / .
+Konservierungsarbeiten. Handhabung technischer ilfseinric
+(Beaehtung von Aufgaben der. Zivilver- e
+
+teidigung)
+
+Reinigen von Fahrzeugeinheiten
+
+5 Bedienen und Handhaben der verschiedenen,
+Groß- und Kleingeräte zur Fahrzeugpflege
+
+24219
+
+1 . 2
+
+Mitarbeit beim Ölwechsel Vertiefen der Kenntnisse über ÖlwechselfriAltölerfassung und Prischölausgabe ; sten bei Motoren, Wechsel- und Ausgleichs
+Betankung . getriebe
+
+ABAO — Bankstelle.
+Automatische und manuelle Tankeinrichtungen
+
+1
+
+6 Korrosionsschutzmaßnahmen. an Fahrzeug- Erkennen der Korrosionsarten
+einheiten
+Vorbeugender Korrosionsschutz |
+Vorbereiten zum Korrosionsschutz und An- Anwenden der theoretischen, Erkenntnisse aus
+wenden der Korrosionsschutzmittel dem Unterrichtsfach Technische Stoffe
+
+Erziehen zum materialökonomischen Denken
+
+8 Wartung und Pflege der Batterie Erkennen der Notwendigkeit einer ständigen
+Funktionsfähigkeit der Batterien zur Ein
+Prüfen des Säurestands, Nachflillen von
+satzbereitschaft des Kraftfahrzeuges
+
+destilliertem Wasser
+Richtiges An- und Abklemmen .
+
+10 Warten und Pflegen des Motors ; . ABAO bei der Wartung und Pflege des Motors
+Luftfilter, Ölfilter, Kraftstoffilter. |
+
+Entlüftung der Kraftstoffleitung Herstellen von Bezügen des Umweltschutzes
+
+und der Lärmbekämpfung
+Waschmittel und Reinigungsmittel
+
+D Warten und Pflegen der Kühlsysteme Erkennen der Wichtigkeit des Kühlsystems in
+; Bezug auf Leistung und Lebenzüauer des
+Motors
+Sommer- und Winterbetrieb Kühlerpflege und -wartung
+
+Frostschutzmittel einsetzen
+Richtiges Füllen bzw. Entleeren
+Reinigen von Kühlern
+
+11 Aufgaben zum Durchführen der einzelnen Gewährleistung der Betriebs- und VerkehrsTechrnischen Dienste sicherheit.
+Durchführen des ZD- 1 und 3 (einschließ- Erläuterung über Sommer- und Winterverkehr
+lich 2)
+
+Arbeiten an Brensanlagen nach StVO und StVZO
+
+10 Ausgreich
+
+Iransportpraxis 400/350. Stunden
+Ziel Aufgaben Ä |
+
+.
+
+Dieser Lekrgang ist im unmittelbaren Zusammenhang nit dem Lehrgang Verkehrapraxis zu sehen.
+Es muß deshalb. gesichert werden, daß die Lehrlinge alle Arbeitstätigkeiten erlernen und das
+
+dazugehörige Wissen erwerben.
+
+Die Ausbildung ist Praxiebezogen. aurchzuführen, wobei die jeweiligen betrieblichen Bedingungen
+berücksichtigt werden müssen.. .
+
+Methodik und Organisation 
+Ausbildungsplätze, die den Anforderungen des Lehrplanes entsprechen und vorher anhand von Arbeitsplatzanalysen ausgewählt wurden, sind zur Ausbildung der Lehrlinge bereitzustellen. Während
+der Ausbildung wird der Lernende einem Lehrfacharbeiter zugeteilt.
+
+= . . .
+
+x
+
+84 | 24219
+
+Die Lehrlinge nehmen regelmäßig an betrieblichen Belehrungen, Arbeitsschutzunterweisungen und
+
+Kontrollberatungen teil.
+
+In diesem Lehrgang sind Bezüge zu den Lehrgängen der Grundlagenbildung herzustellen.
+
+Lehrplan
+
+Stdo
+
+Zu vermittelnde Kenntnisse, zu erwerbende
+
+Stoffgebiet und Arbeitstätigkeiten
+
+45 Einweisen in die Tätigkeiten auf dem Verkehrs- und Betriebshof
+
+Mitarbeit beim Verkehrameister ;
+
+Abstellen von Fahrzeugen entsprechend der ;
+Parkordnung 7
+
+Vorbereiten der Fahrzeuge für den Einsatz
+im Nah- und Fernverkehr
+
+Rechtsvorschriften im Transportprozeß
+
+Transportarten
+Transportverträge
+Pflichten des Kraftverkehrs .
+
+Umgang mit Vertragspartnern und Kunden
+150 Kommerzielle Tätigkeit in der Transportpraxis
+Mitarbeiten in den Einsatzleitungen
+
+Führen und Abrechnen von Transportunterlagen
+
+Kontrolltätigkeiten beim verwaltungsmäßigen Ablauf des Transportprozesses
+
+Transportbesonderheiten Lm Güterverkehr.
+und,in der Spedition
+
+Information über die Berechnung des
+Transportentgeltes
+
+Führen und Kontrollieren des- Bordbuches
+Arbeit mit dem Fahrtschreiber
+
+Umschlagtechnik in der Transportpraxis
+Hebegeräte und Hebeeinrichtungen
+
+180
+
+Fähigkeiten und Fertigkeiten, Erziehungsschwerpunkte, ionomische nd allgemeinbildende Bezü ; |
+
+Erläutern der Einrichtungen m. Verkehrs- A
+oder Betriebshof
+
+Einführen in den Aufgabenbereich des Verkehrs- 3
+meisters
+
+Kennenlernen der Parkorähung und. Erziehen,
+zum ordnungsgemäßen Einhalten
+
+Erkennen der Möglichkeiten der Anlastühg‘
+des Transportraumes der Fahrzeuge nach
+ökonomischen Gesichtspunkten
+
+Herausbilden der Verantwortung, Bereitschaft
+und Qualitätsarbeit
+Kennenlernen.der Rechtsvorschriften und deren A
+‘ gewissenhaftes Einhalten zur"Sicherung des
+Transportprozesses
+Bereitschaft zum Mehrschichtsystem wecken
+
+Berufs- und Betriebstreue fördern
+
+Vermitteln der Aufgaben Lm. Bereich der. Ein
+satzleitung
+Einweisen in die. ordnungsgemäße Führung‘ und
+Abrechnung der Transportunterlagen
+
+Befähigen zur richtigen und seibständigen
+Führung und Abrechnung - ;
+
+Bezüge. zum. Lehrgang Verkehregeographie bo
+
+. der Festlegung der Fahrstrecke‘ nach e
+
+kehrskarten herstellen. ;
+/
+Erkennen der notwendigen Führung und- Eintragung in das Bordbuch und die Auswertung .
+des. Transportprozesses mit Hilfe Ades Fahrt
+schreibers
+
+Kennenlernen der Arwendung der Habezege
+unter Benchtung der ASAO .
+
+Bedienungsgrundsätze, Technische Hilfs- . Befähigen und Erkennen, daß eine gute Bemittel, Arbeitsschutz ; ; und Entladetechnik entscheidend für die Er=-.
+höhung der Qualität im Transportprozeß ist
+
+und wesentlich dazu beiträgt, die Betriebs; und Verkehrssicherheit zu erhöhen, um die
+Ä Arbeitsproduktivität zu steigern
+Kennenlernen der technischen Hilfsmittel
+und deren richtige Anwendung unter Einhaltung der Arbeits- und Sicherheitsbestimmun
+. gen .
+25 Die Arbeits- und Brandschutztechnik in Vermitteln der Kenntnisse auf dem Gebiet des
+der Transportpraxis (GABS) GABS, insbesondere der ASAO 361/2
+Arbeitsschutz und Reparatur-auf dem Verkehrs- und Betriebshof MPPPPPÄL
+Brandschutz im Einsatzpark
+Umgang mit Feuerlöschern und deren Be- . Arten der Löschgeräte und Feuerlöscher, Verdienung . . ; wendungszweck, Einsatzmöglichkeiten und
+Ausrüstung der Kraftfahrzeuge: Löschwirkung —
+Verhalten bei Arbeits- und Verkehrsun- Brandschutzordnung im Bereich und Betriebsfällen hof, Alarmplan
+- Arbeitsschutzkleidung und Arbeitsschutz- Erziehen zum Einhalten von Anordnungen 'aufmittel . dem Gebiet des Brandschutzes
+Durchführen von praktischen Übungen mit
+Feuerlöschern
+Verkehrspräxis - 560/485 Stunden
+' Ziel und Aufgaben | .
+
+Das Ziel dieses Lehrganges ist die direkte Vorbereitung des- Ternenden für seinen Einsatz als
+Facharbeiter. Alle bisher erworbenen Kenntnisse, Fähigkeiten und Fertigkeiten sind in diesem
+Lehrgang breit anzuwenden, zu festigen und zu vertiefen. Die Lehrlinge sollen erkennen, daß es
+ihre Berufsehre ist, besonders vorbildiich im öffentlichen Straßenverkehr aufzutreten.
+
+Von großer Bedeutung ist. das Durchführen der Transporte in hoher Qualität. So wird entscheidend.
+zUr Skonomischen Stärkung des Betriebes und damit der DDR beigetragen.
+
+Methodik unde Organisation
+
+Im letzten Drittel des Lehrganges sind die Lehrlinge dort einzusetzen, wo sie später als Facharbeiter tätig sein werden. Dieser Zeitraum stellt besonders- hohe Anforderungen an die Lernen- .
+den. Gleichzeitig sind die Lehrlinge in das Mehrschichtsystem einzugliedern und ihre Einsatzbereitschaft bezüglich der Besonderheiten des Transportprozesses zu fordern und zu fördern.
+
+Am Ende der Lehrzeit ist die volle Facharbeiterleistung zu erreichen.
+
+Vor Beginn des Lehrganges müssen die Lehrlinge im Besitz der gültigen Fahrerlaubnis Klasse 5
+-sein, die ihnen das selbständige Führen von Kraftfahrzeugen gestattet. Dabei sollte angestrebt _
+werden, daß. die Lehrlinge in den letzten 200 Stunden Transportaufgaben selbständig erfüllen.
+
+\ Die Ausbildungserkebnisse in diesem Tehrgang sind als. Arbeitsplatzeinarbeitung im Facharbeiterzeugnis auszuweisen.
+
+\ \
+. + \
+- .
+
+88 ;=; ; 242i9
+
+L o hr D an
+
+Stdo Stoffgebiet und Arbeitstätigkeiten Zu vermittelnde Kenntnisse, Zzu erwerbende
+; Fähigkeiten und Fertigkeiten; Erziehungss
+schwerpunkte, ökonomische und allgemeinbil
+. 3
+
+510 Einsatz in der Verkehrspraxis, im Güterverkehr bzw.
+
+Durchführen von Nah- bzw. Fernverkehrs- Kennenlernen allgemeiner und spezieller Re
+transporten - geln in der Verkehrspraxis. A
+Führen der Kraftfahrzeuge auf öffent- Vertiefen der gewonnenen. Fertigkeiten mit:
+lichen Straßen und Plätzen und unter Lkw und Hänger unter Beachtung einer
+schwierigen Bedingungen bildlichen Fahrweise, damit das Leben, und
+die Gesundheit aller Verkehrsteilnchmer
+
+. Bgeschützt wird | |
+|
+
+Verkehrsgerechte Be- und Entladung des . Anwenden der erworbenen Kenntnisse. aus den:
+Fahrzeuges Lehrgang Transportprakis
+Be- und Entladetechnik
+Erkennen und Beseitigen von Störungen Vertiefen der Fertigkeiten bei der Kraftund Ausführen von einfachen Raparaturen fahrzeuginstandhaltung
+
+an den einzeinen Baugruppen und Bau
+Erziehen zum richtigen Verhalten, um die
+untergruppen der Kraftfahrzeuge
+
+Einsatzbereitschaft des Kraftfahrzeiges Zzu
+
+garantieren
+Ordnungsgemäßes Führen der Transport- Erkennen des ordnungagemäßen Führens und der
+papiare , Abrechnung der Transportunterlagen
+Einhalten der GABS und der Rechtsvor- =;
+schriften im Güterverkehr bzw. Spedi- ;
+tionsverkehr
+
+90 Gewährleisten der ständigen Einsatzbereitschaft der Fahrzeugeinheiten
+
+Gewissenhaftes Warten und Pflegen . Erweitern. und Vertiefen der. Kenntnisse auf
+Ausführen aller Pflegearbeiten dem Gebiet der Wartung und pflege.
+
+Selbständiges und gewissenhaftes: Duzehfühs
+ren des 1. Technischen Dienstes’ anerziehen.
+
+Richtiges Handhaben der technischen ; Nutzen der verkehrsarmen Zeit zur nstand
+Hilfsmittel und sachgemäße Behandlung haltung
+
+der Güter Erziehen zum Einhalten der Arbeitsschützanordnungen und Sicherheitsbestimnungen
+
+Geräteinstandhaltung | 610/500 Stunden
+Ziel und Aufgaben ; =; | ;
+
+Der Lehrgang dient speziell der Ausbildung von Fahrzeugschlossern für die Stadtreinigung. Er |
+schließt an die Kraftfahrzeuginstandhalitung an und setzt außerdem die‘ Kenniniese Fahigkeiten
+und Fertigkeiten aus den Lehrgängen der Grundlagenbildung voraus. A
+
+Die Lernenden sollen befähigt werden, sich die besonderen Kenntnisse,. Fähigkeiten und Fertigkeiten anzueignen, die für den Einsatz an den speziellen Fahrzeugen und Geräten der e Stadtreinigung erforderlich ginde . . A An
+Um die hohen Anforderungen zu erfüllen, muß in der Ausbildung das techäisch-funktionale und das‘
+technisch-konstruk* e Nanken syst. atisch entwickelt werden. Hierdurch werden die‘ Lernenden
+
+hängt.
+
+120 Pflegen und Warten von Spezialfahrzeugen und Anhängern
+
+befähigt, die jeweils rationellsten Verfahren auszuwählen und festzulegen.
+
+Besondere. Aufmerksamkeit .ist dem Grad der Arbeitsteilung in den einzelnen Betrieben und Betriebsteilen zu widmen. Die Lernenden müissen zu der Fähigkeit gelangen, sich den häufig verändernden Arbeitssituationen anzupassen und das Bedürfnis entwickeln, sich ständig weiterzubilden. Ihnen muß bewußt werden, daß von ihrer Arbeit Sicherheit und Leben vieler Menschen abe
+Methodik und Organisation
+
+Die zu erwerbenden Kenntnisse, Fähigkeiten und Fertigkeiten sind durch unmittelbare rätigkeit
+an den Fahrzeugen und Geräten der Stadtreinigung zu. vermitteln. Der Ler rnprozeß ist vor allem
+durch ständiges Üben und Demonstrieren zu fördern. Dabei sind Beziige zu den Fächern Technische
+Stoffe , technische Mechanik, Fertigungstechnik‘ und Kraftfahrzeugkunde herzustellen.
+Durch den Einsatz moderner Unterrichtsmittel, wie Modelle, Filme oder Dia-Reihen und die
+
+Nutzung berufsbildender Literatur bzw. technische Dokumentationen muß bei den Lernenden die
+Fähigkeit entwickelt werden,. sich seibständig Kenntnisse ahnzueignen.
+
+Die Arbeitsschutzanordnungen und Sicherheitsbestimmungen sind den Lernenden regelmäßig Zzu ver
+mitteln, ihre Einhaltung: ist ständig zu kontrollieren und kontrollfähig nachzuweisen.
+
+Lehrplan .
+
+Std. Stoffgebiet und Arbeitstätigkeiten Zu vermittelnde Kenntnisse, zu erwerbende
+| Fähigkeiten und Fertigkeiten, Erziehungsschwerpunkte, ökonomische und allgemeinbildende Bezüge
+1 .2 3
+
+8
+Technische Einrichtungen, die einzelnen Erkennen des funktionellen Zusammenhanges
+Einsatzsäulen, die Fahrzeugeinstellung . zwischen äußeren und inneren Bedingungen
+- und die Ordnung auf dem Betriebshof. | des Produktionsprozesses
+
+Die Aufgaben der Fahrmeister bzw. der
+Schichtleiter
+
+Sauberkeit auf dem Betriebshof Verwirklichen der Prinzipien von Disziplin,
+
+Abstellen von leeren und beladenen Ordnung und Sicherheit
+
+Fahrzeugen
+
+AA
+
+Durchlauf der Kraftfahrzeuge nach Beendigung des Einsatzes ;
+
+Die wichtigsten Arbeitsschutzanordnungen Erziehen zum konsequenten Einhalten der Arund Sicherheitsbestimmungen sowie die beitsschutzanordnuhgen und Sicherheitsbezutreffenden Standards der Elektrolech- stimmungen .
+
+nik
+
+Ausführen aller Pflegearbeiten an Fahr- Erkennen der Maßnahmen zur Erhöhung der Einzeugen und Geräten entsprechend den . satzbereitschaft aller Fahrzeugeinheiten
+Eiänen der jeweiligen Typen Erläutern der Aufgaben und.der Organisation
+der Technischen Dienste und der Fahrzeugüberwachung
+
+. A
+Sprengwagen und Sandstreuer .
+
+Fußwegwaschanlage, Pumpenantrieb, Kennenlernen der zweckmäßbigen technischen
+Pneumatik Hilfsmittel bei der Pflege der Fahrzeuge
+Sandstreuer; Rollboedenantrieb, Streu- Entwickeln einss hohen Ferantwortungsbewußt
+88 | 24219
+
+tellerantrieb, hydraulische Anlage und. seins sowie der Treue Zum Betrieb u
+Rollboden Beruf
+
+Kehrmaschinen
+
+Lüfterantrieb, Hydraulik, Wasseranlage
+
+ausführung.
+
+Müllwagen |
+Trommelantrieb, Arbeitsluftanl age Erkennen der. Zusammenhänge‘ zwischen den n
+
+standhaltungsarbeiten und der. Aufgabenerfü
+Deckeisicherungsanlage, Hilfsrahmen und. lung im Eins atz“ der Fahrzeuge
+mMülltrommel \
+
+; ; Die Aufgabe des
+= der "Messe der Meister von morgen!
+
+Papierkorbwagen und Futtersammlung |
+Pumpenantrieb, Hydraulikanlage, Deckel- Beachten der Rechtsvorschriften, inst
+anlage mit Deckelsicherung ; dere der StVZO
+
+Großbehälterfahrzeuge
+
+Eydraulikanlage und Hilfsrahmen
+
+Winterdienstgeräte und Schneelader
+
+Ladeeinrichtung und Hydraulikanlage
+Schneepflüge
+
+Radlagerung und Luftanlage | a
+
+Aufsatz- und Anhängerstreuer, Antrieb | |
+und Transporteinrichtung ;
+
+ie plannäßige tE ägliche‘ rlichtreinigung
+
+Waschen der- Spezialfahrzeuge entsprechend den jewsiligen Rei inigungsplänen
+
+Abschmieren und \Absprühen der Fahrzeuge
+
+Säubern des Fahrgestells, Durchführen
+von Ölwechsel und Altölerfassung
+|
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen, insbesondere
+bei Spezialfüliungen mit Lauge oder Salz arben erläutern e
+482
+Spülbalken und D Teile der Wasseranlage
+auswechseln, Prallbleche befestigen;
+Kesselihalterung und Halterung für Um
+kehrgetriebe befestigen‘ bZWe nachziehen
+und Kreuzgelenke wechsein
+
+antwortung
+
+24219
+
+Sandstreuer‘
+
+Instandsetzungsarbeiten am Rollboden- Grundsätze für die Beurteilung des
+
+und am Streutellerantrieb Schadumfanges vermitteln
+
+Kehrmaschine
+
+Wechseln der Kehraggregate und Saugein- Erwerben von Fähigkeiten und Fertigkeiten,
+richtungen (Sieb, Saugschachtknie) verantwortungsbewußt und selbständig kleinere
+
+Wartungsarbeiten in guter Qualität auszuführen, um die Einsatzbereitschaft der Fahrzeuge und Geräte zu gewährleisten
+
+Einstellen der Kehraggregate
+
+Müllfahrzeuge
+Arbeiten an der Deckelabdichtung und Erkennen der Bedeutung fachgerechter Repaderen Teile sowie an der Arbeitsluft- raturausführungen
+anlage Verstehen des Inhalts des Begriffes
+
+| Materialökonomie
+Großbehälterfahrzeuge
+Teile der Hydraulikanlage wechseln
+
+Winterdienstgeräte
+
+Schneelader Schaare wechselin, Teile der Erkennen von Verschleißursachen, Maßnahmen
+Ladeeinrichtung wechselin und Einregulie- zu ihrer Beseitigung
+ren der Ladeeinrichtung
+Schneepflüge und Druckluftanlage Bereitschaft zur Arbeit auch unter erschwerSchaare und Federn sowie Teile der Luft- .ten Bedingungen anerziehen
+anlage wechseln, Gummileisten aus Vertiefen des Wissens über die Aufgaben der
+wechseln Zivilverteidigung
+
+Erziehen zur Einsatzfreude und zum pfleglichen Umgang mit Arbeitsmitteln
+
+Einhalten der Arbeitsschutzanordnungen Erziehen zum bewußten Einhalten der Arbeitsund Sicherheitsbestimmungen schutzanordnungen und Sicherheitsbestimmungen, StVO und StVZO
+
+Technologie der Stadtreinigung 67/67 Stunden
+
+Ziel und Aufgaben
+
+Der Lehrgang enthält die Aufgaben und die Verfahren der Stadtreinigung. Insbesondere soll auf
+die Wirksamkeit, Anpassungsmöglichkeit und .die Grenzen der Anwendungsmöglichkeit der einzelnen
+Verfahren in Bezug auf die örtlichen und meteorologischen Binsatzbedingungen eingegangen
+werden.
+
+Durch genaue Kenntnisse über die Wirkungsweise der Verfahren ist es mwöglich, die Spezialfahrzeuge entsprechend den vorhandenen Bedingungen auch für .den Katastrophenschutz und Maßnahmen
+der Zivilverteidigung optimal zu nutzene
+
+Diese steigende volkswirtschaftliche Bedeutung der Stadtreinigung entsprechend der sozialistischen Entwicklung der Städte und Gemeinden dient usa. auch dem wachsenden Ansehen dieses Berufes und damit zur Förderung der Betriebstreus und =ehre,
+
+| todiE und Organisation
+
+Zum besseren Verständnis der Zusammenhänge sind insbesondere Bezüge zu folgende. Unterrichtsfächern bzw.e Lehrgängen herzustellen:
+
+Betriebsökonomik, Sozialistisches Recht und Einsatz in der Stadtreinigung
+
+90 24219
+
+Std. Stoffgebiet und Arbeitstätigkeiten
+
+18 Straßenreinigung
+Aufgaben der Straßenreinigung ;
+
+Verfahren
+Maschinelles Kehren, Waschen, Sprengen
+
+Manuelle Reinigung,
+Anforderungen an die Sauberkeit
+
+Ermitteln des Reinigungsturnus
+
+4
+
+Ausarbeiten von Reinigungs- und Toureh
+plänen ;
+
+Frühjahrs- und Herbstreinigung
+
+Papierkorbentleerung
+
+Gullyreinigung
+
+7
+| \
+
+14 Anforderungen an den Winterdienst |
+Entstehung der Straßenglätte und deren
+1 wirksame Bekä impfung durch Abstumpfung:
+bzw. Abtauen
+
+Kriterien für die Anwendung der einzeinen
+Verfahren . Schneeräumung und nbeeen
+
+Ausarbeiten von Streu- und Räumplänen
+
+24 Müllabfuhr‘
+‘ Aufgaben der Müllabfuhr: - ;
+
+A Hausmüll-, Sperrmüll-, ndustrienilebf 1
+
+Die Ursachen des Müllanfalls
+
+‘Absuhrturnus, Behälterstandorte und Be
+hältersysteme 1
+
+Abtuksverfehren, Einfluß: der Transports
+strecke auf die Leistungen und Kosten
+
+Ausarbeiten von Bimplüänen
+
+Verfahren der Sperrmüll- und der Industrieabfuhr
+
+Wichtigste Beseitigungsverfahren
+Geordnete Deponie .
+
+24219
+
+Kompostierung
+Verbrennung
+
+2 Fäkalienabführ
+
+Verfahren der Abfuhr
+
+2 Erfassen der Küchenabfälle
+
+Notwendigkeit und Verfahren der Einsammlung und Verwertung
+
+7. Ausgleich
+
+Einsatz in der Stadtreinigung
+
+Ziel und Aufgaben
+
+Dieser Lehrgang tritt an di
+Ausbildung im Kraftverkehr.
+
+Einweisen in den technischen Entwicklungsstand und die perspektivische Forschung
+
+Zusammenhang zwischen Plan Wissenschaft
+und Technik , Neuererwesen und Messe der
+Meister von morgen herstellen
+
+Erkennen der volkswirtschaftlichen Bedeutung für die Nahrungsgüterwirtschaft
+
+283/268 Stunden
+
+e Stelle der Lehrgänge Transportpraxis und Verkehrspraxis für die
+
+Die Unterschieälichen Arbeitibechniken an den Spezialfahrzeugen der Stadtreinigung sollen von
+den Lehrlingen in der angegebenen Stundenzahl erlernt und das dazugehörige Wissen erworben wer
+den.
+Zum Abschluß dieses Lehrganges müssen di
+
+die ein Berufskraftfahrer der Stadtreinigung zu erfüllen hat, selbständig,
+
+guter Qualität -auszuführen.
+
+Besondere Beachtung gilt dem Arbeitsschutz,und der technischen
+
+e Lernenden in der Lage sein, jede vorkommende Arbeit,
+gewissenhaft und in
+
+Sieherheit sowie dem aufmerk
+samen und rücksichtsvollen Verhalten Lm Straßenverkehr.
+
+Um das ökonomische Denken der. Lernenden
+
+ZUu aktivieren, i ist bei der Behandlung der einzelnen
+
+Aufgaben der spezifische Kostenaufwand zu ermitteln. Darüber hinaus sind enge Verbindungen
+
+zum sozial
+und zur Kollektiverziehung Zzu knüpfen.
+keit ist zu wecken und durch geeignete b
+
+A
+Methodik und Organisation
+
+| . .
+In Rahmen dieses Ausbildungsabschnittes
+fächern oder Lehrgängen herzustellen:
+
+Verkehrsrecht
+- Geräteinstandhaltung
+
+92
+
+sind insbesondere
+
+istischen Wettbewerb, zum Neuererwesen, zur Bewegung Messe der Meister von morgen
+Die Bereitschaft zur wissenschaftlich-produktiven Tätig-.
+
+etriebliche. Maßnahmen, deren Inhalt Probleme der In
+tensivierung der Produktion sind, zu fördern.
+
+Bezüge zu folgenden Unterrichts
+Fahrausbildung
+Betriebsökonomik
+Sozialistisches Recht und
+Technologie der Stadtreinigung
+
+24219
+
+Stde
+
+60
+
+223
+
+Stoffgebiet und Arbeitstätigkeiten
+
+\ 4
+Vor- und Nachbereitung des Einsatzes.
+
+Mitarbeiten in der Einsatzabteilung
+
+Aufstellen von Tourenplänen
+
+Ausfüllen und Abrechnen von DPourenkarten
+
+Abrechnen des öl- und Kraftstoffverbrauchs
+
+Durchführen des Einsatzes
+
+Sprengwagen
+
+Mitarbeit beim Überprüfen der Betriebsund Verkehrssicherheit und des Arbeitsvorganges
+
+Sprengen bzw. Waschen unter Berücksichtigung des fließenden und ruhenden Verkehrs
+Mithelfen beim Säubern und Pflegen .
+nach Beendigung der Fahrt.
+
+Ordnungsgemäßes Abstellen der Fahrzeuge
+
+Kehrmaschinen
+
+Mitarbeiten beim Überprüfen der Betriebsund Verkehrssicherheit und des Arbeitsvorganges
+
+Arbeitsfertigkeiten der verschiedenen
+Maschinen. .
+
+Helfen bein Säubern und Pflegen nach
+Beendigung der. Fahrt
+
+Ordnungsgemäßes Abstellen der Fahrzeuge
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+Müllabfuhr. |
+Mitarbeiten beim Überprüfen der Betriebs- und Verkehrssicherheit und des
+Arbeitsvorganges.
+
+Mitarbeit als Müllschaffner
+
+24219
+
+Transportunterlagen und Tourenpläne‘
+
+aufgaben 
+Erziehen zum verantwortungsbewußten Umgehen
+mit Fahrzeugen und Arbeitsmaschinen
+
+Erläutern des rächtigen Verhaltens nach Ver
+
+Einweisen in die Besonderheiten des Lade
+. Erziehen zum verantwortungsbewußten. Ungehen
+
+währung von Sonderrechten gegenüber der
+
+Zu vermittelnde Kenntnisse, zu. erwerbende
+Fähigkeiten und Fertigkeiten, Erziehungsschwerpunkte, ökonomische und- allgemeinbildende Bezüge
+
+Befähigen zum Behandeln und Bearbeiten der
+
+Erziehen zum Erhöhen‘ des Auslastungsgrades
+
+von Spezialfahrzeugen
+
+Erkennen der Bedeutung der ‚wirtschaftlichen
+Abrechnung der Betriebsstoffe
+
+Erläutern des Zusammenhanges: zwischen Intensivierung und Materialökonomie . ;
+
+Einweisen und Erkennen der Dienstleistungs
+
+Allgemeine und spezielle Regaln für das Bar
+und Entladen von Kraft- und Spezialfahrzeugen
+
+kehrsunfällen und der PfLicht zu Ersten
+Eilfe-Leistung
+3
+
+gutes
+
+A
+
+mit Fahrzeugen und Arbeitsmaschinen.
+
+Erziehen zum Einalten der Aeienefariern
+Befähigen zum ı richtigen WVerhalten bei‘ e
+
+StVO.
+
+Herausbilden n sozialististher Vorhaltchwetsen
+Erziehen ZU Berufs- und Betriebstreug und- E
+zum richtigen Verhalten gegenüber. der Kuhdschaft: Achtung, Berlichkeit, abgenseibige
+Rücksichtsnahme.
+
+Mitarbeit bei der Bedienung der Aggregate
+
+Ordnungsgemäßes Abstellen der Fahrzeuge
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+\
+
+Fäkalienfahrzeuge . .
+
+Mitarbeit beim Überprüfen der Betriebsund Verkehrssicherheit und des Arbeitsvorganges
+
+Behälter füllen und entleeren, Helfen
+beim Säubern der Fahrzeuge und bei.den
+Pflegearbeiten nach Beendigung der Fahrt
+
+Ordnungsgemäßes Abstellen der Fahrzeuge
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+Winterdienstgeräte
+
+Mitarbeiten beim Überprüfen der Betriebs
+und Verkehrssicherheit und des Arbeitsvorganges
+
+Arbeitsfertigkeiten der verschiedenen
+Arbeitsmaschinen und Zusatzgeräte
+
+Be- und Entladen von Abstumpfungsmitteln
+
+Helfen beim Säubern und Pflegen nach der
+Fahrt. bzw. nach dem Einsatz
+
+Ordnurigsgemäßes Abstellen der Fahrzeuge
+
+und Geräte
+
+Einhalten der Arbeitsschutzanordnungen
+und Sicherheitsbestimmungen
+
+5, Beiufsspezifische Zivilverteidigung
+
+Hinweise
+
+Die Aufgaben der Zivilverteidigung bestehen darins ‚dem Schiutz der Bevälkerung, der Volkswirtschaft, der lebensnotwendigen Einrichtungen und. der kulturellen Werte vor gegnerischen‘ militärischen Einwirkungen und ihrei Folgen sowie den Katastrophenschutz zu gewährleisten. Das erfordert
+den Lehrlingen neben dem notwendigen. Grundwissen auch. berufsspezifische Kenninisse zu vermit
+Höchstleistungen zur Aufrechterhaltung not
+Bezüge zu entsprechenden Aufgaben der Zivil
+. ordnungen und Sicherheitsbestimmungen
+
+Erziehen zum Einhalten der Arbeitsschutzanordnungen und Sicherheitsbestimmungen
+
+(ASAO 361/2, 114 und StVO)
+
+Erkennen der Besonderheiten des Ladegutes
+
+Einweisen in das Verhalten gegenüber der
+
+Kundschaft
+
+Erziehen zum Einhalten der Hygieneforderungen
+
+Erziehen zur Bereitschaft, auch unter erschwerten bzwe extremen Bedingungen zu arbei
+ten, zur Einsicht in die Notwendigkeit,
+
+wendiger Verkehrsverbindungen zu fahren
+
+verteidigung herstelilen
+
+Erziehen Zzum Einhalten der Arbeitsschutzan
+(ASAO 361/2, 114 und Stvo)
+
+teln und ihnen die erforderliche Leistungsbereitschaft anzuerziehen.
+
+Damit werden sie befähigt; beim Eintreten on Gefahrensituationen die ihnen anvertrauten Produktions- und Transportmittel sachgemäß zu Schützen bzWo bei Bergungsarbeiten zielgerichtet und
+
+selbständig zu handeln.‘
+
+Die ZV-Inhalte sind in Abstimmung mit. der-zentralen ZV-Ausbildung in den. Betrieben und Kombinaten und der sozialistischen Wehrerziehung in den. Einrichtungen der Berufsausbildung in die
+Stoffverteilungspläne und thematischen Planungen für berufsspezifische Bildungsinhalte als
+Fester organisatorischer Bestandteil der berufstheoretischen und berufs praktischen Ausbildung
+
+aufzunehmen.
+
+Gr
+
+24219
+
+. 1
+D
+1
+.
+1 . .
+u 3 en . ; e
+1
+
+Allgemeine Aufgaben ;
+
+Die teilweise und vollständige Spezialbehandlung von Kraftfahrzeugen
+
+— Anlagen zur Durchführung der Spezialbehandlung von Kraftfahrzeugen
+
+— Die möglichen Wirkungen v von Massenvernichtungemittein, Brand- und- Sprengnitteln auf Ge
+
+bäude, Maschinen, ÄAnlagen und Fahrzeuge
+
+die Maßnahmen zum Schutz der Maschinen, Transportmittel un -anlagen vor den Wirkungen
+
+gegnerischer Vernichtungsmittel
+
+= das Verhalten nach den Sienalen des Warnsystems der DDR
+
+= das Verhalten beli und nach gegenerischen Angriften unter Berücksichtigung der. verschiedenen.
+
+Vernichtungsmittel und der Spezifik der Betriebe |
+= das Verhalten in. aktivierten, vergifteten oder verseuchten Gebieten oder Räumen
+= die Maßnahmen der Selbsthilfe und gegenseitigen Hilfe |
+- die teilweise und vollständige sanitäre Behandlung und die erforderlichen Strukturnäßigen‘
+bzw. behelfsmäßigen Einrichtungen - x .
+
+= die teiiweise und vollständige Spezialbehandlung von Fahrzöugen, Technik und‘ Geräten
+
+= die mögliche Nutzung vorhandener Anlagen (zZ.B. Fahrzeugwaschanlagen) ZUE Durchführung
+der Spezialbehandlung. ;
+
+Berufsspezifische Aufgaben
+
+- Möglichkeiten zur Abdichtung geschlossener Kraftfahrzeuge für die Beförderung von Lebenanit
+teln, Futtermitteln und lebensnotwendigen Bedarfsgegenständen
+
+= Nutzung der Geräte. und Fahrzeuge der Stadtreinigung für die Entaktivierung und Enteiftung
+von Straßen und Plätzen.
+
+= das Verhalten des Kraftfahrers beim Einsatz in geschlossenen Kolonnen
+|
+
+. Geschwindigkeit | 4, ‚
+. Abstände ; =;
+
+. Durchfahren von Ortschaften
+. technische Rasten und Pausen .
+. Befördern gefährlicher Frachten (explosive Stoffe, Leicht entzündbare Flüssigkeiten)
+o Transport von Mannschaften
+. Kommandos und Zeichen für die Kolonnenf nführung
+. Besonderheiten bei Fahrten in Kolonnen (z. B. Überaqueren von sumpfigen und sandigem Ge
+lände, Wasserhindernissen usw,) | |
+. Bergen festgefahrener oder beschädigter Kraftfahrzeuge 4u
+Eisenbahnmärsche N
+
+. Verkehrsregelungen bei Kolonnenfahrten ; A
+
+24219 | | 95
+
+Herausgeber:
+
+Staatssekretariat für Berufsbildung, Berlin ;
+
+Für den fachlichen Inhalt tragen die Leiter der Organe die Verantwortung,
+die die Bestätigung vorgenommen haben.
+
+(610/62) Staatsverlag der Deutschen Demokratischen Republik
+
+Lizenz Nr. 751 — 1365/77 Gö
+
+Gesämtherstellung: .
+
+Staatsdruckerei der Deutschen Demokratischen Republik
+
+(Rollenoffsetdruck)
+
+e
+

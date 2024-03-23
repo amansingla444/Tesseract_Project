@@ -1,0 +1,5292 @@
+6 DEUTSCHE
+6 .
+A .
+DEMOKRATISCHE
+U n
+
+KraftfahrzeugElektromechaniker
+
+Berufsnummer 1850
+2. überarbeitete Auflage
+
+AUSBILDUNGS
+UNTERLAGE ;
+
+‚ FÜR DIE SOZIALISTISCHE
+BERUFSBILDUNG
+
+A
+
+Deutsche Demokratische Republik
+
+Ministerium für Verkeh rswesen
+
+Ausbildungsunterlage
+
+für die
+sozialistische Berufsbildung
+Kraftfahrzeug-Elektromechaniker
+
+Berufsmnummer 1850
+2. überarbeitete Auflage
+
+Bestätigt: Diese Ausbildungsunterlage ist
+ab 1. September 1976 verbindlich anzuwenden
+
+Berlin, 3.e April 1975 Berlin, Juni 1975
+
+Ministerium für Verkehrswesen Staatssekretariat für Berufsbildung
+
+gez. Arndt gez. Prof, Dr. Kuhn
+
+Minister Amt, Staatssekretär.
+. 4
+
+1
+. .
+.
+.
+. + .
+.
+,
+A
+. .
+4 4. . . + 44
+= . . 4 4s 4 2 4 .e 44 4 e
+
+=3=
+
+Diese Ausbildungsunterlage wurde von folgenden Mitgliedern der
+Berufsfachkommission Kraftfahrzeug-Elektromechaniker erarbeitet:
+
+Bertold, Norbert VEB Kombinat Kraftverkehr Gera
+Degner, Wilfried VEB Verkehrskombinat Neubrandenburg
+Feierabend, Kurt VEB Kombinat Auto Trans Berlin
+Heere, Klaus VEB Kombinat Kraftverkehr Potsdam
+Höppner, Jürgen VEB Kombinat Kraftverkehr -Schwerin
+
+Köhn, Hans-Günter Zentralstelle für Bildung des Mini
+steriums für Verkehrswesen
+
+Leeke, Gerhard GBS "Max Eyth' Halle
+
+Legler, Günther VEB Kombinat Kraftverkehr Halle
+Lindner, Horst VEB Kombinat Auto Trans Berlin
+Lüskow, Wolfgang ABS Perlebers
+
+Lummitzsch, Horst GBS I Karl-Marx-Stadt
+Schneidewind, Hans-Peter VEB Kombinat Kraftverkehr Halle
+Schröder, Walter GBS Burg bei Magdeburg
+
+Schulze, Karl-Heinz ZBS (B) Müncheberg
+
+Tillich, Rüdiger PGH Autoservice Potsdam
+
+Wilhelm, Karl-Heinz VEB Kombinat Kraftverkehr Potsdam
+Andreas, Horst . PGH (Kfz) "Matthias Berger" Gotha
+
+Die Begutachtung und Mitwirkung erfolzgte durch:
+
+Ministerium für Verkehrswesen, Hauptverwaltung des Kraftverkehrs
+
+Ministerium für Verkehrswesen, Abteilung Kontroile
+
+Zentralvorstand der Industriegewerkschaft Transport- und Nachrichtenwesen
+
+Medizinischer Dienst des Verkehrswesens der DDR
+Kommunale Berufsschule Burg bei Magdeburg
+Betriebsschule des VEB Kombinat Auto Trans Berlin
+
+Bezirkskabinett für Weiterbildung der Kader der Berufsbildung
+lalle
+
+e
+
+Inhaltsverzeichnis Seite
+Ao Vorwort | | 5
+2 Berufsbild 8
+3 Stundentafel | 14
+
+Inhalt der Ausbildung
+4.1. Lehrpläne für den theoretischen Unterricht
+
+4.1.1. Grundlagen der Elektrotechnik
+
+Hinweise 15
+
+Lehrplan | 18
+4.1.2. Kraftfahrzeug-Elektrotechnik
+
+Hinweise 32
+
+Lehrplan ; 33
+4.1.3. Fachzeichnen |
+
+Hinweise 45
+
+Lehrplan 49
+41.4. Werkstoffkunde | ;
+
+Hinweise 52
+
+Lehrplan 53
+
+D E D A
+
+4.2.1. Lehrgang Metallbearbeitung:
+
+Hinweise 57
+Lehrplan 58
+4.2.2, Lehrgang Grundfertigkeiten Elektrotechnik
+Hinweise . 62
+Lehrplan ' 62
+4,2.3. Lehrgang Messen, Prüfen, Fehlersuche
+Hinweise 65
+Lehrplan ; 66
+
+4.3. Spezialbildung
+Hinweise /0
+Lehrplan 4
+5 Prüfungsgebiete | 36
+1. Vorwort
+
+Die Stellung des Verkehrswesens im Reproduktionsprozeß bestimmt
+die Bedeutung und die Aufgaben aller Verkehrszweige beim umfassenden Aufbau des Sozialismus. Mit der weiteren Entwicklung der
+sozialistischen Gesellschaft entstehen im Verkehrswesen qualitativ neue Bedingungen für die Gestaltung und Abwicklung der
+
+. Instandhaltungsprozesse,
+
+Es kommt darauf an, für die Industrie und das Handwerk Nachwuchskräfte heranzubilden, die politisch und fachlich in der
+Lage sind, den Instandhaltungsablauf im Rahmen des wissenschaftlich-technischen Fortschritts mit optimalem Wirkungsgrad
+zu gewährleisten,
+
+Im sozialistischen Verkehrswesen tragen die
+
+Kraftfahrzeug-Elektromechaniker
+
+mit dazu bei, die Verkehrssicherheit der Kraftfahrzeuge zu gewährleisten, Diese verantwortungsvolle Arbeit stellt hohe Anforderungen an ihre Bewußtseins- und Charakterbildung., Während
+der Lehrzeit sind daher alle an der Bildung und Erziehung dieser Facharbeiter Beteiligten verpflichtet, ihnen die sittlichmoralischen Eigenschaften sozialistischer Persönlichkeiten anzuerziehen und ein solides, wissenschaftlich-technisches und
+ökonomisches Wissen zu vermitteln. Damit werden sie befähigt,
+die moderne Technik schöpferisch anzuwenden und die Kfz-Instandhaltung durch fortschrittliche Arbeitsmethöen zu rationa
+lisieren,
+
+Die Jugendlichen müssen lernen, ihre Arbeitsaufträge selbstän
+dig zu durchdenken, den Arbeitsablauf nach rationellen Gesichts
+punkten zu bestimmen, im Kollektiv zu arbeiten, die Ursachen
+für das Gelingen oder Versagen der von ihnen angewandten Arbeitsverfahren zu finden und so ihre eigene Arbeit einzuschätzen.
+
+Das selbständige Lernen der Lehrlinge ist vor allem durch das
+Einführen in Techniken und Methoden der geistigen Arbeit, durch
+Nutzen moderner Informations- und Bildungsmittel zu fördern.
+
+= Ö =
+
+e
+
+Aufbau der Ausbildungsunterla
+
+Berufsbild, Stundehtafel und Lehrpläne entstanden auf der
+Grundlage von wissenschaftlich fundierten Berufsanalysen. Das
+Berufsbild enthälit die Berufsbezeichnung, das Arbeitsgebiet
+des Facharbeiters, die notwendigen Voraussetzungen zum Erlernen des Berufes sowie die Dauer der Aus- und Weiterbildung. Es
+dient der Berufsinformation und -beratung und unterstützt die
+Planung der Berufsbildung. |
+
+Die Stundentafel beinhaltet den zeitlichen Umfang für die Er-füllung der Lehrpläne, sie bildet die Grundlage für die Planung der Lehrkräfte, der Ausbildungspistz- und Internatakapazitbäten.
+
+Die Lehrpläne sind Grundlage für die Einheitlichkeit der beruflichen Ausbildung, Die Lehrkräfte schlüsseln die insgesamt
+in den einzelnen Themenkomplexen Zur Verfügung stehenden Stunden innerhalb der Stoffverteilungspläne auf. Dabei sind hinsichtlich der Zeitfolge und Zeitanteile die wissenschaftlichtechnische Entwicklung, betriebliche Besonderheiten, schulorganisatorische Erfordernisse sowie vorliegende Erfahrungswerte
+zu berücksichtigen.
+
+Die in den Lehrplänen des theoretischen Unterrichts enthaltenen Ausgleichstunden sind in den Stoffverteilungsplänen als
+Zeitreserve, für Wiederholungen und Prüfungen sowie für die
+
+Vermittlung der in den Verfügungen und Mitteilungen des Staats
+sekretariats für Berufsbildung veröffentlichten Sonderthemen
+auszuweisen, Das betrifft vor allem die Aufgaben der Materialökonom’e, den Schutz vor Unfällen, Bränden und Havarien, die
+sozialistische Landeskultur und das sozialistische Arbeitsrecht
+sowie die Zivilverteidigung während der Berufsausbildung der
+Lehrlinge.
+
+Innerhalb der einzelnen Stoffgebiete und Arbeitstätigkeiten des
+berufspraktischen Unterrichts sind die Erfordernisse und zutreffenden Bestimmungen des Gegsundheits-=, Arbeits- und Brandschutzes sowie der Ordnung und Sicherheit zu behandeln,
+7
+
+Während des berufspraktischen Unterrichts nimnt grundsätzlich
+
+jeder Lehrling an der vormilitärischen bzw. DRK-Ausbildung
+teil,
+
+2, Berufsbild ;
+
+für den Ausbildungsberuf Berufsnummer 1850
+; bestätigt: Ministerium für
+Kraftfahrzeug-Elektromechaniker Verkehrswesen
+
+Stand: 1. Dezember 1974
+
+L
+e AA E
+
+Bedeutung und Entwicklung des Berufes im Rahmen der Volks
+wirtschaft .
+
+Mit der planmäßigen Entwicklung der sozialistischen Volkswirtschaft nimmt der Umfang des Kraftverkehrs sowohl im Bereich der
+Güter- als auch der Personenbeförderung ständig zu. Die daraus
+resultierende größere Verkehrsdichte bedingt eine hohe Verrehrssicherheit der Kraftfahrzeuge.
+
+Die Kraftfahrzeug-Elektromechaniker werden in den Bereichen der
+Produktion und der Instandhaltung von Kraftfahrzeugen benötigt.
+
+Ihr Aufgabengebiet umfaßt die gesamte elektrische Anlage der
+Kraftfahrzeuge. Die große Zahl der besonders in der Instandhal
+tung vorhandenen in- und ausländischen Fabrikate, die verschie
+denen Arten, wie z.B. Moped, Motorrad, Personen- und Güterkraftwagen,. ihre Ausrüstung mit Otto- oder Dieselmotoren, mit Zweioder Viertaktmotoren, stellt an diesen Facharbeiter qualitativ
+hohe Forderungen, Sie müssen über gut fundierte geselischaftswissenschaftliche, mathematisch-naturwissenschaftliche, technische, technologische und ökonomische Kenntnisse verfügen.
+
+Die Produktion der Kraftfahrzeug-Elektro-Zubehörindustrie wird
+ständig weiterentwickelt, ihr Sortiment wird ergänzt. Neue Bauelemente, insbesondere auch die der Halbleitertechnik,finden
+Eingang in die Kraftfahrzeug-Elektrik. Diese Entwicklung zwingt
+auch die erfahrenen Facharbeiter, ihr Wissen und Können aus eigener Initiative stets dem modernsten Stand des Fachgebietes‘
+anzupassen. Durch die verantwortungsbewußte Arbeit tragen die
+Kraftfahrzeug-Elektromechaniker wesentlich dazu bei, die Verlrehrs- und Betriebssicherheit von Kraftfahrzeugen zu gewährleisten, die Zahl der Verkehrsunfälle zu reduzieren und die Erfüllung der Transportpläne zu sichern.
+Arbeitsgebiete
+
+Instandsetzen, Montieren, Warten und Pflegen der gesamten
+elektrischen Anlage von Kraftfahrzeugen verschiedener Arten
+und Typen aus dem In- und Ausland,
+
+Das Arbeitsgebiet umfaßt im einzelnen:
+Störungssuche, Ermitteln der Fehlerquellen und ihrer Ursachen,
+Beseitigen von. Störungen, Prüfen, Demontieren und Instandsetzen von Bau- und Bauuntergruppen sowie Einzelteilen der elektrischen Anlage
+
+Überwachen und Kontrollieren des störungsfreien Laufs der Anlasser, Lichtmaschinen, Zündanlagen u,a,
+
+fachgerechtes Prüfen, Laden und Warten von Sammlern
+
+Montieren von Bau- und Bauuntergruppen unter Beachtung der
+gesetzlichen Bestimmungen der Straßenverkehrs-Zulassungsordnung
+Vorbereiten, Installieren und Schalten der elektrischen Leitungen und Zubehörbeile
+
+Erkennen und Beheben kleinerer Betriebsstörungen an betriebseigenen Maschinen, Hilfswerkzeugen und Ladegeräten
+
+Gewährleisten von Ordnung und Sicherheit einschließlich des
+Arbeits- und Brandschutzes durch das Einhalten der entsprechenden Bestimmungen und Weisungen sowie der einschlägigen
+DDR=- und Fachhereichsstandards,
+
+Charakterisierung der beruflichen Tätigkeit einschließlich der
+beruflich-fachlichen und erzieherischen Anforderungen ar den
+Facharbeiter
+
+Wesentliche Arbeitsmittel
+
+Zu den Arbeitsmitteln gehören außer den Regelwerkzeugen der Metall- und Elektroindustrie spezielle Präzisionswerkzeuge, DrehBohr- und Schleifmaschinen, Ladegeräte, Abzieh- und Aufdrück
+vorrichtungen sowie andere Hilfsgeräte,
+
+Die Kontrolle der geforderten Qualität wird im Lichtmaschinen-,
+Anlasser- oder Verteilerprüfstand vorgenommen, Dabei sind hoch
+wertige Prüf- und Meßmittel, wie Windungsschlußprüfer, Autotester, Kondensatorenprüfgerät, Elektronenstrahloszillograph,
+LichtblitzstrocoboskoD, Zündeinstellgerät, Scheinwerfereinstellgerät sowie Volt- und Anperemeter zu handhaben.
+
+Arbeius E E
+
+Die e raftbshreeug-Elekbronssherdker verarbeiten vorwiegend.
+Halbfabrikate und Ersatzteile, Hierzu zählen Kabel, Verbindungselemente und Fertigprodulkte in Form metallischer Guß-,
+Walz-, Preß- und miefzieherzeugnisse sowie Plastwerkstoffe unterschiedlicher Form und Größe. Zum Füllen der Sammler werden
+
+Säuren oder Laugen in hoher Konzentration benötigt. Zum Schmie
+ren beweglicher Teile und Lager werden Schmieröle und =fette
+sowie Graphit, zur Reinigung instandzusetzender Baugruppen Reinigungsmnittel, wie schmutz- und fettiösende Laugen, verwendet.
+
+Verfahren
+
+Der Arbeitsprozeß beinhaltet vor allem den Aus- und Einbau sSo=
+wie das Instandsetzen von elektrischen Baugruppen und Zubehörteilen, das Ermitteln von Fehlerquellen sowie die gesamte elek-=
+trische Installation der Kraftfahrzeuge.
+
+Für das Instandsetzen der elektrischen Anlage stehen vorgefertigte Teile zur Verfügung, die eingepaßt oder im Austauschverfahren eingebaut werden müssen.
+
+Hochwertige Schaitgeräte, wie Magnet- und Spannungsreglergchalter, werden nach dem Auswechseln an Prüfständen entsprechend den Güteanforderungen justiert.
+
+Kleinmechanisierung und Zweckmodernisierung, die inäbesondere
+durch die Neuerer der Produktion durchzusetzen sind, werden in
+den nächsten Jahren zur weiteren Rationalisierung der Verfahren
+immer stärker in den Vordergrund treten,
+
+E e A E
+
+Die Arbeitstätigkeiten beinhalten das Instandhalten sgämtlicher
+elektrischer Baugruppen sowie der gesamten elektrischen Anlage
+
+a
+= 11 =
+
+der Kraftfahrzeuge, Hierzu gehören Pflege- und Wartungsarbeiten an Sammlern, elektrischen Baugruppen und sachkundiges Arbeiten an Prüfständen, Sämtliche Aufgaben sind mit Umsicht und
+hohem technischen Können auszuführen, damit andere Teile der
+Krai:tfahrzeuge nicht beschädigt werden, Von den Facharbeitern
+wird selbständiges Arbeiten, Denken und Handeln verlangt. Es
+ist für den Ausbildungsberuf charakteristisch, daß die Facharbeiter die zweckmäßigsten Arbeits- und Prüfmittel selbst auswählen und anwenden,
+
+EAD AD E E ED D E D A E A AAD A An
+
+Die vielseitigen Aufgaben verlangen von den Kraftfahrzeug-Elektromechanikern das selbständige, verantwortungsbewußte Arbeiten unter Beachtung der einschlägigen Unterlagen und gesetzlichen Normative, ;
+
+Die technologischen Arbeiten sowie die Vielgestaltigkeit in der
+Reparatur- und Installationstechnik bedingen ein hohes Maß an
+
+‘ Kenntnissen, Fähigkeiten und Fertigkeiten sowie. geistige Beweglichkeit. Die Kraftfahrzeug-Elektromechaniker müssen technischorganisatorisch denken können und fähig sein, sich bei häufig
+
+. auftretendem Wechsel der Arbeitsaufträge auf jede neue Situation schnell einzustellen, Das Kontrollieren und Überwachen
+beim Einstellen der neuen Austauschbaugruppen und das Prüfen
+der Schaltabläufe automatischer elektromagnetischer Regler und
+Schalter erfordern Aufmerksamkeit, Geduld und Fingerspitzengefühl, |
+Für die auszuführenden Arbeiten sowie für das Durchsetzen des
+wissenschaftlich-technischen Fortschritts im Arbeitsgebiet benötigen die Kraftfahrzeug-Elektromechaniker fundierte Kenntnisse
+auf fachlichem, ökonomischem und mathematisch-naturwissenschaftlichem Gebiet, Spezielle Kenntnisse sind auf den Gebieten des
+Schaltens, Prüfens und Messens erforderlich. Die Anwendung von
+Halbleitern und Transistoren im Kraftfahrzeug fordert neue Meßund Prüfverfahren, ;
+
+Die Kraftfahrzeug-Elektromechaniker müssen die gefährdenden bzw.
+schädigenden Wirkungen der im Betrieb verwendeten Stoffe und
+
+= 412 =
+
+die Bestimmungen des Gesundheits-, Arbeits- und Brandschutzes.
+sowie Luftschutzes kennen, Sie müssen in der Lage sein, bei Unfällen Erste Hilfe zu leisten. |
+
+Voraussetzungen zum Erliernen des Berufes
+
+Leistungsmäßige Voraus- erfolgreicher Abschluß der 10,
+setzungen vor Beginn | Klasse der polytechnischen Oberder Ausbildung: schule, gute Leistungen im Fach
+
+Physik und Mathematik,
+
+e
+
+Geistige Beweglichkeit, kritisches Urteilsvermögen, schnelies
+und sicheres Reaktionsvermögen,
+
+Abstraktions-, Vorstellungs- und Kombinationsvermögen,
+
+Fähigkeit, über längere Zeiträume aufmerksam und konzentriert
+zu arbeiten, ;
+
+technisch-organisatorisches und konstruktives Denken,
+Beharrlichkeit und Ausdauer, Anpassungsvermögen und geringe
+Störanfälligkeit.
+
+Normaler Körperbau und ungehinderte körperliche Beweglichkeit,
+gesunde Atmungs- und Kreislauforgane, keine Allergien gegen
+Kraft- und Schmierstoffe sowie Chemikalien,
+
+gutes Sehvermögen (auch mit Brille), gutes Hörvermögen, FarbKüchtigkeit, normaler Geruchssinn, keine asthmatischen Beschwerden, frei von Fußbeschwerden und nervösen Leidens.
+
+Die mauglichkeit ist auf der Grundlage der "Dienstvorschrift
+für die Ermittlung von Tauglichkeit und Eignung für die Beschäftigten im Verkehrswesen" (Tauvo), Teilheft 61 =- Nahverkehr =
+DV 0107, Th. 61 zu ermitteln.
+1)
+
+. Dauer der Ausbildung
+
+Absoliventen der 10, Klasse der Oberschule 2 Jahre
+
+In der Aus- und Weiterbildung. der Werktätigen richtet sich die
+Dauer nach den Voraussetzungen der Werktätigen sowie nach den
+Methoden und Formen der Ausbildung.
+
+Einsatz und weitere Entwicklungsmöglichkeiten des Facharbeiters
+
+Die Kraftfahrzeug-Elektromechaniker werden in Spezialbetrieben
+der Kraftfahrzeug-Elektrik, in Nebenabteilungen von Kraftfahrzeuginstandsetzungs-, Kraftfahrzeugproduktions-, Karosseriebauund Kraftverkehrsbetrieben sowie in Maschinen- und Traktorenstationen einsesetzt,.
+
+Im Rahmen innerbetrieblicher Qualifikationsmaßnahmen oder durch
+den Besuch von Lehrgängen können sie sich für folgende Tätigkeiten spezialisieren:
+
+Gütekontrolleur
+
+Kundendienstmonteur
+
+Spezialist im technischen Überwachungsdienst der Kraftver
+kehrs- und Kraftfahrzeuginstandhaltungsbetriebe
+Der Beruf bietet eine gute Grundlage zur Qualifizierung zum
+Meister für Fahrzeugelektrik, ggf, Meister für Kraftfahrzeuginstandhaltung, ;
+
+Auch die Aufnahme des Studiums an einer entsprechenden Hochoder Fachschule ist möglich.
+
+pDie gesetzliche Grundlage für die Dauer der Ausbildung ist
+die Systematik der Ausbildungsberufe,
+
+= 414 =
+
+3. Stundentafel
+
+Gesamtstunden
+
+3.1. Berufstheoretischer Unterricht 64
+
+Grundlagen der Elektrotechnik A144
+Grundlagen der Elektronik 1) 54
+Grundlagen der BMSR-Technik 1) 82
+Grundlagen der Datenverarbeitung 1) B2.
+Kraftfahrzeug-Elektrotechnik 216
+Werkstoffkunde Z2
+Fachzeichnen 2
+Betriebsökonomik 1) 72
+
+3.2. Allgemeinbildender Unterricht © 216
+Staatsbürgerkunde 72
+Sport (2 Std/Woche) . 14144
+
+33e Berufspraktischer Unterricht
+Grundlagenbildung ; 690
+Lehrgang Metallbearbeitung 230
+Lehrgang Grundfertigkeiten E-technilk 350
+Lehrgang Messen, Prüfen, Fehiersuche 110
+Spezialbildung 3 | 1 880
+3.4. Vormilitärische bzw. DRK-Ausbildung 80
+Gesamtstunden: 3 630
+
+Drür den Unterricht in den Grundlagenfächern sind die Lehrplä:
+ne des Staatssekretariats für Berufsbildung verbindlich anzu=wenden,
+
+2)Der allgemeirbildende Unterricht ist nach den verbindlichen
+Lehrplänen des Ministeriums für Volksbildung durchzuführen.
+
+3zur Spezialbildung gehören.die als Prüfungsgebiete ausgewiesenen Arbeitstätigkeiten und Stoffgebiete: "Zzündung", "Kraftfahrzeugelektroaggregate" und "Schalten und Installieren“,
+Die Zeitanteile dafür sind dem Lehrplan zu entnehmen,
+= 45 =
+
+44 Inhalt der Ausbildung
+11
+
+144 Stunden
+
+Hinweise
+
+Kauptanliegen der Vermittlung von Grundlagen der Elektrotechnik muß es sein, den Begriffen, Gesetzen und Prinzipien entsprechende Bedeutung zu schenken und sie zum Ausgangs- bzwr.
+Orientierungspunkt systematischen Wissens und Erkennens zu
+machen, Beachtet man diese Begriffe und Aussagen im Unterricht
+ständig bewußt, dann wird damit nicht nur eine wichtige Bildungsaufgabe erfüllt; es werden damit zugleich Eigenschaften
+beim Lernenden herausgebildet, die im Sinne der Formung eines
+materialistischen Weltbildes zu werten sind.
+
+Der Lehrstoff und die Lehrwege der Grundlagen der Elektrotechnik bieten eine Fülle weiterer Möglichkeiten zur sozialistischen Erziehung. Durch Einsicht in die volkswirtschaftliche
+Rolle der Elektrotechnik können sozialistische Lernmotivationen entwickelt werden, Die Würdigung von Forscherpersönlichkei=
+ten bietet Ansätze zum Entwickeln von Leitbildern, Ein übersichtlich strukturiertes Erkenntnisgefüge fördert die Freude
+am Lernen und am Erkennen, Aus bewußt durchlaufenen Erkenntniswegen resultiert methodische Erkenntnis, die für die Fähigkeitsentwicklung wertvoll ist, Eine systematische und begründete Lehre erzieht zur Gründlichkeit und Folgerichtigkeit des
+Denkens.
+
+Alle elektrischen Erscheinungen äußern sich prinzipiell als
+Felderscheinungen, Felder sind Zustandsformen der Energie,
+Energieumwandlungen spielen sich im Rahmen von Feldverkopplungen ab. Im elektrischen Bereich treten besonders Verkopplungen
+zwischen dem Feld bewegter elektrischer Ladungen (elektrisches
+Strömungsfeld), dem Feld ruhender elektrischer Ladungen (elektrisches Feld schlechthin) und dem magnetischen Feld auf, Da es
+sich um eine Verkopplung von Energiebereichen handelt, kommt
+dem Energiebegriff einschließlich seiner Gesebze zentrale Be=
+
+deutung Zue
+
+In der Technik treten dem Facharbeiter das elektrische Strömungsfeld fast ausschließlich und das magnetische Feld hauptsächlich in linienhafter Form als elektrischer Stromkreis bzw.
+magnetischer Kreis entgegen. Diese linienhafte Form wird bewußt zur Beherrschung, Berechnung und Nutzung angestrebt. Eliektrischer und magnetischer Kreis sind also Sonderfälle allgemeiner Felder.
+
+Für die Verwertung in den speziellen Bereichen ist in der Lehve die Doppelbedeutung der elektrischen Energie deutlich zu
+machen, Die Elektroenergie stellt auf einer Seite (Leistungselektrotechnik bzw. Starkstromtechnik) das Transportgut dar,
+auf der anderen Seite (Informationselektrotechnik bzw. Schwachstromtechnik) ist sie Transportmittel, und zwar für die Informationen, Zur elektrischen Informationsübertragung, -speicherung und -wandlung werden die vorgenannten physikalischen Erscheinungen genauso genutzt, wie für die elektrische Energieübertragung, -speicherung und -wandlung.
+
+Diese Sachverhalte sind in der Lehre insbesondere an den Bauelementen und Wirkungsprinzipien zu zeigen. Das ist als Prinzip
+aufzufassen und wird nicht in besonderen Themen ausgewiesen,
+
+In den Grundlagen der Elektrotechnik haben einzelne Begriffe
+und Gesetze strukturtragenden Charakter, Diese Wertung leitet
+sich aus der Eigenark der Felder und ihrer energetischen Verkopplung ab.
+
+Strukturtragende Begriffe sind Stromstärke J (über Ladungsbe=
+griff Q eingeführt), Magnetflußstärke und vVerschiebungsflußstärke V. Es sind die Grundgrößen des jeweiligen Feldes durch
+den Charakter "Strömungsgröße" miteinander verwandt.
+
+Die Verkoepplung der Felder wird durch Naturgesetze beschrieben,
+
+Es sind
+das Ohmsche Gesetz R=
+
+konst.
+
+das Durchflutungsgesetz = 1-N bzw.I
+das Induktionsgesetz E= -N A
+
+das Verschiebungsgesetz AW= C.4A0Q
+
+Weitere Begriffe lassen sich aus.den Grundgrößen herleiten oder
+mit ihrer Hilfe definieren, weitere Gesetze und technikbezogene Aussagen aus den Grundgesetzen deduzieren,
+
+Die Qualität der Erkenntnisse über den Stoff wird maßgeblich
+von den Methoden seiner Vermittlung bestimmt. Die genannten
+Grundgesetze sind als Naturgesetze nur induktiv zu bestimmen,
+Aus ihnen läßt sich unter Zuhilfenahme der Grundbegriffe ein
+deduktives System der Grundlagen der Elektrotechnik aufbauen,
+Die vielfältigen Feldbeziehungen sind geeignet, die jeweilige
+Stoffsituation zweckmäßig zu analysieren und logische Denkweisgen zu üben,.
+
+Der in der vorgeschlagenen Weise strukturierte Lehrstoff gestattet Analogiebetrachtungen über die Felder, ihre Begriffe‘
+und Gesetze. Das. ermöglicht eine Rationalisierung des BildungsPproOZesSseSs. .
+
+Eine typische Arbeitsweise in den Grundlagen der Elektrotechnik
+
+ist die Idealisierung realer Sachverhalte, Sie ist Z.B, bei der
+Idealisierung von: Bauelementen und beim Übergang von räumlichen.
+
+Feldern zu linienhaften Kreisen zu finden.
+
+Die Vorkenntnisse aus dem Physikunterricht der polytechnischen
+Oberschule sind zu nutzen,
+
+,
+
+= 158 =
+
+Le lan
+
+Std, Stoffgebiete und stoffliche Erziehungsschwerpunkte, zu
+Schwerpunkte erwerbende Fähigkeiten und
+; Fertigkeiten, ökonomische
+
+und alilg ldende Bezüge
+
+emeinbi
+
+2 Einführung
+
+S
+
+wiederholung und Vertiefung Die Bedeutung der Elektroder Erscheinungsformen der technil für die VolkswirtEnergie schaft
+
+Erweiterung zum allgemeinen Wecken des Interesses am Ler=
+Energiebegriff im Hinblick nen eines wichtigen und inauf seine Verwendung in den haltsreichen Berufes
+
+Grundlagen der Elektrotech
+nik
+
+Erhaltungs- und Umwandlungs- Energetische Zusammenhänge
+
+z satz der Erscheinungen
+Eigenschaften der Energie Begiän einer gezielten For(Ausbreitungstendenz, Zu- mung des materialistischen
+ordnung zu Feldern u.a.) Weltbildes bei den Lernenden
+
+Erscheinungsformen der Energie in der Elektrotechnik:
+
+elektrische Energie (in kinetischer oder strömender Form
+und in potentieller oder ruhender Form), magnetische
+
+Energie
+
+20 Elektrische Erscheinungen in Leitern
+
+Die elektrischen Grundgrößen
+Ladung: Begriff, Arten und Verdienste der WissenschaftLadungsträger (Elektronen, ler um die Naturerkenntnis,
+Ionen), Leiter, Halbleiter deren Namen für die Einheiund Nichtleiter tenbezeichnungen verwendet
+werden
+Ladung als PhySa eee (Schaffen von Leitbildern)
+menge (Ladungsmenge) als zu- Anwenden der Zehnerpotenzgeordnete physikalische schreibweise beim Umrechnen
+Größe der Maßeinheiten
+Formelzeichen und Maßeinheit
+e Umrechnen von Maßeinheiten Bezüge zu den Fächern Elektronik und Werkstoffkunde herstellen
+
+Strom: Strom als Bewegung
+von Ladungsträgern
+
+Strom als in sieh geschlossene. Erscheinung
+
+Richtung des Stromes C
+
+o
+elektrischen Stromes
+(grundsätzlich magnetische
+Wirkung, Wärme-, chemische
+Wirkung unter bestimmten Be
+dingungen)
+
+Definitionsgleichung der
+Stromstärke
+
+Kennzeichnung der Stromstär
+ke als grundlegende Größe
+alier elektrischen Strömungs
+erscheinungen
+
+Maßeinheit *
+
+Messen der Stromstärke
+Schaffen von Größenvorstel
+lungen |
+Definition der Stromdichte
+als bezogene Größe
+
+Formelzeichen und Maßeinhei
+ten
+Umrechnen von Maßeinheiten
+
+Spannung; Spannung als Strom
+antrieb, als Ursache des
+Stromes
+
+Definition der Spannung üÜber
+‚die Energie,
+
+W
+
+Q
+Maßeinheit der Spannung
+
+U=
+
+Messung: Größenvorstellungen,
+
+Erzeugungsmöglichkeiten von
+elektrischen Spannungen
+
+Umrechnen der Maßeinheit
+
+Widerstand: Widerstand als
+physikalische Erscheinung
+beim Ladungstransport
+
+Definition der physikalischen Größe "Widerstand"
+U Maßeinheit
+
+I Größenvorstellung
+Ohmsches Gesetz
+U
+
+R =
+
+R = = = konstant
+I
+
+Entwickeln des technischfunktionellen Denkens und
+
+Erziehen zum richtigen An
+wenden der theoretischen
+Kenntnisse in der Prasis
+
+Bedeutung der speziellen Art
+der Spannungserzeugung für
+die elektrische Energiewirtschaft
+
+Entwickeln des Vorstellungsvermögens
+
+Erkennen der Zusammenhänge
+zwischen Spannung = Strom
+und Widerstand
+
+Konsequentes Rechnen mit
+Größengleichungen
+
+als Naturgesetz darstellen
+
+Konstante Bedingungen
+Der Widerstand als. Bauelement Wirtschaftliche Betrachtun
+gen zum Einsatz verschiede
+Bemessung des Widerstandes Der Leitwerkstoffe
+
+1
+R = eae
+A A
+Definition des Leitwertes
+A
+G=
+R
+Maßeinheit
+
+Messung des Widerstandes ge- Abbilden funktioneller Zumäß der Definitions- und Be- sammenhänge in Diagrammem
+
+n messungsgleichung Lesen von Diagrammen
+
+Größenvorstellungen Erkennen physikalischer Zu
+Strom-Spannungs-Kennlinie sammenhänge in mathematischlinearer und nichtlinearer. graphischer Darstellung
+Widerstände
+
+Widerstand bei Erwärmung
+
+Beispiele für Ausnutzung po- Bezugnehmen auf die Fächer
+sitiver und negativer Tempe- Werkstoffkunde und Grundlaraturbeiwerte gen der Elektronik
+
+Berechrungen zu den Gesetzmäßigkeiten
+
+A
+
+20 Elektrische Stromkreise
+
+S
+
+Gesetzmäßigkeiten des einfachen Stromkreises
+
+Elemente des einfachen Strom- Entwickeln der Abstraktionskreises fähigkeit durch
+
+Zuordnung von Urspannung E Verwenden abstrakter Symbole
+und Spannungsabfall U zu Er- für reale Schaltelemente
+
+zeuger und Verbraucher Zergliedern eines realen Ele
+Bestimmung des Spannungsab- ments (z.B. Spannungsquelle)
+falles in idealisierte Komponenten
+
+z (Urspannungsquelle, Innenwiirnerer und Außerer Teil des derstand) = Ersatzschaltung
+
+A real-ideal! |
+Klemmspannung un nnerer
+Spannungsabfall sowie zuge- Zusammenfassen und Vereinfa
+chen einer komplizierten
+oränete Widerstände Schaltung (2.B ParallelErsatzschaltung der Spannungs- schaltung von Widerständen)
+‚.qguelle zu einem einfachen Ersatzelement (Ersatzwiderstand) =
+
+21
+
+Belastbarkeit von Spannungsquellen
+
+Grenzbetriebsfälle
+Leerlauf und Kurzschluß
+
+Maschengesetze
+
+Erweiterung des Grundstromkreises auf mehrere Spannungguellen und Widerstände
+
+2. Kirchhoffsches Gesetz
+(Maschensatz) über Energieerhaltungssatz
+
+Ersatzwiderstand bei Reihenschaltung von Widerständen
+
+Sonderfälle, Spannungsteilerregel
+
+Gesetzmäßigkeiten bei der
+Reihenschaltung von Spannungsquellen
+
+Stromverzweigun
+
+zsgesetz
+
+Erweitern des Grundstromkreises auf mehrere parallele
+Spanrmungsquellen und Widerstände
+
+1 Kirchhoffsches Gesetz
+(Knotenpunk tsatz)
+
+Ersatzwiderstand paralieler.
+Widerstände
+
+Sonderfällie
+
+Berechnungsmöglichkeiten
+über den Leitwert
+
+Stromteilerregel
+
+Gesetzmäßigkeiten bei der
+Parallelsechaltung von Spannungsquellen
+
+Vergleich von Spannung, Strom
+stärke, Widerstand und Leitwert bei der Reihen- bzw. Parallelschaitung
+
+Bereehnen von Reihen-, Parallel- und Gemischt-Schaltungen
+
+Belastete und unbelastete
+Spannungsteiler
+
+= Ersatzschaltung "kompliziert=-einfach"
+
+Entwickeln der deduktiven
+
+Denkweise
+
+Herausstellenm, daß die elektrischen Erscheinungen nur
+eine besondere Seite der ma=teriellen Welt darstellen,
+deren allgemeine Gesetzmäißigkeiten in der Elektrotechnik
+in besonderen Formen auftreten (z.B. Maschensatz als
+spezielle Form des Energieerhaltungssatzes des Stromkreises)
+
+Entwickeln der Fähigkeit,
+mögliche Wirkungen gegebener
+Ursachen abzuschätzen:
+
+Auswirkungen von Laständerungen im Stromkreis
+
+Fehlschaltung von Spannungsquellen
+
+Ausnutzen der dualen Bezie
+hungen zwischen den Maßgrössen bei den beiden Schaltungen für das Analysieren der
+
+formalen Beziehungen
+
+10
+
+Elektrische Arbeit und Leisturs
+
+Elektrische Energie
+
+Definition als Strömungsener- Kolle der elektrischen Ener
+gie (kinetische Form der
+elektrischen Energie)
+
+Eiektrische Arbeit
+
+Begriff, Berechnung, Maßeinheit
+
+Messung, Größenvorstellungen
+
+Eleikktrische Leistung
+Defimition und Wesensbestimmung (Intensität der Arbeit)
+
+Maßeinheit, Mesgsung, Größen
+worstellungen
+
+Äquivalent mechanische =
+
+‚eiektrische Leistung
+Wirkungsgrad: Definition als
+
+Leistungsverhältnis
+
+Begriffserweiterung (z.B.
+thermischer- Informationswirkumgsgrad)
+Leistungsbilanz an Stromkkreisen
+
+Bedeutung der Leistung für
+die Leistungselektroteechnik
+und für die Übertragung von
+Informatienen (Signalen)
+
+Haximale und optimale Leistungsentnahme aus Stromkreisen
+
+Leist ungsanpassung
+Berechnen von Arbeit, Leistung und Wirkungsgrad
+
+Umwandlung elektrischer Energ
+
+gie als Transportgut oder
+Transportmittel (vgl. Hinweise zumn Lehrplan)
+
+Entwickeln des ökonomischen
+Denkens hinsichtlich der Erzeugung, des Transports und
+des Verbrauchs elektrischer
+Energie
+
+Volkswirtschaftliche Bedeutung der Relation Aufwand =
+Nutzen (Wirkungsgradverbesse=
+rung, Anlagen- und Betriebskosten, Verschleiß und Lebensdauer)
+
+Verbesserung des Wirkungsgrades als Triebkraft der Entwicklung der Leist ungselek-.
+trotechnik ;
+
+Entwickeln von technisch-konomischen Überlegungen beim
+Einsatz von Geräten und Bauelementen der Elektroindustrie
+
+Widerstand als Umwandlungsbe- Anwenden des Energiesatzes
+
+dingung, Joulesches Gesetz
+elektrisches Wärmeäquivalent
+
+Umwandlungssatz als allgemei
+ne Gesetzmäßigkeit für besondere Umwandlungsformen
+Anwendungen:
+Schmelzsicherung
+Bimetall
+Wärmegeräte
+Kontakterwärmung
+
+Erzeugung elektrischer Spannung mittels Spanmungsreihe
+
+Gebräuchliche Kombinationen,
+Anwendungen und Berechnungen
+
+Umwandlun
+
+Qualitatives über die durch
+elektrischen Strom bewirkte
+Lichtemission (Temperaturund Gasentladungsstrahler)
+
+Mittelbarkeit der Umwandlung
+
+Erzeugung elektrischer Span
+nungen in Fotoelementen =
+technische Ausführung
+
+Ergänzung: Fotowiderstände
+und =zellen
+
+Umwandlung elektrischer Ener
+
+Autfbau und Arten von Akkumulatoren
+
+und Entladen
+
+Schaltung zum Laden von Akku
+mulatoren
+
+Erkennen und Bestimmen des
+Lade- und Entladezustandes
+
+Kapazität und Wirkungsgrad
+
+Wartung und Pflege von Alkku
+mulatoren
+
+5 Energie in Lichtene
+
+gie in chemische Energ
+
+Eisordnen in das Gesamtsystem von energetischen
+Prozessen
+
+Ausnutzung weltanschaulicher
+Beziehungen
+
+Zur Erhöhung der Effektivität sind moderne Unterrichtsmittel einzusetzen
+
+Herstellen der Beziehungen
+zu den Grundlagen der Elektromik
+
+ie
+
+Bedeutung des sparsamen Energieverbrauchs herausarbeiten
+und an Beispielen aus der
+Volkswirtschaft demonstrieren
+
+Erziehen zum sparsamen Energieeinsatz
+
+ie
+
+Galvanische Elemente und
+
+elektrolytische Dissoziation
+Chemische Vorgänge beim Laden
+
+als Vorleistung der Oberschule nutzen
+
+Lesen und Auswerten von Kennlinien (Iade- und Entladeapanmnung)
+
+Lebensdauer von Bleialkkumulatoren
+
+10 Elektrische Erscheinungen in Nichtleitern
+
+L
+
+Wesen des elektrostatischen Feides
+
+Kennzeichnung des elektrostatischen Feldes
+
+Energiezustand, Wirkungsstelle besonderer Feldgrössen als Ursache
+
+Erzeugen von Vorstellungen
+
+über Feldbegriff und Feld=
+verlauf
+
+ne
+
+2
+Darstellung durch Feldlinien
+(Wirkungslinien elektrischer
+Feldkräfte)
+Querfeld, Längszug, Querdruck
+
+Gegenüberstellung elektrisches Feld in Leitern (Strömungsfeld) und Nichtieitern
+(elektrostatisches Feld)
+Beziehung zwischen Feldkraft
+und Ladung
+
+F= E.Q
+
+Definition der Feldstärke
+Beziehungen zu Feldlinien
+
+Qualitatives über elektrische Feldstärke
+
+Typische Feldformen = Sonderfall homogenes Feld
+Verwirklichung im ebenen
+Plattenkondensator
+
+Verschiebungsflußstärke
+Wesensbestimmung des Verschiebungsflusses
+
+Influenz, Polarisation des
+Dielektrikums
+
+Verschiebungsstrom
+Verschiebungsgesetz (Naturgesetz)
+
+Denkens an Hand der Wirkungen des elektrischen Feldes
+
+Erkennen von Naturerscheinungen
+
+Vergleich mit dem stationiren Feld zur Vervolliständigung und Abrundung des Feldbegriffs
+
+Beehnen mit Potenzen mit pOositiven und mit negativen Erpenenten
+
+Erkennen von Strukturen durch
+Analegiebetrachtungen
+
+Einführung der bezogenen Größen; Verschiebungsdichte und
+
+Feldstärke
+
+Wesen, Zusammenhang
+
+D= £-EB
+-Dielektrizitätskonstante,
+Maßeinheiten
+Feldstärke als Spannungsgefälle
+
+U
+E = =
+
+n
+
+Feldstärkeverteilung bei typischen Feldformen
+
+Potential als bezogene Spannung .
+
+Hinweis auf Werkstoffprüfung
+Schlagweiten U.ae
+
+HKinweis auf Durchschlagsfeldstärke
+3
+
+Kapazität und Kondensator
+Q
+
+Definition 0= =
+U
+
+Wesen der Kapazität
+
+Kondensator als Energiespeicher (elektrisch-dielektrische Energie)
+
+Bemessung der Kapazität
+Maßeinheit, Größenvorstellungen
+
+Schaltungen von Kondensatoren
+
+Spannungsverteiler bei Reihenschaltung
+
+Bauelement Kondensator
+(typische technische Formen)
+
+Schaltvorgänge
+
+Verhalten von Spannung. und
+Stromstärke beim Ein- und
+Ausschalten sowie Kurzschließen von Kondensatoren
+
+Trägheitscharakter der Ener
+gie
+
+Mehrdeutigkeit des Begriffes
+erläutern
+
+Ergänzung des Energiebegriffes (Speichermöglichkeit)
+
+Größenvergleich zwischen
+praktischen Werten elektrischer und dielektrischer
+Energie
+
+Berechnungen anstellen
+
+Hinweis auf den Umgang mit
+Kondensatoren und kapazitir
+wırkenden Betriebsmitteln
+Z.B. Kabel (Unfallschutz,
+Brandschutz)
+
+S
+
+S
+
+Das Wesen des magnetischen Feldes
+
+Das magnetische Feld als besonderer Zustand der Energie
+
+Kennzeichnung durch Feldlinien (Wirkungslinien magne
+tischer Feldkräfte auf magne
+tisierbare Stoffe)
+
+Magnetische Influenz, typische Feldbilder
+
+Eigenheiten der Feldlinien
+(Längszug, Querdruck, Endlosigkeit, definierte Richtung
+
+Zusammenhang zwischen elektrischem Strom und magneti
+r
+
+schem Feld
+
+Feldbilder stromdurchflossener Leiter
+
+Richtungszuordnung (Regeln)
+
+Kritisches Beobachten der
+Grundversuche
+
+Festigen der Vorstellungen
+über den Feldbegriff
+
+Erkennen von Zusammenhängen
+und Gesetzmäßigkeiten (Kausalität)
+
+Festigen der Richtungszuordnungssätze (Regeln)
+
+) Hinweise auf molekulare und
+atomare Ursachen des Magnetismus (als Vorbereitung des
+Durchflutungsgesetzes)
+
+‚netischen Feldes
+
+Übergang vom räumlichen Feld Zusammenhang und Unterschied
+auf linienhafte Ausdehrung zwischen elektrischen und
+
+(magnetischer Eisenkreis, magnetischen Größen und
+Luftspalt, Analogie zum elek- Kreisen .
+trisehen Kreis) Linienhafte Ausdehnung als
+Analoge Einführung der Meß- Berechnungsvorteil und er=größen ; strebenswerte technische
+
+FOorm
+
+Magnetflußstärke (
+Magnetischer Spanrüngsabfall Festigen der mathematischen
+
+3 Kenntnisse durch Umstellien
+
+Magnetischer Widerstand Rn und Zusammenfassen von Glei
+echungen
+Permeabilität ; |
+Arten von Magnetika Lesen und Auswerten von
+Wesensunterschiede zu den Magnetisierungskurven
+
+elektrischen Größen
+
+Haßeinheiten, Größenvorstel- Bedeutung der Hysteresislungen, veresich magneti- verluste für den Wirkungsseher Widerstände unterschied- grad
+iicher magnetischer Leiter
+Dusehflutungsgesetz (Natur- Erkennen der teecehnischen .
+gesetz) als Verkoepplungsge- Anwendung der Naturgesetze
+set
+Übergang von abseluten und
+besegenen Größen
+Eizführung der Meßgrößen
+Fiußdiehte B und Feldstärke H;
+(analog zum elektroestatischen
+Peld)
+Maßeinheiten, Größenvorstellungen ; |
+Zusammenhang zwischen B und H
+Magnetisierungs- und Hysterskurven verschiedener Stof
+A
+
+Le
+Energetische Deutung des Fläeheninhaltes der Hysteresiskurven
+
+Wirkung von Iuftspalten auf
+
+Kurven
+
+Allgemeines. Induktionsgesetz Entwickeln der Fähigkeit
+Fiußänderungsbegriff zum genauen Beobachten
+
+e A L
+Erscheinungen der elektromagnetischen Induktion
+
+Induktionsgesetz (Naturgesetz) als Verkopplungsgesetz
+
+Lenzsches Gesetz als besondere Aussage des Energieerhaltungssatzes
+
+Besondere Form der elekt
+
+Bewegungsinduktion: ErscheiHung als besondere Form des
+Induktionsgesetzes
+
+E= Belev
+Richtungszuordnung
+
+Generatorprinzip und Ausblick auf technische Verwirklichung
+
+Selbstinduktion: Erscheinung
+
+E= L A als besondere
+A t Form des Indulrtionsgesetzes
+
+Induktivität L = =—
+
+Eın
+Schaltvorgänge an Spulen
+(Ein-, Ausschalten, Kurz
+schließen)
+
+Trägheitscharakter der Energie
+
+Auswirkung und Ausnutzung
+der Selbstinduktionserschei
+nungen
+Gegeninduktion: Erscheinungen, Koppelfluß
+AI Definition
+E, = — M = der GegenAt
+
+induktiviM = KL L.
+
+tät
+Ausblick auf Anwendung im
+Transformator
+Kräfte im magnetischen Feld
+Scen BeLd
+
+Kraftwirkungen zwischen bewegvon Ladungen als einheit
+FOoOMmas
+
+Auswerten der Versuche in
+quantitativer uhd qualitativer Hinsicht
+
+Erkennen des Allgemeinen
+(Flußänderung) im unterschiedliehen Einzelnen
+
+tischen
+
+Erkennen der Beziehung zwischen Ursache und Wirkung
+
+Bedeutung der elektromagnetischen Induktion für die.
+Energieerzeugung und des
+elektromotorischen Prinzips
+für die Umwandlung der elektrischen in mechanische
+Energie
+
+Entwickeln der Fähigkeit,
+Richtungszuordmungsregeln
+
+auf mögliche konkrete Fälle
+anzuwenden ‘
+
+Mehrdeutigkeit des Begriffes
+herausarbeiten
+
+Weiteres Vertiefen der Fähitgkeit deduktiven Denkens
+
+Hinweise auf vielseitige
+technische Verwertung physikalischer Gesetzmäßigkeiten
+
+Anwenden der Formeln durch
+Beispiele aus der beruflichen Praxis
+
+e
+
+22
+
+licher Zusammenhang
+
+Erklärung mittels Längszug
+und Querdruck magnetischer
+Feldlinien
+
+Kräfte auf stromdurchflosse- Herausstellen der Bedeutung
+ne Leiter im Magnetfeld: Er- für Aie Entwicklung der Techscheinung, gesetzmäßiger Zu- nik (Grundlage aller elek.
+sammenhang trischen Antriebe)
+
+F= 1.B .1 (aus Energiesatz)
+Richtungszuordnung, Motorprinzip
+
+Ausblick auf technische Verwirklichung
+
+Kräfte in stromdurchfiossenen
+Leitern
+
+Qualitative Untersuchung der
+Erscheinungen
+
+Vorkommen in der Praxis
+
+Kräfte und Trennflächen unterschiedlicher Permeabilität (Anwendung durch typische Beispiele)
+
+Begriffe und Meßgrößen
+
+Arten von Wechselspannungen Beobachten von Versuchen und
+(nach TGL) Auswerten der Meßergebnisse
+
+Sinusförmige Wechselspannung Finden neuer Erkenntnisse
+Vorteile der Sinusform, Be- beim Zusammenwirken mehrerer
+stimmungsstücke, Betrag, Fre- Gesetzmäßigkeiten am Beispiel
+quenz und Phase der Wechselstromwiderstände
+
+Periode und periodendauer Vertiefen der allgemeinen me- .
+Kreisfrequenz thematischen Erkenntnisse
+Augenlickzwert Anwenden und Festigen der Vor
+kenntnisse über die WinkelMittelwerte funikti Ä
+Meßmöglichkeiten u onen
+
+Beispiele für die technische
+Erzeugung von Sinusspanmung
+
+Darstellungshilfen
+Liniendiagramme ; Zeichnen und Deuten von LiDarstellen von Sinusgrößen nien- und Zeigerdiagrammen
+
+als ruhende Zeiger . ÜUben des Addierens und Subtra
+hierens von Zeigeru
+= 20 =
+
+Der Wechselstromkreis
+
+WVerhaliten elektrischer Grund- Erzeugen von Vorstellungen
+
+bauelemente im Wechselstrom- über Vorgänge, die über das
+kreis ; unmittelbare Wahrnehmungs
+vermögen hinausgehen und im
+Widerstandsverhalten Experiment nicht zu veran
+Begriffe: Wirkwiderstand, schaulichen sind
+Blindwiderstand,
+Skineffekt
+Unterschied zwischen Ohh- Einsatz moderner Unterschen und Wirkwiderstand richtsmittel zur Erhöhung
+
+Formelzeichen, Maßeinheiten,
+Größenvorstelliungen
+
+Phasenverschiebung zwischen
+Strom und Spannung ;
+
+Berechnungen im Wechselstromkreis
+
+Zusammenschalten von Wechselstromwiderständen
+
+Widerstandskombinationen in
+Reihen-, Parallel- und Ge-.
+mischtschaltungen
+
+Definition des Scheinwider
+standes
+U .
+
+Z = == Widerstandsdreieck Herausarbeiten der Schaltabhängigkeit
+
+richts
+
+Resonanz
+
+Energetische Deutung der Resonanzerscheinungen
+
+Berechnungen und graphische
+Lösung mittels Zeigerdiagramm ;
+
+Zusammenschalten von Wechselspannungsquellen
+
+Parallelschaltung
+Bedingung: Übereinstimmung
+der Bestimmungsstücke der
+Spannung
+Reihenschaltung, besonders
+bei unterschiedlicher Frequenz
+
+/
+
+der Effektivität des Unter- .
+
+2 3
+Eiim|1}
+Addition nach dem Parallelo- Unterschied zwischen Vektogrammsatz ren und Zeigern beachten
+Zeigerdiagramm
+
+RBeale Schaltelemente
+Tdealer und realer Wider
+stand
+Fer Ersatzschaltung für Spule Entwickeln des Abstraktionsund Kondensator vermögens (vgl. elektrische
+
+Größenverhältnisse von Wirk- Stromkreise)
+
+und Blindwiderstand in realen Schaltelementen
+
+Wechseistromleistung und =-arbeit
+
+Wirkleistungen als physikalische reale Leistungen an R,
+L und C
+
+P= f (t)
+Mittelwerte: Pp = UI
+Pr,c = 0
+
+Leistungsbetrachtung für den
+Scheinwiderstand P= UeI
+
+Zerlegen in Wirk- und Blindanteil
+
+. Definition von Schein- und
+Blindleistung (Rechengrößen)
+
+Energiespiel bei Blindleistung
+
+Maßeinheiten, Meßnöglichkeiten und Berechnungen von Leistungen
+
+Leistungsfaktor als Verhält- Hinweise auf die energienis von Wirk- und Scheinlei- wirtschaftliche Bedeutung
+stung der Verbesserung des Lei
+Verbesserung des Leistungs- stungsfaktors
+faktors (Phasenkompensation)
+mit Kondensatoren
+
+Arbeit bei Wechselstrom
+
+Mesgung, Maßeinheiten, Grössenvorstellungen, Berechnungen ;
+
+Mehrphasensysteme
+
+Begriff der mehrphasigen Wirtschaftliche Betrachtung
+Ströme über die Vorteile des Dreh
+Drehstrom stromes gegenüber anderen
+Stromarten
+
+Verkettungsschaltungen
+
+= 341 =
+
+2 3
+S]!MM!I!!=NM!M! —EiÄ,>,i—!EE!!EqÄE}!:!N,E'|!:!:8
+Strom- und Spannungsverhältnisse bei den Schaltungen
+
+Leitersysteme und ihre Bedeutung (Drei- und Vierleitersysteme)
+
+Kennfarbei und -buchstaben
+
+Leistung und Arbeit bei
+Drehstrom
+
+Berechnungen
+
+15 Ausgleich
+
+A t e
+
+=32
+
+2,102. Kraftfahrzeug-Elektrotechnik 216 Stunden
+Hinweise
+
+Für eine qualitative gewissenhafte Ausführung aller zum Beruf
+gehörenden Aufgaben ist eine effektive und rationelle Berufsausbildung erforderlich, Die im Lehrplan aufgeführten Themenkomplexe enthalten solche Stoffgebiete, die zum umfassenden
+Verständnis der elektromechanischen Vorgänge am Kraftfahrzeug
+führen. Es kommt darauf an, durch einen berufsbezogenen Unterricht die.enge Verbindung zur berufspraktischen Ausbildung zu
+schaffen, In den Methodischen Kommissionen sind solche Festlegungen zu treffen und in den Stoffverteilungsplänen auszuweisen, die unter Berücksichtigung der in der Grundlagenbildung erworbenen Kenntnisse und aller betrieblichen Besonderheiten eine optimale Erfüllung des Lehrplanes garantieren. .
+
+A
+
+Besonderer Wert ist auf die mathematisch-naturwissenschaftliehe und ökonomische Durchdringung des Stoffes zu legen, um
+ein besseres Verständnis für die Zusammenhänge elektrotechnischer Prozesse zu erreichen. Bei allen Berechnungen sind der
+Rechenstab und technische Tabellen zu verwenden und die Anwendung dieser Arbeitsmittel ständig zu üben.
+
+Alle Versuche und Demonstrationen sind grundsätzlich mit
+krraftfahrzeugüblichen Spannungen durchzuführen, Dabei sind
+die Arbeitsschutzanordnungen und Sicherheitsbestimmungen zu
+berücksichtigen.
+
+Die schnelle Entwicklung der Kraftfahrzeugtechnik und Kraftfahrzeug-Elektrotechnik verpflichtet die Lehrkräfte, sich
+ständig auf fachlichen und gesellschaftspolitischen Gebieten
+weiterzubilden. Sie müssen stets bemüht sein, dieses Wissen
+| über die moderne Technik und ihre Anwendung in der Praxis den
+
+e Jugendlichen mit pädagogischer Meisterschaft zu vermitteln.
+= 33 =
+
+Lehrplan
+Std. Stoffgebiete und stoffliche Erziehungsschwerpunkte, zu
+
+Schwerpunkte
+
+erwerbende Fähigkeiten und
+Fertigkeiten, ökonomische
+
+und allgemeinbildende Bezüge
+2 ; 3
+SfPj$©nnnni;;°8;|!N1}Q’B99
+
+20
+
+Motorenkunde
+
+Otto - Motor
+
+Kennzeichen des Otto-Motors Erziehen zum technisch-funk
+Unterscheidung nach Gemischbildung, Zündung und
+Arbeitsspiel
+
+Diesel - Motor
+
+Kennzeichen Des DieselMotors
+
+Unterscheidung nach Gemischbildung, Zündung und
+Arbeitsspiel
+
+Viertakt-Arbeitsspiel
+Arbeitsablauf
+
+Motorsteuerung beim Viertakt-Motor
+
+Aufgaben der Motorsteue
+rFung
+
+Bauteile der Ventilsteuerung
+
+Anordnung der Steuerungsorgane .
+
+Arten der Hubübertragung
+
+Bedeutung der Steuerungs
+teile ;
+Nockenwelle
+Nockenwellentrieb
+Ventilspiel
+
+Arten, Vor- und Nachteile
+
+mehrfacher Rädertriebe
+
+Berechnungen über den einfachen und mehrfachen Rädertrieb (n, z und 1)
+
+Zweitakt-Arbeitsspiel
+Grundsätzlicher Arbeitsablauf
+
+Spülverfahren mit symmetri
+schem und unsymmetrischem
+
+e
+
+. tionalen Denken
+
+Erkennen der Kausalzusammenhänge
+
+Entwickeln von Fähigkeiten
+des Urteilens, des Beweisens
+und der SchIiußfolgerung
+
+Komplexes Zusammenwirken der
+Steuer- und Regelsysteme in
+der Technik, Ökonomie und in
+der Landesverteidigung
+
+Bezüge zur BMSR-Technik herstellen
+
+Steuerungsdiagramm auswerten
+
+Umrechnen der Kurbelwellengrade in Millimeter üben
+
+Fördern der selbständigen Er
+kenntnisgewiunung durch Vergleich und Urteilsbildung
+
+Steuerdiagramm
+Motorsteuerungsteile, die
+die Spülungs- und Ladeverhältnisse beeinflussen
+Berechnen des Hubraumes,
+
+der Verdichtungsverhältnisse und der Kolbenkraft
+
+Kraftstoffanlagen
+
+Entwickeln von Fähigkeiten
+zum Abstrahieren und Fol-=
+gern
+
+;o= und Dieselmotoren
+
+Aufbau der Anlagen
+
+Größerverhältnisse und
+Fassungsvermögen
+
+. Kraftstoffverbrauch
+
+Möglichkeiten der Abgasregulierung.
+
+Erkennen der Zusammernhänge
+in technisch-physikalischen
+
+Prozessen
+
+Erziehen zur konsequenten
+Beachtung der Umweltschutzbestimmungen
+
+Abgasvorschriften hervorheben
+
+E
+
+Leitungsarten
+Leitungsquerschnitte
+(Berechnungen)
+
+Leitungsverbindungen und
+Befestigungsarten
+
+Isolationen
+Siceherungen
+
+Leitungswiderstände
+Standards
+Schaltpläne für Kraftfahrzeuge |
+
+Berechnen der SpannungsSund Leistungsverluste
+
+30 Zündanlagen
+
+S
+
+Schaltung einer Zündanlage
+
+Vorgänge bei der Hochspannungsserzeuu
+
+Berechnen der magnetischen
+Energie, des ÜbersetzungsSverhäiltnisses der im Sekundärkreis wirkenden Einzelbelastungen, der Kapazität
+des Ersatzwiderstandes
+
+Darstellen der Sekundärspannung U, vom Überset
+zungsverhältnis bei
+
+Vorschriften der StVZO und
+Tei-Vorschriften über die
+Ausführungen der elektrischen Anlagen in Kraftfahr- .
+zeugen
+
+Erwerben der Sicherheit im
+Lesen von Schaltplänen sSowie der Fähigkeit, Zeich
+nungsfehler zu erkennen
+
+vVerwenden abstrakter Symbole
+für reale Schaltelemente
+
+Zzusammenfassen und Vereinfachen einer komplizierten
+Schaltung zu einem einfachen Ersatzelement
+
+Immanentes Wiederholen des in
+der Grundlagenbildung erworbenen Wissens
+verschiedenen Belast
+der Zündspule
+
+Abhängigkeit der SekundärsSpannung a von der sekun
+ungen
+
+därseitigefi Belastung einer
+Zündspule
+Größe der Zündspannung
+Vorgänge bei der Zündent- Anwenden des Energiesatzes
+ladung . Umwandlungssatz als allgeWirkung des Kondensators meine Gesetzmäßigkeit für
+
+. besohndere UmwandlungsforBerecinen der Entladungs- men in das Gesamtsystem von
+
+energetischen Prozessen
+Darstellen eines Über
+schlages an einer Funken
+strecke
+
+Abhängigkeit der Überschlagsspannung vom Elektrodenabstand
+
+Einfluß von Druck und Tem- |
+peratur auf die‘ Zündspan
+nung
+Entladeverzug an einer Funkenstrecke
+
+Charakteristik des Funkens
+
+Spannungsverlauf beim Funkenüberschlag
+
+Messen der Zündspannung
+
+Schaltung eines Hochspan- Messungen an der Zündanlage
+nungsteilers (theoretisch)
+
+Meßfunkenstrecke Messungen am Motor
+Regelfunkstrecke C(theoretisch)
+Spitzfunkenstrecke .
+
+Verstelleinrichtungen
+
+Fliehkraftversteller
+Unterdruckversteller
+
+Gesamtbereichs-Unterdruckversteller
+
+Schnappversteller
+Zündverteiler
+Bauausführungen
+
+Schalten eines Zündverteilers
+
+Verstellercharakteristik
+
+2
+zündeinstellung
+
+Darstellen der Lage des
+
+Zündzeitpunktes zum oberen
+
+Totputnkt
+Einstellung allgemein
+
+Grundzündeinstellung
+Kontaktabstand
+Einstellhilfen
+
+Sonderbauarten
+Standmagnetzünder
+Schwungradmagnetzünder
+Schwungradlichtmagnetzünder
+
+Aufbau und Wirkungsweise
+der 4-Abriß-Magnetzünder
+
+Mehrabriß-Magnetzünder
+
+Erzeugung der Zündspannung
+beim Schwunglichtmagnetzünder
+
+Abriß
+Einbau, Zündeinstellung
+
+Prüfung und Ausfallursachen
+
+Elektronische Zündung
+Aufbau, Wirkungsweise und
+Schaltung elektronischer
+Zündanlagern
+
+Zündspulenzündung mit
+Schalttransistor
+
+Hochspannungszündung mit
+Entladekondensator
+
+Zündkerzen
+
+Aufgabe der Zündkerzen in
+Bezug auf
+
+elektrische Festigkeit
+Durchgangswiderstand
+Oberflächenwiderstand
+
+Temperaturwechselbeständigkeit und Wärmeleitfähigkeit
+Druckfestigkeit
+chemische Festigkeit
+Elektrodenabstand
+
+3
+
+41 2
+
+Entwickeln der Fähigkeit
+des genauen Beobachtens
+
+Auswerten der Ergebnisse
+in qualitativer und quantitativer Hinsicht
+
+Bedeutung moderner Technik
+und die daraus abzuleitende Forderung, sich ständig
+weiterzubilden
+
+Bestimmungen für Prüffelder, Prüffeldeinrichtungen
+und Meßplätze
+
+Meß- und Prüfvorschriften,
+Fehler und Fehlerquellen
+herausarbeiten
+
+Gesamtfunktion, technischer
+
+Stand, technische Daten und
+weltstandsvergleich darlegen | ;
+Zusamme nhänge zwischen Belastung und Lebensdauer
+aufzeigen .
+
+\
+10
+
+ke
+
+Bleisammler
+
+= 37
+
+Zn S M 4
+
+2 3
+Aufbau der Zündkerzen
+
+Konstruktionsmerkmale des Vorschriften und Richtlinien
+Zündkerzenisalators in be- für die Behandlung und den
+zug auf . Einsatz der Bauelemente
+
+Werkstoff .
+
+Wärmeleitfähigkeit Sicherheitsbestimmungen und
+Temperaturwechselbestän- Qualitätsmerkmale (Gütedigkeit richtlinien)
+Durchschlagsfestigkeit
+
+Überschlagsfestigkeit
+
+Isolations- und Oberflä
+chenwiderstand
+
+Elektrodenform in bezug. Urteilsfähigkeit über techauf Leerlaufeigenschaften nischen und kostenmäßigen
+des Motors Stand der Erzeugnisse
+
+Unterschiedliche Einschraubgewindearten
+
+Zündkerzen für Sonderzwel
+Gleitfunkenkerzen
+Mehrbereichskerzen
+
+S
+
+Anforderungen im Kraftfahrzeugbetrieb \
+
+Starterbatterie
+Bleisammler
+
+Konstruktiver Aufbau Galvanische Elemente und
+Werkstoffe der Platten, der elektrolytische DissoziaSeparatoren und des Elektro-tion als Vorleistung der
+
+1lyts Oberschule
+
+EBlektrotechnische Lade- und
+
+Entladevorgänge Lebensdauer von AkkumulatoInbetriebsetzung des Samm- en hervorheben
+lers, Einbau und Wartung Nachweis des Einflusses
+
+4 der Temperatur auf die KaSanmierkennlinie, Lade- und pazität und den Wirkungs
+grad
+Wirkungsgrad
+
+Kapazitätsverhalten
+Kapazitäts- und Wattstundenberechnungen
+
+Aikalische Sammler
+
+Aufbau und Vergleiche zum Erkennen der Bedeutung der
+Bauelemente für die .
+
+e +
+
+S
+
+30
+
+= 38 =
+
+2 | 3
+Elektrochemischer Lade- und Funktionstüchtigkeit techEntladevorgang nischer Systeme
+
+Inbetriebsetzung eines Samm- .
+lers, Einbau und Wartung Entwickein des Qualitäts; und Kostendenkens (Zuverlässigkeit, Lebensdauer,
+Wartungs- und Kostenfra
+gen)
+
+Ladegeräte
+
+Prinzipieller Aufbau
+
+Ladeschaltungen
+
+Unterscheidung nach
+I-Kennlinie und
+W-Kennlinie
+
+Regelung des Ladevorganges
+
+Endabschaltung
+
+Gleichstromgeneratoren (allgemein)
+
+Aufbau, Wirkungsweise und
+
+Erziehen zur Achtung des ge
+Charakteristik des
+sellschaftlichen und privaHauptschlußgenerators ten Eigentums
+
+Nebenschlußgenerators
+Doppelschlußgenerators Erziehen zum pfieglichen Behandeln der Grun tel und
+
+Ankerrückwirkung ihrer Baugruppen
+Bestimmung über
+
+Drehrichtung
+
+Nennbetrieb und
+
+Betriebsart
+
+Kraftfahrzeug-Gleichstromgeneratoren (Lichtmaschine)
+
+Aufbau der Lichtmaschine
+
+Grundbauelemente Standardisierung, Größen
+Polgehäuse und Ausführungsformen der
+Feldspulen (Erregerwick- Lichtmaschinen
+
+Iu
+
+Feldspulenschaltungsscheme
+
+ng
+Anker der Lichtmaschine
+
+Ankerwicklungen Lesen und Zeichnen von VerKommutator . G4ärahtungs- und Schaltplänen
+Stromwender
+Lagerschilde antriebs
+seitig
+
+Stromabnahme (Kohlebürsten) '
+Wirkungsweise und Verhalten der Lichtmaschine
+
+(Nebenschlußgenerator)
+
+Magnetische Felder in der
+Lichtmaschine
+
+Feldkurven
+
+Kommutierung, Drehrichtung
+und Leerlaufkennlinie
+
+Belastungskennlinie
+Erwärmungskennlinie
+Wirkungsgradkennlinie
+Berechnen der Klemmspan-.
+nung
+
+Leistung, Wirkungsgrad des
+magnetischen Flusses
+
+Berechnen der Leitungsquer
+schnitte und Spannungsverluste
+
+Wartung der Lichtmaschine
+
+Bürsten
+Kollektor
+Lager
+
+Beurteilen der Funktionstüchtigkeit der einzelnen
+Bauelemente
+
+Sicherheit in der Auswertung graphischer Darstellungen erlangen durch regelmäßige Übungen
+
+Hervorheben der Notwendigkeit zur sachgemäßen und
+fachgerechten Wartung und
+
+Umfang der Wartungsarbeiten Pflege elektrischer Anlagen
+
+und Mittel für die fachgerechte Wartung‘
+
+Einbau und Antrieb der Lichtmaschine
+
+Auflagerung mittels Sattelund Schwenkarm
+
+Keilriemenscheibe und Tüfter ;
+
+Berechnen des einfachen
+Riementriebes (n, d und i)
+
+Riemehschlupf und Umschlingungswinkel
+
+Mehrfache Riementriebe
+
+Gesamt- und Teilfuntion,
+technischer Stand, Zweck
+und Kosten der ÄAggregate
+erläutern
+
+Hinweise auf Arbeitsschutz
+und Sicherheitsbestimmungen
+
+Störungen und deren Beseitigung
+
+Prüfen eines Ankers auf
+Massen- und Windungsschluß
+
+Prüfen der Feldwicklung auf
+Massen- und Windungsschluß
+
+Aufbau und Funktion des
+Prüfgerätes
+
+Feststellen von Störungen
+
+Erläutern der Geräte und Spezialeinrichtungen zur Fehlersuche
+
+Beachten der Bedienungsanleitungen
+
+Hinweise auf die Bestimmungen
+für Prüffelder und -geräte
+40
+
+durch die Ladeanzeige
+lLeuchte
+Wechselstromgeneratoren (allgemein)
+Drehstromgenerator
+
+Dreiphasen-Synchrongenera- Entwickelin eines ausgeprägtor mit Gleichstromerregung ten Vorstellungs- und Ab
+Aufbau und Betriebsverhal- straktionsvermogehs
+
+ten
+
+Kraftfahrzeug-Wechselstromgeneratoren
+
+Grundbauelemente 4
+Stator Hinführen zu Erkenntnissen
+Indulti sck1 durch technisch-ökonomische
+
+ndukonSwWickune Vergleiche mit dem Gleich
+Rotor (Klauenpolläufer) stromgenerator
+mit Erregerspule und (Aufwand — Kutzen)
+Schleifringen .
+Bürstenhaliter mit Kohlebürsten
+
+Lagerschilde antriebssei
+tig und schleifringseitig
+
+Stromabnahme
+Diodengleichrichter
+
+Funktionsprüfungen
+Wirkungsweise
+
+Lichtmaschinenregelung
+Grundlagen der Regelung
+
+Einhalten einer bestimmten Beherrschen und Vertiefen
+Spannung der in der Grundlagenbil
+Ein- und Ausschalten zwi- dung erworbenen Kenntnisse
+
+schen Batterie und Generator
+
+Einstellen einer geeigneten Spannung
+
+Überlastungsschutz
+
+‘ Kontaktregler mit elektromagnetischer Steuerung
+
+Der_Rückstromschalter
+Aufbau. und Wirkungsweise Sicherheit im Lesen von
+der verschiedenen Spulen- Schaltzeichnungen und
+bauarten ; Schaltr:iänen
+
+Der Spannungsregler
+
+Zweisystem-Reglerschalter
+Einsystem-Reglerschalter
+der
+
+Aufbau und Wirkungsweise
+Prinzipschaltbilder und Ersatzschaltbilder
+
+egelfrequenz
+Unterlage, Schwebelage
+und Oberlage
+Regelarten
+Plusregelung
+Minusregelung
+
+Strom-Spannungsverhalten
+Spannungsregler
+Nachgiebige Spannungsregelung
+
+Spannungsregelung mit geknickter Kennlinie
+
+beruflichen Grundwissens in
+Form der Anwendung
+
+Anwenden der Kategorien
+Ursache = Wirkung
+Zweck =- Mittel
+Aufwand - Nutzen
+sowie deren vielfältige Verknüpfungen
+
+Erkennen der Bedeutung des
+Ökonomisch vorteilhaftesten
+Einsatzes der Reglerarten
+
+Befähigen zur Analogiebildung durch Vergleiche mit
+Regelvorgängen außerhalb
+der Technik
+
+Vor- und Nachteile der Zwei- und Dreikontaktregler
+
+Temperaturkompensation
+
+Forderung der Kfz,-Batterie
+an die geregelte Spannung
+
+Kennzeichmnung der Reglerschalter
+
+Standards
+Einstellung der Regler
+Wartung und Pflege
+
+Mechanische Einstellung .
+
+Einstellung des Rückstromschalters
+
+Einstellung des Spannungsreglers
+
+Zusammenfassen der Einstellung der Reglerschalter
+
+Einbau, Wartung und Schäden
+
+Eiektrische Einstellung
+
+Erkennen der Bedeutung des
+Reglers als kybernetisches
+System, das die menschliche
+Tätigkeit im Regelkreis ersetzt und ihm Zeit für
+schöpferische Arbeit schafft
+
+Befähigen zum selbständigen
+Erkennen und Lösen von Problemstellungen
+
+Üben des Arbeitens mit Zeichnungen, Bau-, Verdrahtungsund Schaltplänen
+
+Auswirkungen thermischer, mechanischer und elektrischer
+Umwelteinflüsse auf die Bauelemente
+
+Ableiten der ökonomischen Bedeutung dieser Baugruppen aus
+dem Betriebsverhalten
+
+Spannungsregler und Relais für Wechselstromgeneratoren
+
+Aufbau und Wirkungsweise
+
+Lesen der Schaltpläne
+15
+
+2
+
+Technische Beschreibung
+bei Vorerregung und im Betrieb der Maschine
+
+Prüfungsmöglichkeiten
+
+Mechanische und elektrische Einstellung
+
+Elektronische Regler
+Grundagen elektronischer
+Spannungsregelung
+
+Spannungsschaltung
+Verstärkerschaltung
+Schalttransistor
+Multivibrator
+Drigger
+Rückkopplung
+
+Anpassung des Ladestromes
+
+Blockschaltbilder
+Reale Schaltungen
+
+Systematik der Fehlerortung
+
+Gleiechstrommotoren
+Motorarten
+
+Aufbau, Wirkungsweise und
+
+Schaitung
+
+Charakteristik der
+Hauptschlußmotoren
+Nebenschlußmotoren
+Doppelschlußmotoren
+
+Technische Angaben
+
+Berechnen des Wirkungsgrades
+
+Erläutern des Leistungsschildes
+
+Erklärung
+Überlastung
+Drehzahlwechsel
+
+Anlasser
+
+Anforderungen im Kfz.-betrieb
+
+Aufbau des Anlassers
+Hauptbaugruppen
+
+Lesen der Stromlauf- und
+Signalflußpläne
+
+Finstell- und Justiervorschriften erläutern
+
+Verbindung zum Fach Elektronik herstellen
+
+Beherrschen des Energiehaushaltes im Zusammenhang
+mit der Batterie
+
+Sicherheitsmaßnahmen gegen
+elektrische Zerstörung
+
+Erziehen zum verantwortungsbewußten Handeln =- Voraussetzung für die Instandhaltung elektronischer Baugruppen
+
+Erziehen zum
+komplexen kostenbezogenen
+Denken
+sparsamen Materialverbrauch
+
+Verantwortungsbewußtsein
+
+zur Selbständigkeit und Gewissenhaftigkeit
+
+Auf die Bedeutung der Standardisierung hinweiseh
+
+Erläutern der physikalischen
+Grundlagen
+= 4A3 ©
+
+S!:l:NIEx|}
+
+2
+Berechnen des Drehmoments
+
+Darstellen der Kennlinie
+des Drehmoments
+
+Darstellen der Drehzahlkennlinie eines Gleichstrommotors in Abhängigkeit von der Ankerspannung
+und vom Erregerstrom
+
+Berechnen der elektrischen
+Leistung, der mechanischen
+Leistung und des Wirkungsgrades
+
+Bauarten, Aufbau, Wirkungsweise, Schaltung, Charakteristik und Triebart
+
+Einspurvorgang beim
+Durchdrehanlasser
+Schubtriebanlasser
+Schubschraubenanlasser
+Schubankeranlasser
+
+Einbau, Wartung und mögliche Schäden
+
+Befestigungsmöglichkeiten
+
+Abstand des Ritzels vom
+Zahnkranz in Ruhestellung
+
+Die Ausschrägung der Zahnflanken im Zahnkranz
+
+Berechnen des Leistungsverlustes ;
+
+Prüfung des Anlassers
+
+Anlasserkennlinie bei verschiedenen Batteriekapazitäten
+
+Abhängigkeit von der angelegten Spannung bei verschiedenen Belastungsströmen
+
+Messen der Erwärmung
+
+Die Anwendung des elektrodynamischen Prinzips im
+
+Gleichstrommotor heraus
+arbeiten
+
+Ankerstrom - Erregerstrom
+
+Graphische Darstellung der
+elektrischen und mechanischen Leistung ‚eines Gleichstrommotors auswerten
+
+Erkennen der kausalen Zusammenhänge, daß zu besonderen Zwecken besondere
+Mittel erforderlich sind
+
+Fertigungs- und Montagevorschriften, TGL, Vorschriften des DAMW
+
+Material- und Gerätekenntnisse aus der Werkstoffkunde nutzen
+
+Auswerten der Messung des.
+Drehmomentes der Drehzahlcharakteristiken
+
+Aligemeines über Prüfung
+der Funktion und Lebensdauer
+
+Anpassen der Startanlage an den Kraftfahrzeugmotor
+
+Batterieumschalter
+
+Zusammenhänge zwischen
+Batterie, Anlasser und
+Kraftfahrzeugmotor
+
+Anlasserkennlinie, Sammlerkennlinie, Kennlinie des
+Verbrennungsmotors darstellen und erläutern
+10
+
+a 44A =
+
+2
+Kaltstart
+
+Einflüsse auf den Sammler,
+Anlasser und VerbrennungsSmotor
+
+Klimatische Verhältnisse
+und Bedingungen
+
+Starthilfen
+
+(Dynastart)
+
+Aufbau und Wirkungsweise
+Einbau und Antrieb
+
+‚Erläuterungen zum Durch
+drehmoment des Motors
+
+Getriebe-Übersetzungsverhältnis der Zünddrehzahl
+(Anspringdrehzahl)
+
+Berechnen von Mans n, Z
+und i
+
+FE Dn n e E
+
+Scheinwerfer (allgemein)
+Aufbau, Bedeutung von Reflektor und Streuscheibe
+Glühlampenarten
+Lage der Leuchtwendel
+Sockellung
+
+Lichtstrom und Lebensdauer
+einer Glühlampa in Abhängigkeit von der Betriebsspannung
+
+Arten der Scheinwerfer
+Aufbauscheinwerfer
+Einbauscheinwerfer
+
+Fahrbahnbeleuchtung
+
+Hauptscheinwerfer
+
+Fernlicht
+
+Anwenden der Lichtbünde
+lung und Lichtfilterung
+Bedeutung der Blaulicht
+anzeige
+
+Bestimmen der richtigen
+Größenverhältnisse von Verbrennungsmotor, Anlassergröße, Batteriegröße und
+Anlasser-Leistungsduer
+schnitt
+
+Erziehen zum komplexen kostenbezogenen Denken und
+zum sparsamen Materialverbrauch
+
+Hinweise auf ordnungsgemässes Verhalten im Straßenverkehr und auf die Bestimmungen der StVO sowie auf di
+
+StVZO
+10
+
+Abblendlicht
+Aufbau der Abblendsysteme
+
+Europäisches symmetrisches
+Abblendlicht .
+
+Europäisches asymmetrisches
+Abblendlicht
+
+Sealed-Beam-Abblendlicht
+Halogen-H4-Licht
+
+Besondere Scheinwerfertypen
+
+Nebellicht-, H3-Licht-,
+Blaulicht-, Sucher- und
+Rückfahrscheinwerfer
+
+Weitlichtscheinwerfer
+
+Schaltrelais und Relaisschaltungen
+
+Anbringen des Rückfahrseheinwerfers
+
+Prüfmethoden zur Schein
+werfereinstellung
+Scheinwerfereinstelliwand
+Scheinwerfereinstellgerät
+
+Bedeutung der Hell-Dunkelgrenze
+
+Parkschaltung
+Spannungsabfallmessungen
+
+Signalanlagen
+
+oOptische Anlagen
+
+Bedeutung der Signale nach
+Farbe, Intensität und Dauer
+
+Fahrtrichtungsanzeige
+Steuerung durch Blinkgeber
+Schaffung von Blinkstromkreisen ;
+Ein- und Zweikreisschaltungen
+
+Anhängerschaltungen
+Kontrollanzeige
+Leistungsbedarf
+
+Warnblinkschaltungen
+
+Steuerung elektromagnetisch - elektronisch
+
+ECE-Empfehlungen
+
+Vorschriften über Einstel
+lung der Scheinwerfer
+Bedeutung für die Sicher
+heit im Straßenverkehr
+
+Anbauvorschriften entspre
+ehend der StVZO bzw. StVO
+
+Anleiten zum Finden neuer
+Lösungen, zur Mitarbeit im
+Neuererwesen und zur Verbesserung der Technologie
+
+Erziehen zum konseduenten
+Beachten und Einhalten der
+gesetzlichen Bestimmungen
+der StVZO über Montage und
+Lichtstärken
+
+= 46 =
+
+2 3
+Lichthupe
+Lichthupenschaltung
+
+Steuerung der Leistung über
+Relais
+
+Schlußlichtleuchte Erläutern der Sehal tunesvorschriften nach StVYZO
+Bremaleuchte und sonstigen Bestimmungen
+Nebelschlußleuchte ;
+Begrenzungslicht ;
+
+Sonderschaltungen
+
+Akustische Anlagen
+Arten, Aufbau und Wirkungsweise von
+
+Signalhörnern mit Kontaktunterbrechern
+
+Fanfaren über Iuftstrom
+
+Martinshörnern mit harmonischem bzw. Dreiklang
+
+Aufbau und Wirkungsweise
+der Wechselstromhupe
+
+Arten, Aufbau und Wirkungs- Betriebssicherheit und Funk
+weise der Scheibenwischer- tionstüchtigkeit stellen ho
+anlage he Antorderungen an den Fach
+| arbeiter, große materiel
+AntricbSarbett hzu le Werte und Menschenleben
+motorisch über biegsame von der Zuverlässigkeit seiWelle ner Arbeit abhängen
+
+Wirkungsweise der Steuerung
+der Scheibenwischeranlage
+Endausschaltung
+
+Steuerung durch Intervallschalter
+
+Arten der Klarsichtscheiben
+Entfrostung durch Gebläse
+
+S
+
+Besonderheiten über Entwickeln der Sicherheit im
+
+. Kennzeichenbeleuchtung Lesen von Schaltplänen sowie
+Instrumentenbeleuchtung der Fähigkeit, Zeichnungs=
+Kontrollieuchten fFehler zu erkennen
+Innenbeieuchtung
+
+. Einstiegleuchten
+
+Kofferraumleuchten
+= 47
+
+A 2
+Parkleuchte
+Foto-Dämmerugsschaltung
+Berechnen des Leitungsquerschnitts
+
+8 Eunkentstärung
+
+Störquellen im Kraftfahrzeug
+
+Entstörungsmittel
+
+Messen von Kraftfahrzengstörungen |
+Hinweise für die Pflege
+von Entstörmitteln
+Ursachen von Störungen
+
+Entstörungsmaßnahmen bei Vertiefen der im UnterrichtsZubehörgeräten fach Schalten-Prüfen-Messen
+
+. benen Fähigkeiten und
+Störspannungsmessungen mit- SEWOr
+eee nkstorindikator oder ertigkeiten
+
+Störspannungsmeßgerät Entwickeln der Sicherheit in
+(Anwendung, Wirkungsweise) der Beurteilung der Funk
+tionstüchtigkeit
+
+25 Ausgleich
+
+= 48 =
+
+4.1.3. Fachzeichnen . 72 Stunden
+Hinweise
+
+Im Unterricht sollen die künftigen Facharbeiter lernen, techee nische Zeichnungen schnell und sicher zu lesen, damit sie
+ihre Arbeitsaufträge ordnungsgemäß ausführen können,
+Gleichzeitig werden sie dadurch befähigt, eigene Gedanken
+zur Verbesserung der Arbeit zeichnerisch darzustellen, Dazu
+sind hinreichend Kenntnisse, besonders über die einschlägigen IGL und Fertigkeiten im technischen Zeichnen Metall sowie
+im technischen Zeichnen Elektrotechnik erforderlich; ;
+
+Im vorliegenden Lehrplan wird jedoch das technische Zeichnen
+Metall wesentlich reduziert, Dieses wird in der Oberschule in
+solch einem Umfang gelehrt, daß es für die Berufe der Elektrotechnik annähernd ausreichend ist,
+
+Das technische Zeichnen Metall ist im berufspraktischen Unterricht als Unterrichtsprinzip durch das Skizzieren und Lesen von Maschinenbauzeichnungen ständig zu vertiefen und zu
+erweitern.
+
+Im Fachzeichnen kommt es darauf an, daß die Lehrlinge
+
+1. den Unterschied zwischen dem technischen Zeichnen (Maschinenbau) und der symbolischen Darstellung in elektrotechnischen Zeichnungen verstehen,
+
+2. die verschiedenen Arten der Schaltpläne und deren Bedeutung und Anwendung kennenlernen,
+
+3. die wichtigsten allgemeinen und berufsspezifischen Schaltzeichen in Schaltplänen lesen und zeichnen können,
+
+4. den Erfordernissen entsprechend fähig sind, die Schaltpläne umzuzeichnen,
+
+A Die Lehrlinge sind zum unbedingten Einhalten der Zeichenstan
+dards zu erziehen, Dazu ist es erforderlich, daß der FachlehAe. rer die neuesten Standards und Normen verwendet, Die LehrlinEge müssen in der Lage sein, nach Schaltplänen zu arbeiten und
+
+|
+
+A9
+
+mit deren Hilfe Störungen an Kraftfahrzeugen zu beseitigen.
+
+Das Schaltungszeichnen wird in den Unterrichtsfächern Kraftfahrzeug-Eiektrotechnik und BMSR-Technik berufsbezogen angewendet und vertieft, |
+
+Lehrplan
+
+Sta, Stoffgebiete und stoffliche
+Schwerpunkte
+
+16
+
+Zeichnen der typischen
+Werkstücke des Kraftfahrzeuges Ä
+
+Niet= und Schraubenverbindungen
+Darstellen und Bemaßen be
+sonderer Niete und Nietverbindungen
+
+Sinnbilder für Niete verschiedener Art
+
+.Darstellen von Schrauben,
+
+Schraubenverbindungen und
+Schraubensicherungen
+
+Zeichnen kompletter Baugruppen
+
+Anfertigen einfacher Zusammenstellungszeichnungen
+
+Die Stückliste
+
+Bedeutung, Inhalt und Formen ;
+
+Standards
+Schaltpläne
+
+Begriffsbestimmung und Anwendung der Schaltpläne
+
+Übersichtsschaltplan
+Wirkschaltplan
+Stromlaufplan
+Netzschaltplan
+Leistungsschaltplan
+Installationsschaltplan
+Bauschaltplan
+
+Erziehungsschwerpunkte, zu
+erwerbende Fähigkeiten und
+Fertigkeiten, ökonomische
+
+und allgemeinbildende Bezüg
+
+Wiederholen, Festigen und
+Vertiefen der im polytechnischen Unterricht bisher
+erworbenen Kenntnisse, Fähigkeiten und Fertigkeiten
+insbesondere über Inhalt u.
+Bedeutung einer Zeichnung,
+Form, Größe, Oberflächenbeschaffenheit und Werkstoffe eines Werkstückes
+
+‘Sicheres Anwenden der Zeich
+nungsstandards
+
+Arbeiten mit Tabellen und
+Wertetafeln
+
+Sicheres Handhaben der Zeichengeräte und Hilfsmittel
+
+Ökonomische Bedeutung der
+
+Entwicklung standardisierter Begriffe und Bezeich
+nungen
+
+Bedeutung der internationalen
+Zusammenarbeit auf allen Gebieten der Technik
+
+S EEE]!]]]]]
+
+2 3
+SSSSSS®€S=S©E:=S6®8l8
+Schaltzeichen fFfür Schaltgeräte
+
+Symbole für
+Schaltstücke
+Schaltglieder
+Schaltstellungen
+Antriebsglieder
+Zwischenglieder
+Schütze, Relais und Auslöser
+
+Kennenlernen der vielfältigen Verwendungsmöglichkeiten
+der einfachen Symbole
+
+Verbindungen von Schaltzeichen zu Schaltplänen
+
+Schaltzeichen für Stromarten, Schaltarten, Leitungen und Leitungsverbindungen
+
+Verbindung von Schaltbildern. zu Schaltplänen in
+einfachen Schaltungen
+Berufsbezogene Schaltungen
+
+Zeichnen von Schaltplänen
+
+Anwendungsbeispiele aus
+
+der Kraftfahrzeugtechnik
+Installationspläne für
+Elektromonteure
+
+Bauschaltpläne für Elektromechaniker
+
+Umzeichnen von Schaltplänen
+Übersichtsplan-Wirkschaltplan.
+Wirkschaltplan-Stromlaufplan
+
+Sammlerschaltungen
+
+Elektromagnetisch betätigte Batterieumschaltungen
+
+Schaltungen zur Arbeits-,
+Leistungs- und Widerstandsmessung
+
+Gleichrichterschaltunzen
+Ladeschaltungen
+
+Kennenlernen der Schaltsymbole
+
+Anwenden der Standards und
+technischen Tabellen
+
+Herstellen enger Beziehungen zu den Grundlagen der
+Elektrotechnik
+
+Befähigen zum selbständigen
+Erkennen und Lösen von Pro=blemstellungen
+
+S
+
+Erwerben der Sicherheit im
+Lesen und Auswerten von
+Schaltzeichen und Schaltplänen
+
+Entwickeln eines ausgeprägten Vorstellungs- und Abstraktionsvermögens
+S
+
+Zzündspulenschaltungen
+Kondensatorschaltungen
+Schaltung der Batterie
+
+E
+A
+
+Schaltung zur Anlage mit
+ein und zwei Anlassern
+
+r n
+
+Entwickeln der Fähigkeit,
+Zeichnungsfehler zu erkennen und zu korrigieren
+
+Fördern der Sicherheit im
+Gebrauch aller für den Arbeitsprozeß notwendigen Unterlagen ; .
+
+Schaltpläne und Symbole der Immanente Wiederholung des
+Gleichstromgeneratoren und beruflichen Grundwissens in
+
+der entsprechenden Schalt
+und Regelgeräte
+
+Form der Anwendung
+Fördern der Sicherheit im
+
+Schaltung der Wechselstrom- Lesen und Auswerten von
+
+generatoranlage mit Voll
+weg-Gleichrichter-Schaltung
+
+n E
+
+Kennenlernen und Skizzieren der Schaltungen für
+elektrische Baugruppen
+
+Gesamtschaltungen im Personen- und Lastkraftwagen
+
+8 Übersichtsschaltpline
+
+Anfertigen kompletter
+Schaltpläne
+
+6 Ausgleich
+
+Schaltungsunterlagen
+
+A
+
+Entwickeln des technischfFuktionalen Denkens
+
+Entwickeln der Fähigkeit
+zum Beurteilen und Auswerten von Schaltplänen
+
+Erkennen der ökonomischen
+Bedeutung kompletter Fertigungsunterlagen
+
+a
+
+= 52 =
+Z.14. Werkstoffkunde 2 Stunden
+
+Hinweise
+
+Zur Ausübung des Berufes müssen die Lernenden die Eigenschaften, das Verhalten bei der Bearbeitung und die Verwendung von
+Standards der verschiedenen Werkstoffe kennen. Vor allem soll
+die volkswirtschaftliche Bedeutung der Werkstoffe, insbesondere der Halbleiter, Sintermetalle für Kontaktwerkstoffe, neue
+Isolierstoffe und Magnetwerkstoffe, deren Anwendung und Austauschbarkeit untersucht werden,
+
+Gleichzeitig sind die Lehrlinge so zu erziehen, daß ihnen der
+
+Skrupellose Kampf der Imperialisten um wichtige Rohstoffqguellen bewußt wird. Demgegenüber sollen sie die gegenseitige Hilfe der ILänder des sozialistischen Lagers bei der Versorgung
+
+mit Roh-, Werk- und Hilfsstoffen erkennen.
+
+Besondere Bedeutung Kommt bei der richtigen Auswahl der Werkstoffe entsprechend den Forderungen der Materialökonomie dem
+Sparsamkeitsprinzip und dem Erschließen von Reserven ZUe
+
+Ein besonderer fachlich-erzieherischer Schwerpunkt ist das
+Beachten und Einhalten der Bestimmungen des Umweltschutzes,
+Es kommt darauf an, daß die künftigen Facharbeiter aktiven
+kinfluß nehmen auf die Verhinderung von Umweltverschmutzungen. Diese Forderung bezieht sich besonders auf das Stoffgebiet "Kraft- und Schmierstoffe", sollte aber im gesamten Unterricht prinzipiell beachtet werden.
+= =
+
+Lehrplan
+Std. Stoffgebiete und stoffliche
+Sehwerpunkte
+
+Einteilung der Werkstoffe
+Metalle
+Nichtmetallie
+Plaste und Elaste
+
+Gitterformen
+Gitterkonstante
+
+Bildung von Kristailen
+Erstarrungsvorgang
+artfreinde, arteigene Keime
+Kristalle, Kristallite
+Kristallisationsgeschwindigkeit
+
+Anisotropie
+Eigenschaften eines Einkristalles in verschiede
+nen Achsrichtungen
+
+Kaltumformung
+
+Gleitebenen, Translation
+Einfluß der Kaltverformung
+auf die Eigenschaften der
+Metalle
+
+Rekristallisation
+
+Kritischer Formänderungsgrad
+
+Einfluß der Temperatur
+Rekristallisationsglühen
+
+Erziehungsschwerpunkte, zu
+erwerbende Fähigkeiten und
+
+Fertigkeiten, ökonomische
+und allg
+
+emeinbildende Bezüge
+
+Technische und ökonomische
+Bedeutung sowie Gesichts
+punkte, die beim Einsatz
+von Werkstoffen zu berück-.
+
+sichtigen sind
+
+Bedeutung der Materialökonomie hervorheben
+
+Wissenschaft als Produktivkraft
+
+Friedliche Nutzung der Atomenergie
+
+Schwerpunkte des sparsamen
+Energieverbrauchs sind zu
+betonen
+
+Ae
+
+Hinweise auf die Bedeutung
+
+der Werkstoffe für die Kraft-.
+
+fahrzeugindustrie .
+
+Erziehen zum sparsamen Umgang mit Material
+
+Anwendung des technologisch
+günstigsten Fertigungsverfahrens
+
+6 Iegierungslehre
+Kristallaufbau bei Legierungen
+Mischkristalle
+
+Kristallgemische
+
+Anhand von Diagrammen sollen.
+die Lehrlinge technische Zusammenhänge erkennen
+
+17
+
+1 2 3
+
+Erstarrungsvorgänge bei Legierungen .
+
+Grundtypen
+Abkühlungskurven
+Zustandsschaubilder
+Liguiduslinie
+Soliduslinie
+Eutektikum
+Weichlot
+
+e
+
+Erstarrung und Umwandlung
+nach dem metastabilen System
+
+Gefügeaufbau des unlegierten Stahles
+
+Erstarrung nach dem stabilen System
+
+Warmbehandlung z
+
+Gefüge und Eigenschaften
+Härten
+Oberflächenhärten
+Anlassen
+Glühen
+Vergüten
+
+Eigenschaften, Verarbeitung und Anwendung von
+Kupfer lb
+Aluminium
+Stahl
+
+N
+
+Werkstoffe für Transistoren
+Dioden und Gleichrichter
+Germanium
+Silizium
+Selen
+Kupferoxydul
+
+Gefügebilder und Schliffbilder von Legierungen aus der
+beruflichen Praxis auswerten und erläutern
+
+Der wirtschaftliche Einsatz
+von Loten ist herauszuarbeiten
+
+In Abhängigkeit von Funktion und Verwendung müssen
+
+die Lehrlinge die richtige
+
+Werkstoffauswahl treffen
+können
+
+Fehleranalyse auswerten
+
+Ökonomische Betrachtungen
+zu falscher Warmbehandlung
+
+Wahl richtiger Abschreckmittel sowie die Bedeutung
+von Wasser-, Öl- oder Iufthärtern herausarbeiten
+
+Erkennen von ökonomischen
+Zusammenhängen
+
+Bedeutung des Aluminiumlötens zur Verminderung der
+
+Übergangswiderstände
+
+f
+
+Erkennen der Zusammenhänge
+zwischen der wissenschaftlLich-technischen Revolution und der modernen Halbleitertechnik ;
+
+Hinweis auf Drehstromlichtmaschinen und TransistorZündanlagen
+a E AN
+
+Allgemeine Anforderungen
+
+Widerstandslegierungen auf
+Kupferbasis 
+Heizleiterlegierungen
+
+A
+
+en
+Sinterkontakte
+Edelmetallkontakte
+
+Weichmagnetische Werkstoffe
+
+Hartmagnetische Werkstoffe
+Ferrite (Maniperm)
+
+Silikone
+
+Chemischer Aufbau
+Silikonöle
+Silikonharze und -lacke
+
+Verwendung in der Praxis
+
+Kleb- und Gießharze
+Arten und Verwendung
+
+L
+
+Temperaturverhalten .
+Mechanische Festigkeit
+Wasseraufnahmefähigkeit
+Elektrische Eigenschaften
+
+Polymerisation
+Polykondensation
+Verschiedene Arten der Produkte
+
+Materialeinsparung durch
+richtige Wahl der Widerstandswerkstoffe
+
+Hinweis auf Widerstandszündkabel
+
+Bedeutung der Sintertechnik bei der Herstellung von
+Schleifkohlen für Lichtmaschinen und Anlasser
+
+Materialökonomische Betrachtungen anstellen
+
+Bezüge zur Elektrotechnik
+und Kraftfahrzeugtechnik
+
+Bedeutung der Grundlagenforschung, die zur Entwicklung der Ferrite führte
+
+Einsatz von Silikonölen in
+der Technik unter besonderer Berücksichtigung des
+Kfz.-Baues
+
+Hinweis auf den hohen Asche
+gehalt (nicht für Motore
+zu verwenden)
+
+Bezüge zum Sammler und zur
+Zündspule
+
+Metallkleben in der Kfz.Instandsetzung
+
+Eingegossene elektronische
+Bauteile
+
+Anwendungsbeispiele aus der
+Kfz.-Technik hervorheben
+
+Bedeutung des sowjetischen
+Erdöls für die PlastherstellLung ;
+Reparaturmöglichkeiten für
+plastbauteile (Karosserie)
+aufzeigen
+
+= 56 =
+
+S N
+S
+
+Vergaserkraftstoffe
+Dieselkraftstoffe
+Motorenöle
+Getriebeöle
+Schmierfette
+Polfette
+
+4 Isolierstoffe
+
+Keramische Isolierstoffe
+Übersicht über Herstellung
+
+von Elektroporzellan
+
+Verwendung und Eigenschaf
+ten
+
+Natürliche Isolierstoffe
+
+Arten und Eigenschaften
+Glimmer
+Asbest
+
+Arten der Lacke
+Anforderungen und Eigenschaften
+
+Auftragsverfahren
+Grundierung
+Lackreparatur
+Schleifmittel
+Lösungsmittel
+
+Behandlung lackierter
+Teile
+
+4 Lacke und Lackpflege
+
+Definition des Begriffes
+
+Ursachen der Korrosion
+Arten der Korrösion
+
+Korrosionsschutz
+Arten und Verfahren
+
+10 Ausgleich
+
+Zusammenhang zwischen Kraftstoff und Zündungsklingeln
+im Motor darlegen
+
+Materialökonomie betonen
+Sammeln von Altöl
+
+Erzgiehen zum Beachten und
+Einhalten der Bestimmungen
+des Umweltschutzes
+
+Bedeutung der keramischen
+Industrie für die Elektrotechnik
+
+Ökonomische Betrachtungen
+durch Gegenüberstellung
+von natürlichen und keramischen Isolierstoffen
+
+Besondere Hinweise auf einschlägige ASAO und Standards.
+
+Verwendung heimischer Grundstoffe
+
+Bedeutung der Automobilindustrie im Rahmen der Vollkswirtschaft
+
+Export-Import-Beziehungen
+
+Die Lehrlinge sollen die Formen der Korrosion, ihre Ursachen und Maßnahmen zur Verhütung kennen
+
+Die ökonomische Bedeutung
+
+des Korrosionsschutzes ist
+hervorzuheben .
+= 57 =
+
+42 Lehrpläne für den berufspraktischen Unterricht
+4.2.1. Lehrgang Metallbearbeitung | 230 Stunden
+
+f e
+ge C
+Hinweise A e
+
+Der berufspraktische Unterricht ist auf der Basis der fort
+schrittlichen Technik und Technologie durchzuführen, damit die
+
+Lehrlinge frühzeitig an die wirtschaftlichen Fertigungs- und
+Instandsetzungsverfahren herangeführt werden; Dabei sind die
+manuellen Fertigkeiten in der Qualität zu vermitteln, wie sie
+als Voraussetzung für die berufliche Tätigkeit als Facharbeiter notwendig sind. Der Erwerb der Fertigkeiten hat an betriebstypischen, auf jeden Fall an produktiven Arbeiten zu erfolgen. Möglichst schnell ist der berufspraktische Unterricht
+den Bedingungen der Produktion anzupassen. Der Plan "Wissenschaft und Technik" sowie Neuererverfahren des Betriebes müssen den Inhalt der gesamten beruflichen Grundlagenbildung
+schwerpunktmäßig durchdringen uund sind in den Stoffverteilungs
+plänen konkret auszuweiseh.
+
+|
+
+In dem Zeitraum von 220 Stunden solien die im polytechnischen
+Unterricht der 7. und 8. Klasse erworbenen grundlegenden Arbeitsverfahren vertieft und erweitert werden. Die Lehrproduktion ist technisch so vorzubereiten, daß der Übergang zu wirtschaftlichen Fertigungs- und Instandsetzungsverfahren erreicht
+wird, Dabei ist besonderer Wert auf das Erkennen der technologisch-ökonomischen Zusammenhänge zu legen, um das ökonomische
+Denken der Lehrlinge zu entwickeln und sie selbständig nach
+Möglichkeiten zur Steigerung der Arbeitsproduktivität suchen,
+Die Ausbildung an Werkzeugmaschinen erfolgt entaprechend den
+betrieblichen Erfordernissen.
+
+Die Montage und Demontage von Bauteilen und Baugruppen ist
+mit Hilfe von mechanisierten Werkzeugen, Hilfsvorrichtungen
+und entsprechenden Montagegeräten durchzuführen. Dabei ist
+auf Fehler beim Montieren, Demontieren und Instandsetzen,
+
+shre Ursachen und deren Beseitigung hinzuweisen. Nichtpassende Teile sind auszuwechseln und durch passende zu ersetzen
+oder paßgerecht nachzuarbeiten. Die Jugendlichen sind mit den
+Güte- und Abnahmebedingungen vertraut zu machen, damit sie
+
+A
+
+bewußt Skonomische Probleme erkennen und aktiv an der Steigerung der Arbeitsproduktivität teilnehmen, Nach Möglichkeit
+sollen die Lehrlinge in der Güte- und Abnahmekontrolle kurzfristig eingesetzt werden,.
+
+Bei allen Arbeitstechniken sind die jeweils gültigen Arbeitsschutzanordnungen, Arbeitsschutzinstruktionen, Arbeits- und
+Brandschutzanordnungen sowie betriebliche Sicherheitsbestimmungen zu lehren und ihre Einhaltung konsequent zu fordern.
+
+Le lan
+Std. Stoffgebiete und Theoretische Lehrstoffe, ErArbeitstätigkeiten ziehungsschwerpunkte, zu er
+werbende Fähigkeiten und Fertigkeiten, ökonomische und
+
+aligemeinbildende Bezüge
+1 2 3
+
+10 Einführung in den Betrieb
+
+S
+S
+
+Überblick über den Betriebs-Erläutern der politischen und
+ablauf und seine Bedeutung ©Öökonomischen Bedeutung sowie
+für die Volkswirtschaft des Aufbaus und grundlegen
+; den Inhalts der BestimmunBekanntmachen mit den sozi- gen auf dem Gebiet des Ge
+alen und gesellschaftlichen .
+sundheits-=-, Arbeits- und
+Einrichtungen des Betriebes Brandschutzes .
+
+ntwcklungsmöglichkeiten Betriebsordnung, Alarmplan
+und Luftschutzordnung
+Aufgaben der betrieblichen
+Kommissionen und der Si- n nhalt und Führung
+cherheitsinspektion er Ar mAappD
+
+220 Grundfertigkeiten der Werkstoffbearbeitung
+
+S
+A
+
+Ausführen von Arbeitstech- Festigen und Vertiefen der im
+
+niken zum Bearbeiten von polytechnischen Unterricht
+
+metallischen und nichtme- erworbenen Fertigkeiten und
+
+tallischen Werkstoffen Erweitern mit höherem Schwierigkeitsgrad
+
+Handhaben bzw. Bedienen, Aufbau und Wirkungsweise der
+
+Warten und Pflegen der Werkzeuge, Maschinen und Vor
+Werkzeuge und Maschinen richtungen
+
+sowie Hilsmittel .
+Regeln für den Umgang mit
+
+Richtiges Auswählen und An- Werkzeugen, Maschinen und
+
+wenden der Werkzeuge ent- Vorrichtungen
+
+sprechend dem Werkstoff und
+
+dem gewünschten Arbeitser
+gebnis .
+
+Eigenschaften und Austauschbarkeit der verwendeten
+Werkstoffe unter Beachtung
+Werkstattzeichnungen
+
+Skizzieren einfacher Bauteile
+
+Erkennen und Verhüten von
+Arbeitsfehlern
+
+Inbetriebnahme, Instandhalten und Pflegen von
+Werkzeugmaschinen
+
+Schärfen
+
+Schärfen von Bohrern, Körnern, Meißeln und Schraubenziehern nach betriebliehen Arbeitsverfahren
+
+Blechbearbeitung
+
+Ablkaanten von Blechen
+Herstellen von Sikken
+
+Scheren, Lochen, Stanzen
+und Bohren von Blechen
+
+Herstellen von Blechkappen,
+Gehäusen, Chassis u.a,.
+}
+
+1
+
+A { A
+Z FEer e
+
+Nieten, Kleben, Klammern
+und Pressen von Blechen
+
+ihrer ökonomischen Wertung
+Zweck und Bedeutung der
+Werkstattzeichnung
+
+Bedeutung der betrieblichen
+Arbeitsverfahren im Einblick
+auf die wirtschaftliche Fer
+tigung
+
+Kühl- und Schmiermittel
+Beachten und Einhalten der
+Arbeitsschutzanordnungen und
+Sicherheitsbestimmungen
+
+Anwendung und Wirkungsweise
+moderner Maschinen und Vorrichtungen zur Blechbearbeitung
+
+Streck- und Elastizitätsgrenze, Zug- und Druckspannungen, Querschnittsformungen und Biegeradius im Hin
+blick auf die Werkstückdicke,,
+Ar
+AA .
+Schervorgang beim Lochen und
+Stanzen
+
+Arten und Ursachen von Ausschuß und Möglichkeiten der
+Vermeidung
+
+Entwicklungstendenzen:
+Verstärkter Einsatz von
+Kunststoff- und Gießharzbauteilen gegenüber Blecherzeugnissen
+
+Arbeiten mit Werkzeugmaschinen
+
+Einrichten und Warten der
+Bohrmaschinen
+
+Wahl der Drehzahl und des
+Vorschubes in Abhängigkeit
+von Werkstoff und Werkzeug
+
+Herstellen von Durchgangsund Grundbohrungen
+
+. 4
+
+Winkel und Schneiden am Bohrer
+
+Aufbau und Wirkungsweise verschiedener Arten von Bohrmaschinen, deren Ausrüstung
+und Zubehör
+
+Schnittgeschwindigkeit, Drehzahl, Vorschub und Oberfläche
+
+A
+
+Einrichten, Bedienen, Warten und Pflegen der Dreh
+maschinen sowie Instandhal
+ten der Werkzeuge
+
+Einhalten der Arbeitsregeln
+und Arbeitsstufen beim Zen
+trieren, Lang-, Plan- und
+Innendrehen
+
+Einstellen von Drehzahl,
+Vorschub und Spantiefe
+Einhalten der Arbeits
+schutzanordnungen und
+Sicherheitsbestimmungen
+
+Hobeln
+
+Einrichten, Bedienen, Warten und Pflegen der Kurz
+.hobelmaschine
+
+Instandhalten der Werkzeuge
+
+Einhaiten der Arbeitsregeln
+
+Arbeitsstufen und Arbeitsschutzanordnungen beim Hobeln
+
+Vor=- und Fertighobeln verschiedener Werkstücke
+
+Fräsen
+
+Einrichten, Bedienen, Warten und Pflegen von Fräsmaschinen
+
+Einhalten der Arbeitsregeln
+und Arbeitsstufen sowie der
+
+Arbeitsschutzanordnungen
+
+Fräsen von Werkstücken mit
+ebenen Flächen
+
+Fräsen von Nuten, einfachen
+
+Formen und Werkstücken mit
+Teilungen
+
+Sonstige Maschinenarbeiten
+
+Hierunter fallen alle Arbeiten an Spezialmaschinen
+
+zum Regenerieren kraftfahr
+zeugelektromechanischer
+
+Zweck und Bedeutung des Dre
+hens ;
+
+Aufbau und Wirkungsweise der
+Drehmaschine
+
+Betriebs- und Bedienungsanweisungen erläutern
+
+Arten und Anwendung verschiedener Drehmeißel
+
+Erläutern der Schnittwinkel
+Demonstrieren des Drehvorganges
+
+Kühl- und Schmiermittel und
+ihre Wirkungen
+
+Zweck und Bedeutung des Hobelns - Demonstrieren des
+
+Hobelvorganges
+
+Werkzeuge zum Hobeln und
+ihre zweckmäßige Anwendung
+
+Schnittgeschwindigkeit, Hublänge und Anzahl der Hübe
+Erläutern der Betriebs- und
+Bedienungsanweisußg
+
+Moderne Arbeitsverfahren
+Arbeitsschutzunterweisung
+
+Zweck und Bedeutung des
+Fräsens
+
+Aufbau und Wirkungsweise der
+Fräsmaschine, ihre Betriebsund Bedienungsanweisung
+Demonstrieren des Fräsvorganges
+
+Fräserarten und zweckmäßiger
+Einsatz
+
+Fräsverfahren und ihre Anwendung
+
+Erläutern der Bedienungsanleitung
+Einhalten der Arbeitsschutzanordnungen .
+Aggregate
+Fräsen entsprechender Teile aus verschiedenen metallisehen und nichtmetalLisehen Werkstoffen
+
+Anwenden der Tabellen zur
+Berechnung der Schnittgeschwindigkeit und zur Wahl .
+der richtigen Drehzahl
+
+Moderne Arbeitsverfahren und
+Arbeitsschutzanordnungen
+
+Arbeitsweise und Anwendungs-=
+
+möglichkeiten von Teilköpfen
+und Rundschalttischen
+
+4.2,2, Lehrgang Grundfertigkeiten Elektrotechnik 285 Stunden
+
+Hinweise
+
+Die im polytechnischen Unterricht der 9, und 10, Klasse er
+worbenen grundlegenden Fertigkeiten auf dem Gebiet der Elektrotechnik sind zu vertiefen und zu erweitern, Die Lehrpro
+duktion ist technologisch so vorzubereiten, daß der Übergang
+zu wirtschaftlichen Fertigungsverfahren erreicht wird, Dabei
+ist besonderer Wert auf das Erkennen der technisch-ökonomi
+schen Zusammenhänge zu legen, um das ökonomische Denken der
+
+Lehrlinge zu entwickeln und sie selbständig nach Möglichkeiten zur Steigerung der Arbeitsproduktivität suchen,
+
+Während der Ausbildung sind regelmäßig Belehrungen über den
+Gesundheits-, Arbeits- und Brandschutz sowie über die zutreffenden Sicherheitsbestimmungen für elektrische Geräte
+
+und Anlagen durchzuführen.
+
+Lehrplan
+Std. Stoffgebiete und Theoretische Lehrstoffe, ErArbeitstätigkeiten ziehungsschwerpunkte, zu er
+werbende Fähigkeiten und Fertigkeiten, ökonomische und
+
+allgemeinbildende Bezüge
+
+1 2 | 3
+
+10 HEerrichten und Verarbeiten von Drähten, Litzen und Kabeln
+Abisolieren von Drähten, Standards und Verwendung von
+Litzen und Kabeln Drähten, Litzen und Kabeln
+(mechanisch, chemisch und unter Berücksichtigung der
+elektrisch) mittels elek- Stromstärke, Spannung und
+trisch beheizter Abisolier- Frequenz (Querschnitt, Isozange lierung, Oberfläche)
+Biegen von Drahtösen Arten, Standards und VerwenAnbringen von Löthülsen, dung der Lote und Flußmittel
+Lötfahnen und Kabelschuhen Technologie des Lötens und
+
+Verzinnen der Drahtenden Verzinnens
+
+mit Lötkolben und Tauchbad
+
+Verlegen von Formkabeln Arbeitsregeln für das Verleund Anschließen von Schalt- gen von Drähten, Litzen und
+litzen, Schaltkabeln, Kabeln
+
+Schnüren, Schaltleitungen
+Installationsleitungen und und Anwendung der Ver
+Außenkabel
+
+e u
+= 63 =
+
+S
+
+1 .2
+Anbringen von Gestalts- Vorteile, Verwendung und
+
+sicherungen, Lagesicherun- Technologie der gedruckten
+
+gen, Anschlußmitteln und Schaltung
+
+Knickschutzmitteln Klimatische, thermische, che
+Vorrichten des Formbrettes mische und mechanische Einirkungen auf elektrische
+
+Legen, Abbinden und Anspit- W
+
+zen von Formkabeln Leitungen und Anlagen
+
+Technologie des Form- und
+
+Prüfen von Schaltkabein
+
+Zählen der Adern Schaltkabels (Kabelbaum)
+
+E Arbeitsschutzbestimmungen
+tfernen der Bewehrung und TGL-Vorschriften
+
+Formschlagen, Wachsen und Mö11
+
+glichkeiten des Einsatzes
+
+Markeren der Drähte und moderner technologischer
+Hilfsmittel der Entisolierungstechnik und des Legens
+von Kabelbäumen
+
+60 Bearbeiten und Montieren mechanisch betätigter Schalt
+elemente
+
+Bearbeiten und Montieren Aufbau, Funktion und Verwenelektrisch betätigter dung von Schaltern, Tastern,
+Schaltelemente Klinken, Stöpseln, Anschluß
+teilen und Kontaktsätzen
+
+Aufbau, Funktion und Verwendung von Relais, Batterieumschaltern, Zugmagneten un
+Gebern .
+
+Bearbeiten und Montieren Standards, Ausführungsforruhender Schaltelemente men, Funktion und Verwendung von
+Widerständen
+Kondensatoren
+Drosseln .
+Transformatoren
+Schalttransistoren
+
+Bearbeiten und Montieren Standards, Funktion und Verweiterer elektrischer Bau- wendung von
+elemente Sicherungen
+Fassungen
+Anzeigemitteln (optisch und
+akustisch)
+
+Mrockengleichrichtern
+Dioden und Transistoren
+
+elektroakustischen Wandlern
+
+Einhalten der Arbeits- Arbeitsschutzanordnungen,
+schutzanordnungen, Sicher- Sicherheitsbestimmungen und
+heitsbestimmungen und TGL TGL-Vorschriften
+1 2 3
+215 WMontieren und Verdrahten von elektrischen und mecha
+2
+
+A
+
+nischen Bauteilen
+
+Demontieren und Montieren
+von Bauteilen
+
+Ausführen von Arbeiten unter Anwendung aller bis zu
+diesem Zeitovunkt erlernten
+
+Bedeutung und Verwendung sowie Funktion der betreffenden Bauteile, Hilfseinrichtungen, Einrichtungen und.
+Ausrüstungen
+
+Arbeitstechniken nach Zeich- Abhängigkeit der Bearbei
+nungen und sonstigen Unterlagen, unter besonderer Be
+. achtung der Güte und der
+
+Anwendung wirtschaftlicher
+Arbeitsverfahren
+
+Lösen und Verbinden durch
+Schrauben, Stifte, Federn
+Keile und Gelenke
+
+Vorbereiten, Einpassen,
+Nacharbeiten und Zusammenpassen von Einzelteilen
+
+Schalten von Baueinheiten
+nach Muster sowie nach.
+Bau- und Stromlaufplänen
+
+Überprüfen der mechanischen
+Baueinheiten nach Bauplänen
+und Stücklisten
+
+Überprüfen der Leitungsführung nach Bauschaltplan
+Ausführen einfacher Durchgangsprüfungen
+
+Bestücken und Montieren von
+Leiterplatten (gedruckte
+Schaltungen) sowie Auswechseln von Bauelementen
+Einhalten der Arbeitsschutzanordnungen, Sicher
+heitsbestimmungen und TGLVorschriften
+
+tung der Bauteile sowie der
+Montage und Demontage von
+Baugruppen von der Konstruk
+‚tion und der Funktion
+
+Arbeitsregeln und Arbeitsstufen für das Bearbeiten
+von Einzelteilen sowie für
+die Montage und Demontage
+einfacher Baugruppen
+
+Gliederung und Ausführungsarten von Geräten und Baugruppen
+
+Austauschbarkeit, BaukastenSystem, Hinweise auf Vorschriften und Standards
+
+Aufbau und Anwendung der zu
+montierenden Bauelemente
+und Geräte
+
+Lesen einfacher Bau- und
+Montagepläne
+
+Mechanische und thermische
+Beanspruchung von Bauelementen
+
+Erläutern von Bau- und Montagevorschriften und Stücklisten
+
+Standards und Verwendungsmöglichkeiten der benötigten Maschinenelemente
+
+Arbeitsschutzanordnungen
+und TGL-Vorschriften
+
+Einführung neuer Bauelemente (z.B. Mikromodule, Dünnfilmtechnik u.a,)
+= 65 =
+
+4.2.3. Messen, Prüfen, Fehlersuche 110 Stunden
+Hinweise
+
+Fertigen, Montieren und Instandhalten von elektrischen Geräten
+und Anlagen erfordern in zunehmendem Umfang Kenntnisse und
+Fertigkeiten im Schalten, Prüfen und Messen, Deshalb werden
+in der beruflichen Ausbildung die Grundlagen der Meßtechnik
+vermittelt, damit grundsätzliche Arbeiten auf diesem Gebiet
+ausgeführt werden können,
+
+Die enge Verflechtung von manuellen Tätigkeiten mit theoretischen Kenntnissen bedingt eine Laborausbildung in einem besonderen Unterrichtskabinett, in dem eine systematische Ausbildung mit Hilfe ausreichend vorhandener Meßgeräte, elektrischer Einrichtungen und Betriebsmittel durchgeführt werden
+kann. ;
+
+Der Ablauf des Unterrichts sollte sich gliedern ins
+Einführung
+Praktische Übungen.
+Auswertung
+
+Im Einführungsunterricht ist es Aufgabe der LehrKräfte, die
++heoretischen Grundlagen für die praktischen Übungen zu erläutern und mit den Lehrlingen zu erarbeiten: Aufbau und Wirkungsweise der Meßgeräte, Bauelemente und Prinzipschaltungen.
+Außerdem sind die JFugendlichen zur Unfallverhütung am Arbeitsplatz zu belehren, Die für die Messung erforderlichen Kenntnisse aus den Grundlagen der Elektrotechnik werden als bekannt
+vorausgesetzt.
+
+Bei den anschließenden praktischen Übungen - sie sind auf die
+im Kraftfahrzeug üblichen Spannungen und Stromstärken zu beschränken =- führen die Lehrlinge selbständig Schaltungen aus,
+messen, prüfen und werten die Ergebnisse durch Kontrollrechnungen sowie Anfertigen von Diagrammen, Aufzeichnungen und
+Protokollen, Die Übungen dienen der Vertiefung der Kenntnisse über die Grüundlagen der Elektrotechnik und sind gleichzeitig Vorarbeiten für den berufspraktischen Unterricht,
+
+/
++
+
+Nach Abschluß der praktischen Übungen sind aufgetretene
+Schwierigkeiten und Unklarheiten zusammenfassend vom Lehrenden auszuwerten, Die Jugendlichen sollen hierbei ihre Wissenslücken schließen und gleichzeitig Schlußfolgerungen für die
+weiteren Übungen ziehen,
+
+Die nachfolgend genannten Themen stellen einen Rahmen dar und
+sind entsprechend der berufs- und betriebstypischen Merkmale
+anzuwenden.
+
+In der speziellen Ausbildung sind die in der beruflichen
+Grundlagenbildung erworbenen Fähigkeiten und Fertigkeiten
+s8o zu erweitern und zu festigen, daß die Lehrlinge in der
+Lage sind, alle an Kraftfahrzeugen anfallenden Schalt-,
+Prüf- und Meßvorgänge selbständig und gewissenhaft auszuführen,
+
+Le
+St
+
+16
+
+lan
+
+d. Stoffgebiete und
+Arbeitstätigkeiten
+
+Kennenlernen der gebräuchlichsten Arbeitsmittel und
+der elektrischen Anlagen
+des Unterrichtskabinetts
+
+Praktische Übungen,
+Übungen zur Ersten Hilfe‘
+
+Mechanische Meßmittel
+
+Die Lernenden sollen mit
+theoretischen und praktischen Arbeitstechniken der
+verschiedenen Prüfmethoden
+vertraut gemacht werden
+
+Theoretische Lehrstoffe, Er
+ziehungsschwerpunkte, zu er
+werbende Fähigkeiten und Fer
+tigkeiten, ökonomische und
+
+emeinbildende Bezüge
+
+all
+
+Allgemeine Belehrung über
+pflegliches Handhaben der
+Meßgeräte und Arbeitsmittel
+
+Kabinettordnung, Organisation des Unterrichtsablaufes
+
+Grundsätzliche Belehrung
+
+zur Ersten Hilfe, ASAO 20/1
+
+Arbeitsschutzanordnungen
+TGL 200 = (ehem. VDE 0100)
+
+Erziehen zum sorgfältigen
+Umgang mit hochwertigen Meßmitteln und zur Achtung des
+gesellschaftlichen Eigentums
+= 67 =
+
+2
+
+3
+
+Meßschieber und Feinmeßschraube, Meßuhr und ihre
+Anwendung
+
+Richtiges Handhaben der
+Meßmittel und Ausführen
+von Messungen
+
+Warten und Pflegen der Meß
+mittel
+
+Vertiefen der Kenntnisse aus
+dem polytechnischen Unterricht anhand von berufstypischen Bauelementen
+
+Erwerben von Fertigkeiten
+zum richtigen Handhaben und
+Pflegen der Meßzeuge
+
+Mechanisches Zeigermeßgerät für Zündeinstellung
+
+Skalenauswertung der
+mechanischen Meßmittel
+
+Üben der Lichtspaltmethode
+
+Auswahl der Meßgeräte entsprechend der geforderben
+Meßgenauigkeit
+
+Elektrische Meßmittel
+
+E
+
+Aufbau und Wirkungsweise
+der Meßgeräte
+
+Ermitteln der Fehler beim
+Messen
+
+Erkennen von absoluten und
+relativen Meßfehlern.. ;
+
+Prüfen elektrischer Einrichtungen
+
+Praktische Übungen:
+Durchführen von Prüfungen
+an Leitungen und Verbrauchern
+
+Grundsätzliches über Strom
+un pannumgsmebgerate
+
+Ausführen von Messungen in
+elektrischen Anlagen
+
+Deuten von Skalenaufschriften und Bestimmen
+der Verwendung des Gerätes (Gebrauchslage, Meßbereich, Stromart, Bestimmen
+des Herstellerbetriebes)
+
+Dreheisenmeßgerät
+Praktische Übungen:
+Schalten .als Strom- und
+Spannungsmesser
+Ablesen der Skalenwerte
+
+Aufgabe des Prüfens in elektrischen Einrichtungen
+
+Aufbau, Wirkungsweise und.Verwendung von elektrischen
+Prüfgeräten, wie Leitungsprüfer, Kurbelinduktor, Summer, Glühlampe und Schauzeichen
+
+Arten der Meßwerkzeuge
+Grundsätzlicher Aufbau der
+Meßgeräte (Zeiger, Skala,
+Lagerung, Dämpfung, Meßwerkfedern, Magnet) Güteklassen
+
+Betriebs- und Prüfspannungen
+Stromart, Meßgrößen .
+
+Objektive und subjektive Meßfehler und ihre Berechnung
+
+Grundsätzliches über das
+Handhaben von Meßgeräten
+
+Aufbau und Wirkungsweise
+
+Stromart, Verluste, Güte=klasse, Überlastbarkeit
+= 68 =
+
+1 2 3
+Kreuzsputmeßgerät- Meßbereichserweiterung
+
+Praktische Übungen:
+Erweitern des Meßbereichs
+mit Nebenwiderständen
+
+Ableseübungen am Vielfachmeßinstrument
+
+Erweitern der Meßbereiche
+durch Verändern der Windungszahlen
+
+Meßschaltungen
+
+Praktische Übungen:
+Messen und Ableseübungen
+mit Strom- und Spannungsmessern
+
+Messen der Spannung an
+Spannungsquelilen
+
+Messen der Stromaufnahme
+von Verbrauchern
+
+Einstellen von Spannungen
+und Strömen mit Hilfe von
+Stellwiderständen für verschiedene Verbraucher
+(Vorwiderstand, Parallelwiderstand, Spannungsteiler)
+
+Ermitteln Ohmscher Widerstände durch Strom- und
+Spannungsmessung
+
+Praktische Übungen:
+Ermitteln Ohmscher Widerstände durch Vergleichsmessung
+
+Messen mit dem Ohmmeter
+
+Ohmmeter mit Kreuzspulmeßwerk
+
+Handhabung und Messen von
+Ohmschen Widerständen
+
+Messen mit der Wheatstoneschen Meßbrücke
+
+Praktische Übungen
+Handhaben der Meßbrücke
+
+Messen von Ohmschen Widerständen
+
+Messen der elektrischen
+Leistung und Arbeit in
+
+Aufbau und Wirkungsweise
+Erweitern der Meßbereiche
+durch Verändern des Innenwiderstandes bei Spannungsund Strommessern
+
+Berechnen von Vor- und Nebenwiderständen
+
+Erläutern der zu übenden
+Meßschaltungen
+
+Ermitteln der Fehler beim
+Messen im Anfangs- bzw. End-.
+bereich
+
+Absoluter und relativer Meßfehler
+
+Entwickeln eines hohen Verantwortungsbewußtseins
+
+Stromrichtige und spanmungsrichtige Schaltung
+
+Vor= und Nachteile des Meßverfahrens, Anwendung und
+Bedeutung
+
+Meßprinzip und Aufbau der
+Meßschaltung
+
+Ohbmmeter mit Drehspulmeßwerk =- Meßprinzip =
+
+Aufbau und Wirkungsweise des
+Kreuzspulmeßwerkes, Verwen
+dung als Ohmmeter, Quotien
+tenmessung
+
+Aufbau und Wirkungsweise der
+Wheatstoneschen Meßbrücke
+
+Aufbau und Wirkungsweise des
+elektrodynamischen Meßwerkes
+Verwendung als Leistungsmesser
+1
+
+10
+
+. 10
+
+20
+
+= 69 =
+
+2 3
+
+induktionsfreien Stromkreisen
+
+Praktische Übungen
+
+Ermitteln der Leistung Aufbau und Wirkungsweise
+durch Strom- und Spannungs- des Wechselstromzählers
+messung,
+
+Messen von Leistung und
+
+Arbeit mit den entsprechen
+den Meßgeräten
+
+e E
+
+Messen der Wirkleistung Ermitteln des Scheinwider; . standes und der Scheinlei
+Berechnen von Leistungs- stung von Wechselstromwi
+faktoreh, Blindleistung, derständen durch St
+
+Wirk- und Blindwiderstän- Ae en durc rom
+den, Kapazitäten und In- und P nnungsmessung
+
+duktivitäten
+
+Messen an berufs=- und betriebstypischen
+
+Bauelementen und Schaltungen
+Praktische Übungen:
+
+Aufbau und Wirkungsweise
+Prüfen und Messen an berufs-ausgewählter Schaltungen
+typischen Schaltungen und Baugruppen
+
+Störungssuche
+
+AA
+
+PAL-Motortester mit Elektronenstrahl-Oszillograph Erläutern von Aufbau und .
+Wirkungsweise, Verwendung
+
+Lichtblitzstroboskop und Einsatzmöglichkeiten,
+Schließwinkelmeßgerät insbesondere in der KraftElektronisches Drehzahl- fahrzeugdlagnosc
+
+meßgerät
+
+Funkentstörindikator.
+
+Elektrisches Fehlersuchgerät ;
+
+= 70 =
+
+4.,3. Spezialbildung | 1 880 Stunden
+Einweise
+
+Die Ausbildung erfolgt in den Produktionsabteilungen der Be
+triebe an solchen Arbeitsplätzen, die für den Betrieb typisch
+
+s8ind und mit den Anforderungen des Lehrplanes übereinstimmen.
+
+Die Arbeitsplätze werden mit Hilfe von Arbeitsplatzanalysen
+ausgewählt, die in enger Zusammenarbeit zwischen Lehrmeistern
+und Facharbeitern angefertigt werden,
+
+Auf der Grundlage dieser Analysen werden die Durchlaufpläne
+
+zu Beginn des Lehrjahres erarbeitet, Sie berücksichtigen die
+in den einzelnen Betrieben vorhandenen Einsatzmöglichkeiten
+sowie die Anzahl der Lehrlinge und sichern, daß der Durchlauf durch die Produktionsabteilungen reibungslos erfolgen
+kann, Zur Sicherung der Lehrplanerfüllung sind die in den
+Betrieben zur Ausbildung geeigneten Arbeitsplätze so zu Platzgruppen zusammenzustellen, daß die Lehrlinge an alle im Lehrplan festgelegten Arbeitsgebiete herangeführt werden,
+
+Die Datuer der Ausbildung an einem Arbeitsplatz richtet sich
+nach Umfang und Schwierigkeitsgrad der Tätigkeit sowie nach
+der Auswahl und Kapazität der vorhandenen Arbeitsplätze,
+
+Zum Abschluß der Ausbildung erfolgt der Einsatz am künftigen
+Arbeitsplatz, an dem auch die Facharbeiterprüfung abgelegt
+werden soll,.
+
+Während der speziellen Ausbildung werden. die Lehrlinge bestinmten Facharbeitern zugeteilt, die damit zugleich Erziehungs- und Bildungsaufgaben übernehmen,
+
+Der Lehrplan für die Spezialbildung weist bei. allen Stoffgebieten und Arbeitstätigkeiten auf die Behandlung der Arbeitsschutzanordnungen und Sicherheitsbestimmungen hin,. Hierunter
+ist zu verstehen, daß aus den einschlägigen Arbeitsschutzanordnungen solche Bestimmungen behandelt werden, die für die
+Durchführung der Arbeiten bzw. für den unmittelbaren Arbeits= 741 =
+
+platz zutreffen. Außerdem sind entsprechend den Verhältnissen und Besonderheiten in den Betrieben bzw. Produktionsabteilungen die betrieblichen Erfahrungen und Vereinbarungen zu
+zu beachten,
+
+Im Rahmen des berufspraktischen Unterrichts werden nur die
+unbedingt notwendigen theoretischen Lehrstoffe vermittelt.
+
+Le lan
+Std. Stoffgebiete und Theoretische Lehrstoffe, ErArbeitstätigkeiten ziehungsschwerpunkte, zu er
+werbende Fähigkeiten und Fertigkeiten, ökonomische und .
+allgemeinbildende Bezüge
+
+4 2 3 |
+
+00 Arbeiten an Kraftfahrzeugen
+
+L
+
+Einführung in die Kraftfahrzeug-Werkstatt
+
+Der Arbeitsplatz des Lehr- Technische Einrichtungen und
+lings die Organisation des Reparaturablaufes in einer Kfz.Instandsetzungswerkstatt
+
+Bekanntmachen mit den Feuerlöscheinrichtungen des
+
+Betriebes, den Arbeits- Einführen in das Gebiet der
+schutzanordnungen und Si- Instandsetzung von Kraftfahrcherheitsbestimmungen zeugen
+
+Bekanntmachen mit der Ver- Umgang mit feuergefährlichen
+kehrs- und Betriebssicher- Stoffen
+
+heit der Kraftfahrzeuge Einhalten der Bestimmungen
+nach der StVYZO und StVO des Umweltschutzes
+
+Verhüten und Bekämpfen von
+Bränden (Havarietrainins)
+
+Erziehen zum konsequenten
+Einhalten der Arbeitsschutzanordnungen (ASAO 5)
+
+Fahrwerk
+Mitarbeit beim Aufbocken Verwendungszweck und Funkvon Kraftfahrzeugen tion der Hebezeuge und Hilfs
+. geräte für das Aufbocken
+Bedienen von eeene unter Berücksichtigung der
+Konstruktion des Fahrzeuges
+Einstellen der Bremsen . Rahmenbauweise, rahmenlose
+Bauweise, Kipper, Sattelschlepper
+
+Notwendigkeit und Arbeitsstufen bei der Funktionsprüfung
+
+Entlüften von Flüssigkeitsbremsen
+250
+
+Einhalten der Arbeitsschutzanordnungen und
+Sicherheitsbestimmungen
+Entlüften der Einspritzpumpe
+
+Montieren, Instandsetzen
+
+und Prüfen der Vorglühanlage
+
+Anlassen des Dieselmotors
+
+Einhalten der Arbeitsschutzanordnungen und
+Sicherheitsbestimmungen
+
+Motor
+Mitarbeit bei einfachen
+Montage=, Instandsetzungs
+arbeiten an Otto-Motoren
+
+Arbeiten an Steuerungsorganen und deren Einstellung
+
+Prüfen und Einstellen der
+Steuerzeiten und des Ventilspiels
+
+Prüfen der Verdichtung
+
+Prüfen des Öldruckes und
+Kühlwasserumlaufes
+
+Aus- und Einbauen, Zerle
+. gen, Reinigen, Instandset=
+
+zen, Zusammenbauen und kegulieren von Vergasern
+
+Aus- und Einbauen sowie Instandsetzen der Kraftstoffförderpunpe
+
+Einhalten der Arbeitsschutzanordnungen und ;
+Sicherheitsbestimmungen
+
+Aus- und Einbauen der Einspritzpumpe
+
+Einstellen der EinspritzPumpe
+
+Batteriezündung
+
+der verschiedenen Bremssysteme
+
+Arbeitsschutzanordnung 361/2
+und Sicherheitsbestimmungen
+ASAO 5
+
+Einstellung der Einspritz
+Pumpe
+Schaltung der Glühanlage
+
+Erläutern der Vorgänge beim.
+
+Anlassen des Dieselmotors
+
+ASAO 361/2 und Sicherheits
+; bestimmungen
+
+Arbeitsstufen bei der Demontage, beim Reinigen und bei
+der Montage von Motoren und
+ihren Einzelteilen
+
+Regeln für das Warten und
+Instandsetzen von Otto-Motoren
+
+Erläutern der Kraftübertragung, Steuerung und Ventileinstellung
+
+Motorkühlung, Schmierung
+und Kraftstofförderung
+
+Elektromagnetische Kraftstofförderpumpe
+
+Aufgaben der Vergaser - Zerstäuben, Mischen
+
+Kraftstoffvorratsanzeiger,
+mechanische, elektrische
+
+und pneumatische Anzeige
+ASAO 361/2 und Sicherheits
+bestimmungen
+
+Arten von Dieselmotoren
+Arbeitsweise des Diesel
+motors
+73 =
+
+Verteiler
+Instandsetzungsarbeiten an
+
+‚einfachen Verteilern
+
+Auswechseln der Kontakte
+und Kondensatoren
+
+Säubern der Kontakte
+
+Prüfen der Verteilerkappen und Rotoren
+
+Instandsetzen der Selbst
+versteller
+
+Prüfen der Verteiler auf
+dem Prüfstand
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLvorschriften
+
+Aufbau der zündspule und
+
+Prinzip der Batteriezündung
+
+des Verteilers
+
+Sonderausführungen von
+Batteriezündungen
+Summerzündung
+
+Fliehkraft-Selbstversteller
+Saugluft-Selbstversteller
+
+Prüfmöglichkeiten
+
+Arbeitsschutzanordnungen
+361/2, Sicherheitsbestimmungen und TGL-Vorschriften
+
+Verteiler - Synchronisieren
+
+Aus=- und Einbau der Verteiler
+
+Zerlegen der Verteiler
+
+Reinigen und Prüfen der
+Einzelteile
+
+Augbuechsen der Verteiler
+
+Erneuern oder Bearbeiten
+
+eingelaufener Wellen
+
+Auswechseln der Kontakte
+und Kondensatoren
+
+Riechten der Kontakte
+
+Synchronisieren der Kontaktpaare
+
+Prüfen der Verteiler auf
+dem Prüfstand
+
+Erneuern der Zündkabel
+
+Einhalten der Arbeitsschutzanorädnungen, Sicherheitsbestimmungen und TGLvorschriften
+
+Aufbau der Verteiler mit
+mehreren Kontaktpaaren
+
+Verteiler für Reihen- und
+V-Motoren
+
+Verteiler für mehrere Zündspulen
+
+Verteiler mit Saugluftverstellung
+
+Zweifunken- und Doppelzündung
+
+Summerzündung
+
+Zweck des Synchronisierens
+Synchronisierungsvorrichtungen
+
+Arbeitsschutzanordnungen
+361/2, Sicherheitsbestimmungen und TGL-Vorschriften
+
+zündeinstellung - Zündfolgen
+
+Einstellen des Motors auf
+Totpunkt in bezug auf Mar
+Abhängigkeit der Zündfolgen
+von den Kröpfungen der Kur
+
+kierung oder nach der Vor- belwelle .
+2
+
+schrift des Herstellerbetriebes
+
+Richtiges Einsetzen des
+Verteilers in den eingestellten Motor
+
+Anschließen der Kabel nach
+der Zündfolge
+
+Einbauen von Verteilern
+mit gemischter Verstellung
+
+Einbauen von Verteilern
+mit Saugluftverstellung
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLvorschriften
+
+Magnetzündung
+
+Aus- und Einbauen sowie
+
+Zerlegen und Reinigen der
+Magnetzündung
+
+Prüfen der Einzelteile auf
+elektrische und mechanische Fehler
+
+Auswechseln der Kontakte,
+Kondensatoren und Zündwicklungen
+
+Beseitigen von Lagerfehlern
+
+Zusammenbauen, Magnetisieren und Prüfen der Magnetzünder
+
+Einbauen von Zündern mit
+Schnappern
+
+Arbeiten mit Permanentmagneten
+
+Magnetisieren der Radlichtmaschinen zweipoliger Bauart und aller Arten von
+Hufeisenmagneten
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften
+
+3
+
+Die gebräuchlichsten Zündfolgen bei Reihen-, Boxerund V-Motoren
+
+Einstellen der Zündung zum
+Motor
+
+Zweck der Früh- und Spätzündung
+
+Möglichkeiten zur Feststellung des Zündzeitpunktes
+und der Zündfolgen
+
+Einstellvorrichtungen
+
+Einstellehren
+Lichtblitzstroboskop
+Arbeitsschutzanordnung 361/2,
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Aufbau der verschiedenen
+Magnetzündertypern
+
+Hoch- und Niederspannungsmagnete
+
+Stand- und Schwungscheibenmagnete
+
+Anreißmagnete
+
+Ein- und Mehrzylindermagnete
+
+Ein-, Zwei- und Mehrabrißmagnete
+
+Steuerwellenmagnetzünder
+
+Übersetzungsverhältnisse
+zwischen Anker- und Verteilerzahnrad
+
+Antriebsverhältnisse zwischen Motor und Zünder
+
+Beziehungen des Magnetabrisses zum Unterbrecherabriß
+
+Feststehende und umlaufende
+Unterbrecher
+
+Selbstversteller
+Schnapper
+Prüfeinrichtungen
+
+Feststellen der Magnetpole
+mittels Kompaß:
+Schwunglichtmagnetzünder (Wechselstromanlage)
+
+Aus- und Einbauen der
+Schwunglichtmagnetzünder
+
+Prüfen und Auswechseln der.
+Wicklungen, Kondensatoren
+und Kontakte
+
+Aufmagnetisieren
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften ;
+
+Zündkerzen
+
+Auswechseln der Zündkerzen
+im Fahrzeug .
+
+Beurteilen des Kerzengesichtes
+
+Reinigen und Prüfen der
+Kerzen sowie Einstellien
+der Elektrodenabstände
+
+Systeme von Wechselstromanlagen
+
+Hinweise auf Störungsur-.
+sachen
+
+Arbeitsschutzanordnung 361/2,
+
+Sicherheitsbestimmungen und
+MGI-Vorschriften
+
+Aufbau der Zündkerzen, ihre
+Maße und Bezeichnungen
+
+Werkstoffe für Kerzenkörper,
+Isolatoren, Mittel- und
+Masseelektroden
+
+Verwendung der Zündkerze
+unter Berücksichtigung der
+
+verschiedenen Wärmewerte
+
+Selbstreinigungstemperaturen
+
+Kerzenstecker
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften
+
+Prüfmöglichkeiten für Zündkerzen
+
+Ursachen und Folgen von
+Glühzündungen
+Arbeitsschutzanordnung 361/2,
+
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Entstören der Zündanlage sowie der gesamten elektrischen
+
+Anlage im Kraftfahrzeu
+
+Binbauen der Entstörstecker
+für Zündkerzen und Zündspulen
+
+Abschirmen durch den Einbau
+von Kondensatoren, Metall
+schläuchen und abgeschirm
+ten Kabeln
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVarschriften
+
+Entstörung und Abschirmung
+gegen Hochfrequenzströme
+nach den gesetzlichen Bestimmungen (StVYZO)
+
+Erläutern des Funkstörindikators und Üben der Anwen
+dung
+
+Arbeitsschutzanordnung 361/2,
+
+Sicherheitsbestimmungen und
+TGI-Vorschriften
+
+.
+= 76 =
+
+4 2 3
+
+Systematische Fehlersuche an der Zündanlage
+
+Erkennen der Unterschiede
+zwischen Batterie-, Anlaß-,
+
+Zünd-, Licht- und Ladestö
+rungen
+Beseitigen von Störungen
+in systematischer Reihenfolge
+
+Prüfen von Zahnkränzen
+Prüfen der Verdichtung mit
+dem Verdichtungsprüfer und
+von Eand mit der Kurbel
+
+Kontrolilieren des radialen
+
+Antriebsspieles von Vertei
+lern und Zündern
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften
+
+Transistorzündung
+
+Arbeiten mit Transistoren
+
+Erkennen und Beseitigen
+von Fehlern bei der transistorisierten Zündschaltung mit mechanischem Niederstromunterbrecher
+
+Wechseln der Kontakte und
+
+Einstellen der Kontakte
+
+Arbeiten an der kontaktlosen Zündschaltung mit automatischer Verschiebung
+des Zündzeitpunktes
+
+Die Systematik der Fehlersuche
+
+Unterschiede zwischen Motorund Zündstörungen
+
+Anlaßstörungen durch defekten Zahnkranz
+
+Anlaß- und Zündschwierigkeiten durch mangelhafte
+Verdichtung
+
+Zündschwierigkeiten durch
+falsche Vergasereinstellung
+oder abgenutzte Vergaserteile
+
+Ursachen des Verölens der
+Kerzen
+
+Verstellung der Zündung
+durch übergesprungene Steuerkette, abgenutzte Keile
+und Stifte, Antriebsräder
+und Kupplungen
+
+Glühzündungen durch starken
+Kohlenansatz im Zylinder,
+vorstehende Dichtungen und
+zu mageres Gemisch ;
+
+Unzureichende Batterieladung durch Riemenschlupf
+
+Arbeitsschutzanordnung 361/2,
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Bedeutung der Zündschaltung
+mit Transistoren
+
+Aufbau und Schaltung sowie
+Umgang mit Transistoren und
+Dioden:
+
+Typen, Schaltungen und Bauelemente der Transistoren
+und Dioden
+
+Theorie der transistorisierten Zündung
+
+Automatische Verschiebung
+
+e
+w
+S
+
+S
+
+77 =
+
+2
+
+Erkennen und beseitigen
+von Fehlern am Steuerspannungsgenerator
+
+Überprüfen und Reparieren
+des gekoppelten TDransistorenverstärkers
+
+Prüfen und Messen sowie
+Auswechseln des Hochspannungsübertragers
+
+Einhalten der Arbeitsschutzanordnungen und
+Sicherheitsbestimmungen
+sowie der TGL-Vorschriften
+
+S
+
+Sammler (Starterbatterie)
+
+Aus- und Einbauen sowie Anschließen von Sammlern
+
+Auswechseln von Batterie
+klemmen 
+Durchführen von Zustandsprüfungen
+Neu- und Nachfüllen sowie
+
+richtiges Anschließen des
+Sammlers an das Ladegerät
+
+Beobachten des Ladevorganges und Messen der Spannung während des Ladens
+
+Stoßbelastungsprüfung nach
+dem Laden —- Kapazitätsproben =
+Instandsetzen der Sammler
+
+Einhalten der Arbeits
+schutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften ;
+
+Ladegeräte
+Laden von Sammlern mit ent
+sprechenden Geräten in Rei
+hen- und Parallelschaltung
+
+Pflege- und Wartungsarbeiten an Gleichrichtern und
+Maschinen sowie an den dazugehörigen Anlageteilen
+
+en
+
+3
+
+des Zündzeitpunktes
+
+Leistungsverbrauch
+
+Wirkungsweise der Schaltung
+
+Stahbilitätsbetrachtungen
+
+Üben des Arbeitens mit
+Schaltzeichnungen
+
+Arbeitsschutzanordnung 361/2,
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Lagern und Transportieren
+von Sammlern
+Ordnungsgemäßer Umgang mit
+Säuren, Laugen und destilliertem Wasser .
+
+Prüfmöglichkeiten der Kapa
+zität und Belastbarkeit
+
+Einfluß der Temperatur auf
+die Kapazität
+Einfluß des Ladezustandes
+auf die Dichte des Elektrolyts
+
+Sondervorschriften für alkalische Sammler
+
+Erläutern möglicher Instandsetzungsarbeiten
+
+Arbeitsschutzanordnung 361/2,
+Sicherheitsbestimmungen und
+
+TGL-Vorschriften
+
+Aufbau und Wirkungsweise von
+Ladegleichrichtern
+
+Regelung der Ladestromstärke
+in Abhängigkeit von der
+Spannung
+
+\
+= 758 =
+
+3
+
+370
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften
+
+Aufbau und Wirkungsweise
+von Umformern
+
+Sicherheitsmaßnahmen beim
+Ausbleiben der Netzspannung
+
+Notwendigkeit getrennter
+Räume für Blei- und alkelische Sammler
+
+Gefahrenquellen durch Säure
+bzw. Knallgasbildung
+
+Bestimmungen über die tech
+nische Sicherheit für Batterieräume
+
+Arbeitsschutzanordnung 361/2,
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Kraftfahrzeug-Elektroaggregate
+
+Anlasser und Generatoren (Lichtmaschinen)
+
+Anlasser
+
+Prüfen der Anlasserleitungen und Batterieanschlüsse
+
+Aus- und Einbauen der Anlasser
+
+Prüfen der Einzelteile auf
+elektrische und mechanische
+
+Fehler
+
+Überdrehen, Aussägen und
+Einlöten der Kollektoren
+
+Bandagieren der Anker und
+Feldspulen
+
+Erneuern ausgelaufener Lager und Auswechseln von
+Ritzeln
+
+Untersuchen von Möglichkeiten zur Anderung der Dreh
+richtung
+
+Instandsetzen der Hand-,
+Fuß- und Magnetschalter
+
+Zusammenbauen der Anlasser
+Prüfen auf dem Prüfstand
+
+Aufbau, Eigenschaften und
+Schaltung der verschiedenen Anlassertypen
+
+Schraubtrieb-, Schubtrieb-,
+Schubschraubtrieb- und
+Schubankeranlasser
+(Einspurvorgang)
+Anlasserprüfstand zur Prüfung unter Betriebsbedingungen
+
+Anlaßströme, Anlasserleitung
+
+Übergangswiderstände
+Lagerung der Anlasseranker
+
+Besonderheiten der Anlasser-.
+kohlebürsten
+
+Kuppelteile
+
+Freiläufe
+
+Ritzel
+
+Feldwicklungen
+
+Fuß- und Magnetschalter
+Batterieumschalter
+Funktionsprüfung im Kraitfahrzeug
+Einhalten der Arbeitsschutzanordnungen, Sicher.heitsbestimmungen und TGLVorschriften
+
+Lichtmaschinen (allgemein)
+
+. Vorprüfen der Lichtmaschine im Fahrzeug
+
+Ausbauen von Lichtmaschinen
+
+die nicht mit Zündern gekuppelt sind und.nicht von
+Steuerketten angetrieben
+werden
+
+Einbauen von Lichtmaschinen und Prüfen des Antriebes
+
+Auflegen und Spannen von
+Keilriemen
+
+Einhalten der Arbeitsschutzanordnungen, Sicher
+Arbeitsschutzanordnung 361/2,
+
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Arten von Lichtmaschinen in
+Kraftfahrzeugen
+
+Antrieb der Lichtmaschinen
+
+Lichtmaschinen kombiniert
+mit anderen Baugruppen:
+
+Lüfter
+Verteiler
+Magnetzünder
+
+Arbeitsschutzanordnung 361/2,
+Sicherheitsbestimmungen und
+
+heitsbestimmungen und TGL- TGEL-Vorschriften
+Vorschriften
+Lichtmaschinen (spann sregelnd)
+
+Zerlegen und Reinigen der
+verschiedenen Lichtmaschinentypen
+
+Mechanisches und elektri
+sches Prüfen der Einzelteile
+
+Bedienen der Prüfeinrichtungen ;
+Überdrehen, Aussägen sowie
+Einlöten der Kollektoren
+Bandagieren der Anker und
+Feldspulen
+Einpassen der Gleit- und
+Kugellager
+Einhalten der Arbeitsschutzanordnungen, Sicher
+heitsbestimmungen und TGLVorschriften
+
+Aufbau, Eigenschaften und
+Schaltungen der spannungSregelnden Lichtmaschinen
+
+Zwei- und mehrpolige Lichtmaschinen
+
+Lagerung des Ankers
+
+Prüfeinrichtungen und die
+Notwendigkeit mechanischer
+und elektrischer Prüfungen
+
+Reglersysteme und deren Einstellung
+
+Arbeitsschutzanordnung 361/2,
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+= BO =
+
+2
+
+Dynastartanlagen
+Prüfen der Dynastartanlage
+
+Aus- und Einbauen
+Reinigen und Prüfen
+
+Überdrehen und Aussägen
+der Kollektoren
+
+Beseitigen von Isolationsfehlern
+
+Befestigen lockerer Feldspulen
+
+Beseitigen von Feldunterbrechungen
+
+Erneuern der Schleifkohlen,
+Kondensatoren und Kontakte
+
+Einstellen der Zündung
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften
+
+Erläutern der verschiedenen
+Systeme von Dynastartanlagen
+
+Aufbau und Sehaltungen der
+Maschinen und Regeleinrich
+tungen
+
+Auftretende Störungen und
+deren Beseitigung
+
+Arbeitsschutzanordnung 361/2
+
+Sicherheitsbestimmungen und
+
+TGL-Vorschriften
+
+Wechsel- und Drehstromgeneratoren
+
+Zerlegen und Reinigen
+
+Mechanisches und elektrisches Prüfen der Einzelteile
+
+Einpassen der Kugellager
+
+Auswechseln oder Instandsetzen der Gleichrichtungsbauelemente
+
+Bedienen der Prüfeinrichtungen
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften
+
+Spulenprüfung
+
+Prüfen der Lichtmaschinen
+und Anlasserankerwicklungen
+sowie der Feldspulen mit
+Wechselstrom-Ankerprüfgeräten (Prüfen auf Windungsschluß und Unterhrechung)
+
+Aufbau, Eigenschaften und
+
+Schaltung
+
+Lagerung des Ankers
+
+Prüfeinrichtungen für notwendige mechanische und
+elektrische Prüfungen
+
+Anwendung und Schaltung der
+Gleichrichter
+
+Baureihentypen von Dioden
+
+Arbeitsschutzanordnung 361/2
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Anwendung des Transformators
+in der Kraftfahrzeugelektrik
+
+Prüfgeräte nach dem Transformatorprinzip
+
+Vorsichtsmaßnahmen beim
+Prüfen
+280
+
+= B1 =
+
+2
+
+Prüfen der Zündspulen und
+Zündankerkerne
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften:
+
+Schaltpläne
+
+Skizzieren der Schaltungen
+und Schaltpläne am Fahrzeug
+
+Installation
+
+Ausbauen der alten Leitungen
+
+Untersuchen der einzelnen
+Kabelstränge auf Brauchbarkeit
+
+Abmessen und Zuschneiden
+
+des benötigten Leitungsund Isoliermaterials
+
+Sachgemäßes Verlegen des
+Leitungsnetzes
+
+Anschließen des Sechaltkasbtens und der Verbraucher
+
+Durchführen der Funktionsprüfungen ;
+
+Verlegen der Leitungen in
+Fahrzeugen mit Rundfunkempfängern in Aufnahmeund Lautsprecherwagen
+
+Verlegen der Leitungen in
+Spezialfahrzeugen z.B.
+Tankwagen
+
+Verlegen von Aluminiumleitungen
+
+Einhalten der Arbeitsschutzanordnungen, Sicher
+heitsbestimmungen und TGLVorschriften
+
+Arbeitsschutzanordnung 361/2
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Grundlagen der Schaltpläne
+
+in bezug auf das, Unterrichts
+fach Fachzeichnen erläutern
+
+Aufbau des Leitungsnetzes
+entsprechend der Eigenart
+des Fahrzeuges
+
+Entwickeln des Schaltbildes
+an Hand der einzubauenden
+Baugruppen ;
+
+Unterschiede der Leitungsnetze bei Diesel- und Ottomotoren hervorheben
+
+Festlegen der Leitungsquerschnitte entsprechend ihrer
+Belastung .
+
+‘Beachten der gesetzlichen
+Vorschriften
+
+StVZO)
+
+Erziehen zur gewissenhaften
+und qualitätsgerechten Ausführung der Arbeitsaufträge
+
+Arbeitsschutzanordnung 361/2
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Installation unter Berücksichtigung d6g Fahrgestells
+
+Verlegen der Leitungen an
+
+Spezialfahrzeugen unter Be
+rücksichtigung der verschie
+denen Lenkeinschläge und
+
+Sonderbestimmungen. für das
+Verlegen der Leitungen in
+Kippfahrzeugen, Anhängern,
+Fahrzeugen mit Drehkranz,
+
+Eigenarten des Fahrzeuges Tankwagen, Motorrädern und
+Dreiradwagen
+
+Einhalten der Arbeits- Arbeitsschutzanordnung 361/2
+schutzanordnungen, Sicher- Sicherheitsbestimmungen und
+heitsbestimmungen und TGL-- TGL-Vorschriften
+Varsehriften
+
+150 Beleuchtung und elektrische Zusatzeinrichtungen
+
+Scheinwerfer
+Ab= und Anbauen der Schein- Aufbau und Befestigungsar
+werfer ten der Scheinwerfer nach
+
+Anfertigen oder Auswechsein der StVZO
+der Scheinwerferbefestigun- Einwandfreie Masseverbingen . dungen (Spannungsverluste)
+
+Ausrichten der Scheinwerfer
+nach den Vorschriften der
+
+StVZO
+
+Instandsetzen von Schein- Regeln für das Instandset-
+werfern und Anschließen zen der Scheinwerfer
+
+der Loeitungen Beachten der Wasser- und
+
+Fernlichtkontrolle ; Staubdichtigkeit
+Wirkungsweise der Bilurlampe ;
+
+Einhalten der Arbeits- . Arbeitsschutzanordnung 361/2
+
+schutzanordnungen, Sicher- Sicherheitsbestimmungen und
+heitsbestimmungen und TGL- TGL-Vorschriften
+
+Vorschriften
+Nebellampen - Sucher =- Positionslampen
+
+Breitstrahler - Nebellam
+Ab- und Anbauen der Zusatz- Anbau- und Befestigungsmög
+scheinwerfer lichkeiten für Zusatzlampen >
+Anfertigen der Stützen und nach der StVZO
+Haiter ; Höchstzulässige Wattzahl der
+
+gleichzeitig eingeschalteten
+Verlegen der Leitungen Beleuchtungseinrichtungen
+Anbringen der Zusatzschal- zur Fahrbahnbeleuchtung
+
+ter ; 2 a
+
+Sonderbestimmungen über
+Ausrichten der Scheinwerfer Such- und Rückfahrscheinund Nebellampen nach StvZO0 werfer
+
+. Einhalten der Arbeits- Arbeitsschutzanordnung 361/2
+schutzanordnungen, Sicher- Sicherheitsbestimmungen und
+heitsbestimmungen und TGL- TGL-Vorschriften
+Vorschriften
+Brems-, Rück-und Kennzeichenleuchten - Fahrtrichtungsanzeiger - Signalhörner (elektrisch
+
+Ab- und Anbauen der BremsSlicht-, Kennzeichen- und
+Rückleuchten sowie Bremslichtkontrollie
+
+Anfertigen der Halter
+
+Einbauen der Bremslichtschalter
+
+Anbauen und Kontrollieren
+der Blinker, Blinkautomaten und deren Schalter
+
+Anfertigen der Halterungen
+für Signalhörner
+
+Einhalten der Arbeits-.
+schutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften
+
+Blinkanlagen
+
+Thermisch, elektromagnetisch gesteuerte Blinkan
+lagen
+
+Einstellen und Anschließen
+sowie Korrigieren der Geber
+
+Elektronisch gesteuerte
+Blinkanlagen
+Volltransistorisiert gesteuerte Blinkanlagen
+
+Erkennen und Beseitigen
+von Fehlern
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGLVorschriften
+
+Einbauern von Scheibenwi
+schern, Heizscheiben, Klar
+sichtscheiben
+(Intervallschalter)
+
+Arbeitsschutzanordnung 361/2
+
+Aufbau der zur Beleuchtung
+und Signaleinrichtung gehörenden Teile
+
+Anbaumöglichkeiten der Brems-,
+Rück- und Kennzeichenleuchte,
+Blinker und Signalhörner
+
+Beachten und Einhalten der
+Vorschriften der StVZO
+
+Sicherheitsbestimmungen und
+
+TGL-Vorschriften
+
+Aufbau, Wirkungsweise und
+Schaltung
+
+Einkreis- und Zweikreisblinklichtanlagen
+
+Bedeutung und Wirtschaftlichkeit der volltransistorisierten Blinkgebung
+
+Blinkfrequenzen
+Schaltungen
+
+Typen und Bauelemente der
+Transistoren und Dioden
+
+Arbeitsschutzanordnung 361/2
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Geräte zur Sichtverbesserung
+
+Aufbau der Wischer, Heiz-.
+und Klarsichtscheiben sowie der Intervallschalter
+
+Raparaturmöglichkeiten an
+
+Instandsetzen und Montieren den Geräten zur Sichtver
+der Geräte
+
+Beachten der Vorsichtsmaßnahmen bei der Arbeit
+
+besserung
+2
+
+3
+
+Instandsetzen der Schaltkästen und Schalter
+
+Aus- und Einbauen der
+Schalter und Schaltkästen
+
+Öffnen und Zerlegen der.
+Schalter und Schaltkästen
+
+Auswechseln oder Anfertigen von Einzelteilen
+
+Erneuern, Aufschweißen und
+Bearbeiten der Strombrükken und Stromschienen
+
+‚Prüfen der Magnetspulen
+Einstellen und Prüfen der
+
+Magnetschalter
+Einhalten der Arbeits- /
+
+schutzanordnungen, Sicher
+heitsbestimmungen und TGL
+. Vorschriften
+Aus- und Einbauen von Rundfunkempfängern
+
+Aus- und Einbauen der verschiedenen Typen von Rundfunkempfängern für Kraftfahrzeuge
+
+Verlegen und Anschließen
+
+der Zuleitungen und Anten
+nenleitungen
+
+Einhalten der Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGIVorschriften
+
+Erläutern der Einbauvorschriften
+Aufbau und Anwendung. als
+Licht-, Zünd- und Anlaßschalter
+
+Magnetschalter als Licht-,
+Zünd- und Anlaßschalter
+
+Wahl der richtigen Schalter
+entsprechend der Belastung
+
+Arbeitsschutzanordnung 361/2
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Regeln für das Aus- und Ein
+bauen
+Halterungen und Schutz ge
+gen starke Erschütterungen
+
+Leistungsbedarf und Sicherungen
+
+Arbeitsschutzanordnung 361/2
+Sicherheitsbestimmungen und
+TGL-Vorschriften
+
+Systematische Fehlersuche im Leitungsnetz
+
+Systematische Fehlersuche
+im Leitungsnetz unter Verwendung des Spannungsmessers und der Prüflampe
+
+Beseitigen von Kurzschlüssen und Unterbrechungen
+
+Auswechseln von Sicherungen
+
+Anwenden der Schaltpläne
+und Erkennen der Ursachen
+
+für häufig auftretende Störungen bei verschiedenen
+
+Fahrzeugtypen
+
+Prüf- und Meßmethoden für
+die Fehler- und- Störungs=
+suche
+
+Systematik der Fehlersuche
+
+Ursachen für das Durchschmelzen von Sicherungen
+1 2 3.
+
+300
+
+dern
+Prüfen der elektrischen
+
+—
+
+Ausführen sämtlicher Instandsetzungsarbeiten an
+den elektrischen Anlagen
+der Kraftfahrzeuge
+
+Arbeiten an Taktstraßen,
+Fließ- und Reparaturbän
+Einrichtungen von Kraftfahrzeugen nach technischen
+Unterlagen ;
+
+Mitarbeit an modernen Prüfständen und -anlagen
+
+Feststellen von Störungen
+Teilnahme an Probefahrten
+
+Mitarbeit in der Gütekontrolle
+
+Zielstrebige Mitarbeit in
+der Neuererbewegung und
+Anwenden von Neuerermetho
+den .
+
+Aktive Teilnahme an den
+Produktionsberatungen der
+Brigaden
+
+Beachten und Einhalten der
+Arbeitsschutzanordnungen,
+Sicherheitsbestimmungen und
+GL-Vorschriften
+
+Grundregeln für selbständiges und schöpferisches Arbeiten in der Kraftfahrzeugmontage bzw. in den Reparaturabteilungen
+
+Bekanntmachen mit den beson
+deren Einrichtungen für die
+
+Instandsetzung der elektrischen Anlage in Kraftfahrzeugen, insbesondere mit Geräten der Kleinmechanisierung
+
+Erläutern der Schnellreparatur in der Kundendienstabteilung
+
+Das Vorbereiten der Fahrzeuge für die Instandsetzung
+
+Produktions- bzw. Reparaturprogramme der Abteilung
+
+Zweck und Ziel der Produktionsberatung
+
+Wirtschaftliche Arbeitsverfahren und -methoden
+
+Vermitteln der jeweils zutreffenden Arbeitsschutzanordnungen, Sicherheitsbestimmungen und TGL-Vorschriften
+
+Einarbeiten in das künftige Arbeitsgebiet
+
+Unmittelbare Vorbereitung
+auf die künftige Facharbeitertätigkeit
+
+Gütekontrolle nach technischen Unterlagen
+
+Gesellschaftliche Bedeutung
+der Selbstkontrolle ;
+
+Dieser Einsatz muß zum Erreichen der vollen Facharbeiterleistung und -qualität führen
+
+S S
+
+Im Rahmen des berufspraktischen Unterrichts sind folgende
+Prüfungsgebiete vorzusehen:
+
+1o
+2
+3e
+4
+D
+
+Metallbearbeitung
+
+Messen - Prüfen —- Fehlersuche
+Kraftfahrzeug-Elektrvaggregate
+Zuündung
+
+Schalten und Installieren
+44
+
+Herausgeber: Zentralstelle für Bildung des Ministeriums für Verkehrswesen
+
+1-20-1 4571 Ag 130/313/75 A
+
+A
+
+.
+z
+.
+4
+.
+. ;
+. 1
+. . +
+5
+\ r
+a
+
